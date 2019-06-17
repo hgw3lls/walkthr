@@ -1,0 +1,119 @@
+C E N T I P E D E
+by J. Robinson Wheeler
+
+The true story of Centipede, revealed.  This game is famously believed
+to be impossible to win; this is almost true.  If you wait until you
+are cued, you will not have time to take all the actions necessary to
+beat the game.
+
+But to get a feel for the game, you should really play it through once
+or twice just to see how it goes.  Centipede really shines in that
+everything is extremely tightly timed, but even screwing everything up
+weaves the failures into the continuing ongoing narrative.  This
+capability is really quite unique, and Centipede pushes it to its
+logical extreme.  Centipede *greatly* rewards replay and
+experimentation.
+
+But you're not reading a walkthrough because you want to experiment,
+you're reading it because you want to win.  OK.  Let's start by
+humoring our squadmate:
+
+> X HOLOVID
+> PUSH ZIPPER
+
+Well, there's no accounting for taste, I suppose.  In any case.  To
+business: we need to activate the parachutes when Chub orders us to.
+
+> UP
+> X PANEL
+> X SUIT
+> X CHUB
+> X DUGGERS
+> X MITCHUM
+
+Chub hasn't ordered us to do this *yet*, but we won't have time to do
+it when she does order us, because the ship will sink too fast.  So
+we'll just claim that we're interpreting Chub's sudden bout of
+swearing as our cue to call for help from the Defender.
+
+> LAUNCH BEACON
+> FLIP DISTRESS
+
+... and that's our cue:
+
+> PULL LEVER
+
+Chub knows what she's talking about; follow your orders.
+
+> STRAP IN
+> X BACKPACK
+> X BELT
+> X CHARLENE
+> STAND
+> OUT
+> STAND
+> STAND
+> CLEAN FACEPLATE
+> OPEN BACKPACK
+> X STIMS
+> X LETTER
+
+And we are cleared to fire!  Actually, from this point on you might
+want to try playing honestly.  There's still one genuine puzzle left
+at this point, and you probably didn't reach it when you were playing
+around before.
+
+> SHOOT CENTIPEDE
+> SHOOT CENTIPEDE
+> SHOOT CENTIPEDE
+> SHOOT CENTIPEDE
+> SHOOT TICK
+> SHOOT TICK
+> SHOOT TICK
+
+One down.  Two lives remaining.
+
+> SHOOT CENTIPEDE
+> SHOOT MUSHROOMS
+> SHOOT TICK
+> SHOOT TICK
+> SHOOT CENTIPEDE
+> SHOOT CENTIPEDE
+
+Last life!  Fortunately, that's you.
+
+> SHOOT CENTIPEDE
+> SHOOT CENTIPEDE
+> SHOOT CENTIPEDE
+> SHOOT MUSHROOMS
+> SHOOT TICK
+> SHOOT CENTIPEDE
+
+A rescue ladder!  Good thing we sent out that distress call.  However,
+what with our bad arm and everything, we can't actually climb the
+ladder fast enough to save ourselves from the oncoming tick.  Our suit
+is too heavy.  Fortunately, that's easy enough to fix:
+
+> REMOVE SUIT
+> UP
+> UP
+> UP
+
+This walkthrough ends up getting you a little over half the maximum
+possible points.
+
+A somewhat lower scoring ending can be reached via rampant drug abuse:
+
+> TAKE STIMS
+> UP
+> UP
+
+Quite a score hit.  Just like all the arcade cabinets said: Winners
+Don't Use Drugs.
+
+And that's the walkthrough.  Wheeler himself said that he considers it
+"one of [his] best works, although because it came bundled
+(anonymously) inside the "IF-Arcade" pack of games, it didn't get much
+attention during the awards season 14 months later."  It does deserve
+a good deal of attention, though, as its "story daemon" approach is
+one of the boldest structural experiments out there.

@@ -1,0 +1,45 @@
+Solution to Bedlam
+==================
+
+Your room
+stand; look under bed > bat; hit clock with bat
+
+Bathroom
+open cabinet > bottle
+
+Kitchen
+open oven > mitts
+
+Garage
+open washing machine > clothes; wear clothes
+
+Patio
+give bottle to tony > pill; eat pill
+
+Front Yard
+(wearing clothes) get axe
+
+Living room
+"wife, clean room" > broom & pan
+
+Tony's room
+clean room > desk (with broom & pan)
+open desk > tube & screwdriver
+
+Your room
+pry drawer with screwdriver; hit dresser with axe > splinter
+wear mitts; search splinter > bible; open bible > coin & bill
+
+Patio
+glue coin to bricks (with tube); s & n > magnifying glass
+
+Living room
+open curtains; burn cord with glass; ask wife about keys > keys
+
+Garage
+open car; enter car; start car (with keys)
+
+
+*************************
+Solved by Ambat Sasi Nair
+*************************

@@ -1,0 +1,22 @@
+Asylum
+
+game system: zcode
+
+get key
+unlock closet with key
+open closet
+get key
+open globe
+get hammer
+unlock drawer with wooden
+get glass
+smash glass
+search drawer
+get black
+unlock box with black
+open box
+get chisel
+smash wall
+n
+
+YOU WIN!

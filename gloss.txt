@@ -1,0 +1,846 @@
+Anchorhead Glossary
+“Why a glossary?”
+Many university professors and New York Times writers like to flaunt their superior vocabularies in an effort to appear more intellectual than they really are.  IF writers tend to do the same, but at least they have something productive to show for it.
+The problem is that most of us yokels end up having a hard time playing through a game or enjoying it as much as we could, due to the use of words far above the average reading level.  That is all the more true in this case, because not everybody who enjoys Anchorhead (or should) has read Lovecraft.  Along the way of creating a playthrough and putting it into a quasi-professional package, I realized that a glossary would probably be necessary.
+To help prevent spoilers, I sorted the entries according to the order you encounter the words, not alphabetically.  One more thing is that the same word might be listed more than once (“Vanity,” for example).  That is because such words have more than one meaning, and each of those meanings are used in their respective contexts within the story.
+	•	Portents: signs or warnings that something, especially something momentous or calamitous, is likely to happen.  “You take a deep breath of salty air as the first raindrops begin to spatter the pavement, and the swollen, slate-colored clouds that blanket the sky mutter ominous portents amongst themselves over the little coastal town of Anchorhead.”
+	•	Glowering: having an angry or sullen look on one’s face; scowling.  “Squinting up into the glowering storm, you wonder how everything managed to happen so fast.”
+	•	Bewildering: causing someone to become perplexed and confused.  “The strange phone call over a month ago, from a lawyer claiming to represent the estate of some distant branch of Michael’s family, was bewildering enough in itself…”
+	•	Melancholy: sad and pensive, typically with no obvious cause.  “You shake yourself and force the melancholy thoughts from your head, trying to focus on the errand at hand.”
+	•	Precarious: dependent on chance, uncertain.  “He’ll be back to pick you up in a few minutes, and then the two of you can begin the long, precarious process of settling in.”
+	•	Sullen: bad-tempered and sulky; gloomy.  “A sullen belch emanates from the clouds, and the rain starts coming down harder …”
+	•	Cobblestones: stones that were frequently used in the pavement of early streets.  “...fat, cold drops smacking loudly against the cobblestones.”
+	•	Gothic: a genre or mode of literature that combines fiction, horror, death, and Romanticism.  “An interactive gothic by Michael S. Gentry”
+	•	Cul-de-sac: a street with only one inlet/outlet.  “A grim little cul-de-sac, tucked away in a corner of the claustrophobic tangle of narrow, twisting avenues that constitute the older portion of Anchorhead.”
+	•	Spatters: sprays or splashes of something.  “It’s coming down in uneven spatters, broken by intermittent gusts.”
+	•	Intermittent: occurring at irregular intervals; not continuous or steady.  “It’s coming down in uneven spatters, broken by intermittent gusts.”
+	•	Seething: bubbling up as a result of being boiled.  “The sky is an unbroken blanket of seething gray clouds in every direction.”
+	•	Rattled: made to feel nervous, worried, or irritated.  “A bit rattled by recent events, perhaps, but well-poised and collected, all the same.”
+	•	Poised: having a composed and self-assured manner.  “A bit rattled by recent events, perhaps, but well-poised and collected, all the same.”
+	•	Ensemble: a group of items viewed as a whole rather than individually.  “A tasteful ensemble from Ann Taylor in muted browns and olive greens …”
+	•	Muted: not bright; subdued.  “A tasteful ensemble from Ann Taylor in muted browns and olive greens.”
+	•	Inscription: words or symbols written or carved on something, especially as a formal or permanent record.  “Usually you feel almost naked without your ring on, although sometimes you do find yourself taking it off briefly, just to read the inscription along the inside.”
+	•	Snugness: the state or quality of being snug (very tight or close-fitting).  “The gold band slides onto your finger with a comforting snugness.”
+	•	Watering hole: a place (such as a bar) where people gather to drink.  “A short flight of steps to the north leads down to the local watering hole.”
+	•	Heath: an area of open, uncultivated land.  “To the north, a gap in the crowded press of gloomy buildings opens onto a country lane, heading out over a grassy heath.”
+	•	Vaulted: provided with an arched roof or roofs.  “The main street continues to the east, while to the northwest, over the top of a steep rise, you can just make out the vaulted rooftops of the university.”
+	•	Serene: calm, peaceful, and untroubled; tranquil.  “Isolated and serene within its high, ivy-covered walls, …”
+	•	Benighted: in a state of pitiful or contemptible intellectual or moral ignorance, typically owing to a lack of opportunity.  “... Miskaton University represents this benighted town’s single, if dubious, claim to cultural achievement.”
+	•	Dubious: not to be relied upon; suspect.  “... Miskaton University represents this benighted town’s single, if dubious, claim to cultural achievement.”
+	•	Abyss: a deep or seemingly bottomless chasm.  “Founded some time in the early 1800s, the school’s reputation and enrollment have diminished somewhat as Anchorhead drifts further and further into the abyss of provincial backwaterism.”
+	•	Provincial: of or concerning the regions outside the capital city of a country, especially when regarded as unsophisticated or narrow-minded.  “Founded some time in the early 1800s, the school’s reputation and enrollment have diminished somewhat as Anchorhead drifts further and further into the abyss of provincial backwaterism.”
+	•	Backwater(ism): a place or condition in which no development or progress is taking place.  “Founded some time in the early 1800s, the school’s reputation and enrollment have diminished somewhat as Anchorhead drifts further and further into the abyss of provincial backwaterism.”
+	•	Folklore: the traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth.  “Still, it is generally regarded for its collection of folklore and esoteric mythology (one of the oldest and most extensive on the east coast).”
+	•	Esoteric: intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.  “Still, it is generally regarded for its collection of folklore and esoteric mythology (one of the oldest and most extensive on the east coast).”
+	•	Deans: heads of a college or university faculty or department.  “The Board of Deans was also kind enough to offer Michael a full professorship …”
+	•	Heritage: property that is or may be inherited; an inheritance.  “...upon hearing of his recently discovered heritage and his plans to move into the estate.”
+	•	Ivory Tower: a state of privileged seclusion or separation from the facts and practicalities of the real world.  “Ivory Tower, perhaps, but at least they take care of their own.”
+	•	Cobbled: paved with cobbles.  “There are numerous buildings surrounding this cobbled court, …”
+	•	Colonnade: a row of columns supporting a roof, an entablature, or arcade.  “The main entrance lies behind a colonnade of white Doric columns.”
+	•	Doric: relating to or denoting a classical order of architecture characterized by a sturdy fluted column and a thick square abacus resting on a rounded molding.  “The main entrance lies behind a colonnade of white Doric columns.”
+	•	Roost: settle or congregate for rest or sleep.  “Shadows roost thickly in the vaulted ceiling …”
+	•	Alcove: a recess, typically in the wall of a room or of a garden.  “An exit lies east, and a small alcove to the north houses the circulation counter.”
+	•	Tome: a book, especially a large, heavy, or scholarly one.  “... you spot your husband sitting at one of the reading desks, absorbed in some sort of weighty tome and clearly oblivious to the time.”
+	•	Sheepish(ly): showing embarrassment from shame or a lack of self-confidence.  “He smiles sheepishly.”
+	•	Obscuring: keeping from being seen; concealing.  “Michael casually places his hand on the book, obscuring its title.”
+	•	Musty: having a stale, moldy, or damp smell.  “Musty old stuff.”
+	•	Aperture: an opening, hole, or gap.  “This narrow aperture between two buildings is nearly blocked with piles of rotting cardboard boxes and overstuffed garbage cans.”
+	•	Transom(-style) window: a window set above the transom of a door or larger window; a fanlight.  “High up on the wall of the northern building there is a narrow, transom-style window.”
+	•	Clamber: climb, move, or get in or out of something in an awkward or laborious way, typically using both hands and feet.  “You clamber onto the wobbling garbage can, precariously balanced.”
+	•	Precariously: not securely held or in position; dangerously likely to fall or collapse.  “You clamber onto the wobbling garbage can, precariously balanced.”
+	•	Murk: darkness or thick mist that makes it difficult to see.  “Peering through the murk, you can make out the blocky outlines of filing cabinets lining the walls and a doorway to the west.”
+	•	Pallid: feeble or insipid.  “Pallid gray light trickles in through the drawn blinds.”
+	•	Strewn: scattered or spread untidily over a surface or area.  “Sitting on the corner of the paper-strewn desk are a telephone and an answering machine.”
+	•	Skirls: shrill, wailing sounds.  “For a while there is nothing but a quiet hiss, followed by strange skirls of strange-sounding static.”
+	•	Flutter: fly unsteadily or hover by flapping the wings quickly and lightly.  “As you open the book, a slip of paper falls from its pages and flutters to the ground.”
+	•	Circulation: the public availability or knowledge of something.  “He takes the book up to the circulation desk and hands it to the librarian.”
+	•	Hoary: grayish-white.  “A hoary monument of crumbling, moss-eaten flagstones, Whateley Bridge is possibly older than any other structure in the entire city.”
+	•	Ponderously: slowly and clumsily because of great weight.  “Ponderously it spans the dark, torpid waters of the Miskaton River, …”
+	•	Torpid: mentally or physically inactive; lethargic.  “Ponderously it spans the dark, torpid waters of the Miskaton River, …”
+	•	Mortar: any of various materials or compounds for bonding together bricks, stones, etc.  “... occasionally raining bits of gravel and mortar from its underside into the water.”
+	•	Flanking: situated on each side of or on one side of something.  “It looks just wide enough for two cars to pass each other between the flanking stone parapets, …”
+	•	Parapets: a low protective wall along the edge of a roof, bridge, or balcony.  “It looks just wide enough for two cars to pass each other between the flanking stone parapets, …”
+	•	Incredulous(ly): unwilling or unable to believe something.  “‘What in god’s name are you doing?’ he asks incredulously.”
+	•	Pavestones: paving stones.  “A wide expanse of uneven pavestones lies open to the sky, …”
+	•	Municipal: of or relating to a city or town or its governing body.  “The municipal courthouse stands at the south end of the square, …”
+	•	Obelisk: a stone pillar, typically having a square or rectangular cross section and a pyramidal top, set up as a monument or landmark.  “In the center of the square, rising from a circular lawn of unhealthy-looking grass and weeds, stands a strange, stone obelisk.”
+	•	Riverwalk: a pedestrian street alongside a river typically developed as a canal, intended for tourism.
+	•	Sinuous: having many curves and turns.  “A low, irregular brick wall to the north divides this street from the steep, mud-slick banks of the sinuous Miskaton, …”
+	•	Perceptibly: able to be seen or noticed.  “... the temperature along the street seems perceptibly cooler than normal, even for a New England autumn.”
+	•	Clammy: unpleasantly damp and sticky or slimy to touch.  “A clammy mist hangs thickly in the air, seeping through your clothes and making you shiver.”
+	•	Deferentially: showing deference (humble submission and respect).  “As you walk through, the mists part before your husband almost deferentially, quickly dissolving away into nothing.”
+	•	Panoramic: with a wide view surrounding the observer; sweeping.  “The treeline falls away on the north side of this northwest-northeast bend in the road, giving way to a panoramic view of the Miskaton River Valley and the grubby little town of Anchorhead nestled within it.”
+	•	Dilapidated: in a state of disrepair or ruin as a result of age or neglect.  “From here you can see the paper mill almost directly to the north; the solitary lighthouse and surrounding ocean to the northeast; and the dilapidated stone church below you to the east.”
+	•	Looms: appears as a shadowy form, especially one that is large or threatening.  “The fabled Verlac mansion looms before you in the gloom, its dark creaking presence dominating the clearing …”
+	•	Foreboding: implying or seeming to imply that something bad is going to happen.  “The foreboding shadow of the Verlacs seems to enshroud all of Anchorhead from here.”
+	•	Foyer: an entrance hall or other open area in a building used by the public, especially a hotel or theater.
+	•	Rickety: poorly made and likely to collapse.  “The stairs leading up to the second floor are steep and rickety.”
+	•	Timid: showing a lack of courage or confidence; easily frightened.  “It is a house that makes you feel tiny and timid, and afraid of dark places.”
+	•	Sprawling: sitting, lying, or falling with one’s arms and legs spread out in an ungainly or awkward way.  “The reality of this move finally slams home as you stare at the sprawling jumble of stuff, …”
+	•	Adrift: without purpose or guidance; lost and confused.  “The reality of this move finally slams home as you stare at the sprawling jumble of stuff, and suddenly you feel very lost and adrift.”
+	•	Residual: remaining after the greater part or quantity has gone.  “There is probably just enough residual ambience to feel your way upstairs to the bedroom, …”
+	•	Tenebrous: dark, shadowy, or obscure.  “... the rest of the house is a tenebrous maze of shadows, and any exploring would probably best be done in the morning.”
+	•	Landing: a level area at the top of a staircase or between one flight of stairs and another.
+	•	Rustic: of or related to the countryside; rural.  “The master bedroom is a picture-postcard of rustic New England charm.”
+	•	Adorn: make more beautiful or attractive.  “Faded sketches of rural landscapes adorn the walls; …”
+	•	Four-poster: a bed with a post at each corner, sometimes supporting a canopy.  “The most striking feature, an enormous, antique, four-poster bed, must be the largest piece of furniture in the house.”
+	•	Aura: the distinctive atmosphere or quality that seems to surround and be generated by a person, thing, or place.  “... you can’t help but be put off by the shady aura surrounding the family that used to live here.”
+	•	Fitfully: not regularly or continuously; intermittently.  “... tonight he tosses fitfully, as if plagued by dreams.”
+	•	Moribund: at the point of death.  “They’re quite pretty, actually, lending an air of comfort to an otherwise cold and moribund house.”
+	•	Slithers: moves smoothly over a surface with a twisting or oscillating motion.  “... as the wind slithers around the eaves and the house creaks furtive secrets to itself, you drift into troubling dreams.”
+	•	Furtive: attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.  “...as the wind slithers around the eaves and the house creaks furtive secrets to itself, you drift into troubling dreams.”
+	•	Coverlet: a bedspread, typically less than floor-length.  “You are waiting in your bed, with the coverlet up under your chin, waiting for Father to come tuck you in.”
+	•	Rimmed: formed or acted as an outer edge or rim for.  “His eyes are bloodshot, rimmed with red, and you wonder if he has been crying.”
+	•	Tinged: colored slightly.  “Everything is tinged with gold.”
+	•	Slats: thin, narrow pieces of wood, plastic, or metal, especially overlapping or fitting into each other.  “You are running from the eyes, the terrible red-rimmed eyes, through endless, narrow corridors of wooden slats and crumbling plaster.”
+	•	Diligently: having or showing care and conscientiousness in one’s work or duties.  “There is a small hole in the boards - peering through it you see Michael in the study, typing diligently away.”
+	•	Malign: evil in nature or effect; malevolent.  “It is hard to prevent the impression of a faint, malign odour about the village street, …”
+	•	Billows: fills with air and swells outward.  “Steam billows gently by, and you can hear the sound of running water coming from the bathroom.”
+	•	Shun: persistently avoid, ignore, or neglect someone or something through antipathy or caution.  “Whatever else their faults may have been, the Verlacs were evidently not ones to shun the printed word.”
+	•	Repose: a state of rest, sleep, or tranquility.  “A rich, brown leather armchair sits in stately repose near the window, …”
+	•	Blue-blooded: belonging to or characteristic of the nobility or aristocracy.  “A rich, brown leather armchair sits in stately repose near the window, with a polished brass pipe stand nearby completing the picture of some blue-blooded country squire’s literary refuge.”
+	•	Squire: a man of high social standing who owns and lives on an estate in a rural area, especially the chief landowner in such an area.  “A rich, brown leather armchair sits in stately repose near the window, with a polished brass pipe stand nearby completing the picture of some blue-blooded country squire’s literary refuge.”
+	•	Gilded: covered thinly with gold leaf or gold paint.  “Resting on the pipe stand is a sizable volume decorated with a gilded pentagram on its cover.”
+	•	Fogies: people, typically old, who are considered to be old-fashioned or conservative in attitude or tastes.  “‘Since the fogies don’t need me to start work until tomorrow, I thought I’d stay home and try to get some writing done.’”
+	•	Warrant: justify or necessitate.  “Anchorhead, apparently, is not large enough to warrant its own newspaper.”
+	•	Subterranean: existing, occurring, or done under the earth’s surface.  “At your feet, the dark waters lap quietly against the stones with a hollow, subterranean sound.”
+	•	Teak: hard durable timber used in shipbuilding and for making furniture.  “You wipe your finger through the dust, revealing the rich teak beneath …”
+	•	Burgundy: a deep red color like that of wine.  “The lining is soft, dusky burgundy.”
+	•	Intrigue(d): arouse the curiosity of; fascinate.  “Intrigued, you pull the little book free.”
+	•	Amulet: an ornament or small piece of jewelry thought to give protection against evil, danger, or disease.  “‘Without the amulet, how can I resist -’”
+	•	Eludes: evade or escape from.  “‘Secret eludes me still but I WILL FIND IT!!!’”
+	•	Pestilential: (informal) annoying.  “‘The clue is in their names, that pestilential procession of names!’”
+	•	Procession: a number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony or festival.  “The clue is in their names, that pestilential procession of names!”
+	•	Recourse: a source of help in a difficult situation.  “‘There is no recourse left.’”
+	•	Profusion: an abundance or large quantity of something.  “Where once pots and skillets and various utensils hung in profusion, the kitchen walls are now merely ranks of dusty cabinets and a forest of empty hooks.”
+	•	Ranks: regular rows or lines of things or people.  “...the kitchen walls are now merely ranks of dusty cabinets and a forest of empty hooks.”
+	•	Effects: personal belongings.  “An odd feeling of gloom overtakes you momentarily, and you find yourself thinking about the Verlac family’s personal effects …”
+	•	Mundanities: an instance of being mundane (of this earthly world rather than a heavenly or spiritual one).  “An odd feeling of gloom overtakes you momentarily, and you find yourself thinking about the Verlac family’s personal effects - the everyday mundanities, such as kitchen utensils.”
+	•	Morbid(ly): characterized by or appealing to an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease.  “Morbidly, you wonder what Mrs. Edward Verlac might have been cooking for dinner the night her husband blew her head off.”
+	•	Conniptions: fits of rage or hysterics.  “It’s enough to send any self-respecting fire marshall into conniptions.”
+	•	Shambles: a state of total disorder.  “... when the police arrived after the shooting, they found the wine cellar in a shambles …”
+	•	Posit: assume as a fact; put forward as a basis of argument.  “No one could posit a motive for it.”
+	•	Compelling: evoking interest, attention, or admiration in a powerfully irresistible way.  “You smile a bit, recalling your husband’s ability to turn a piece of insignificant trivia into a compelling story.”
+	•	Vice: immoral or wicked behavior.  “Idly, you wonder which member of the family developed a taste for what would have been, for the first few generations at least, a sinful vice of the basest kind.”
+	•	Base(st): without moral principles; ignoble.  “Idly, you wonder which member of the family developed a taste for what would have been, for the first few generations at least, a sinful vice of the basest kind.”
+	•	Vintage(s): the year or place in which wine, especially wine of high quality, was produced.  “Some of these vintages appear to be very old.”
+	•	Flagstone: a flat stone slab, typically rectangular or square, used for paving.  “The old, flagstone walls gleam with unwholesome-smelling moisture, …”
+	•	Festoons: adorns (a place) with ribbons, garlands, or other decorations.  “Ancient, frayed wiring festoons the ceiling like some strange species of clinging vine.”
+	•	Dingier: more gloomy and drab.  “Old crates and boxes piled high against the walls make this room seem even smaller and dingier than it actually is, which is saying a lot.”
+	•	Dispirited(ly): having lost enthusiasm and hope; disheartened.  “You spend some time poking dispiritedly through boxes of second-hand table settings, discarded shoes and outdated encyclopedias, …”
+	•	Inebriated: made drink; intoxicated.  “... this is a tangled, ugly mass of dull gray threads spun in every direction, the work of some careless, inebriated arachnid on a weekend binger.”
+	•	Arachnid: a spider or scorpion.  “... this is a tangled, ugly mass of dull gray threads spun in every direction, the work of some careless, inebriated arachnid on a weekend binger.”
+	•	Binge(r): a short period devoted to indulging in an activity to excess, especially drinking alcohol or eating.  “... this is a tangled, ugly mass of dull, gray threads spun in every direction, the work of some careless, inebriated arachnid on a weekend binger.”
+	•	Disheveled: untidy; disordered.  “Way back in the corner, almost beneath the disheveled strands, is an old-fashioned iron key.”
+	•	Maniacal: affected with or suggestive of madness.  “Your brief sense of comfort quickly drains away, however, as you become aware of the icy and maniacal stare emanating from the great portrait hanging over the mantelpiece.”
+	•	Emanating: issuing or spreading out from (a source).  “... you become aware of the icy and maniacal stare emanating from the great portrait hanging over the mantelpiece.”
+	•	Mantelpiece: a structure of wood, marble, or stone above and around a fireplace.  “... you become aware of the icy and maniacal stare emanating from the great portrait hanging over the mantelpiece.”
+	•	Malefic: causing or capable of causing harm or destruction, especially by supernatural means.  “Under the malefic gaze of those red-rimmed eyes, the most comforting thought you can muster is that of immediate flight.”
+	•	Muster: collect or assemble.  “... the most comforting thought you can muster is that of immediate flight.”
+	•	Apotheosis: the highest point in the development of something; culmination or climax.  “The man in the portrait is the apotheosis of everything cruel and inhuman that you have ever laid eyes on.”
+	•	Archaic: very old or old-fashioned.  “His archaic Puritan dress would indicate that he must have lived a very long time ago; …”
+	•	Puritan: of or relating to the Puritans (a group of English Protestants of the late 16th and 17th centuries).  “His archaic Puritan dress would indicate that he must have lived a very long time ago; …”
+	•	Gaunt: lean and haggard, especially because of suffering, hunger, or age.  (See Haggard.)  “... the red-rimmed eyes glaring down from his gaunt and haggard face seem to blaze with a terrible insanity.”
+	•	Haggard: looking exhausted and unwell, especially from fatigue, worry, or suffering.  “... the red-rimmed eyes glaring down from his gaunt and haggard face seem to blaze with a terrible insanity.”
+	•	Regal: of, resembling, or fit for a monarch, especially in being magnificent or dignified.  “There is nothing regal, fatherly or dignified about this portrait.”
+	•	Dignified: having or showing a composed or serious manner that is worthy of respect.  “There is nothing regal, fatherly or dignified about this portrait.”
+	•	Raving: used to emphasize the bad or extreme quality of someone or something.  “It is the essence of raving, gibbering evil captured on canvas.”
+	•	Gibbering: speaking rapidly and unintelligibly, typically through fear or shock.  “It is the essence of raving, gibbering evil captured on canvas.”
+	•	Canvas: a strong, coarse, unbleached cloth made from hemp, flax, cotton, or a similar yarn, used to make items such as sails and tents and as a surface for oil painting.  “It is the essence of raving, gibbering evil captured on canvas.”
+	•	Mahogany: hard reddish-brown timber from a tropical tree, used for high-quality furniture.  “It’s a 19th century William IV-style sofa with wide, flaring armrests and beautifully scrolled mahogany woodwork.  The upholstry is a soft, faded wine color.”
+	•	Herald: an official messenger bringing news.  “Arkham Herald”
+	•	Crackdown: severe measures to restrict or discourage undesirable or illegal people or behavior.  “CHURCH CLOSED, PREACHER SUSPECT IN COMMUNIST CRACKDOWN”
+	•	Celestial: positioned in or relating to the sky, or outer space as observed in astronomy.  “The Church of Celestial Wisdom in Anchorhead, …”
+	•	Congregation: a group of people assembled for religious worship.  “The Church of Celestial Wisdom in Anchorhead, Massachusetts was shut down and its congregation disbanded yesterday …”
+	•	Disbanded: broken up and stopped from functioning.  “The Church of Celestial Wisdom in Anchorhead, Massachusetts was shut down and its congregation disbanded yesterday …”
+	•	Propaganda: information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.  “... its pastor, the Rev. Mordecai Verlac, 70, was accused of distributing Communist propaganda to his parishioners.”
+	•	Parishioners: inhabitants of a parish, especially ones who belong to or attend a particular church.  “... its pastor, the Rev. Mordecai Verlac, 70, was accused of distributing Communist propaganda to his parishioners.”
+	•	Reverend: a member of the clergy (the body of all people ordained for religious duties).  “‘The caller told us that the Reverend was “preaching not from the Good Book, but from a terrible book.”’”
+	•	Good Book: the Christian Bible.  “‘The caller told us that the Reverend was “preaching not from the Good Book, but from a terrible book.”’”
+	•	Red: communist or socialist (used especially during the Cold War with reference to the former Soviet Union).  “‘It smelled Red to me, so I made the decision to call our HUAC representative up in Salem.’”
+	•	HUAC: House Un-American Activities Committee, an investigative committee of the United States House of Representatives, better known for its role in investigating alleged disloyalty and subversive activities on the part of private citizens, public employees, and those organizations suspected of having ties to Communism.  “‘It smelled Red to me, so I made the decision to call our HUAC representative up in Salem.”
+	•	Commenced: began; started.  “The raid commenced shortly after morning services began at 8:00 am, …”
+	•	Confiscate: take or seize with authority.  “The raid commenced shortly after morning services began at 8:00 am, in order to confiscate printed material …”
+	•	Notorious: famous or well-known, typically for some bad quality or deed.  “The Church of Celestial Wisdom was founded in 1860 by Rev. Verlac’s grandfather, the notorious orator and painter Elijah Verlac.”
+	•	Orator: a public speaker, especially one who is eloquent or skilled.  “The Church of Celestial Wisdom was founded in 1860 by Rev. Verlac’s grandfather, the notorious orator and painter Elijah Verlac.”
+	•	Mimeographed: made as a copy using a mimeograph (a duplicating machine that produces copies from a stencil, now superseded by the photocopier).  “(mimeographed page, dated February 10, 1959)”
+	•	Corduroy: a thick cotton fabric with velvety ribs.  “At the time of his disappearance, he was wearing brown corduroy pants, …”
+	•	Sight Unseen: without the opportunity to look at the object in question beforehand.  “PAINTING SELLS FOR 1000￡, SIGHT UNSEEN.”
+	•	Infamous: well known for some bad quality or deed.  “The infamous mystic Aleister Crowley purchased a painting at an auction at Sotheby’s …”
+	•	Sterling: British money.  “The infamous mystic Aleister Crowley purchased a painting at an auction at Sotheby’s for 1000 pounds sterling on Monday without so much as glancing at it.”
+	•	Esq.: Esquire (a polite title appended to a man’s name when no other title is used, typically in the address of a letter or other documents).  “‘I’ve never seen anything like it,’ said Sir Walton Radcliffe, Esq., presiding auctioneer for the Verlac exhibit, …”
+	•	Executor: a person or institution appointed by a testator to carry out the terms of their will.  “Mordecai Verlac, Elijah’s grandson and executor of the Verlac estate, was not present at the auction.”
+	•	Hades: the underworld; the abode of the spirits of the dead.  “‘... I would not do so again for all the kingdoms in Hades.’”
+	•	Grotesque: comically or repulsively ugly or distorted.  “Elijah Verlac is known by art historians more for his grotesque …”
+	•	Aneurism: an excessive localized enlargement of an artery caused by a weakening of the artery wall.  “Friends and Family will grieve the loss of Sgt. HOWARD BIEDERMEYER, who died on October 28, 1956 at the age of 46, of complications following a massive aneurism.”
+	•	Femur: the bone of the thigh or upper hind limb, articulating at the hip and the knee.  “The remains, which consisted of a femur and partial skull, are being shipped to a forensic lab in Boston for further analysis.”
+	•	Forensic: of, relating to, or denoting the application of scientific methods and techniques to the investigation of crime.  “The remains, which consisted of a femur and partial skull, are being shipped to a forensic lab in Boston for further analysis.”
+	•	Unsubstantiated: not supported or proven by evidence.  “Rumors that the bones displayed teeth marks consistent with animal bites are so far unsubstantiated.”
+	•	Obstetrician: a physician or surgeon qualified to practice in obstetrics (the medical profession that deals with pregnancy, childbirth, and the postpartum period, chiefly at-risk situations requiring surgical interventions).  “Dr. Timothy Rebis, a respected obstetrician at Arkham Sisters of Mercy Hospital for the last 20 years, announced his retirement yesterday to a stunned Board of Directors.”
+	•	Board of Directors: a body of elected or appointed members who jointly oversee the activities of a company or organization.  “Dr. Timothy Rebis … announced his retirement yesterday to a stunned Board of Directors.”
+	•	Chairman of the Board: the highest officer of an organized group such as a board, a committee, or a deliberative assembly.  “‘I am truly stunned,’ said Bernard Talbot, Chairman of the Board.”
+	•	Ascribed: attributed something to a cause.  “A source within the hospital who wished to remain anonymous ascribed the doctor’s abrupt departure to a nervous breakdown, …”
+	•	Colleagues: people with whom one works, especially in a profession or business.  “... but this has not been confirmed by any of Dr. Rebis’ colleagues.”
+	•	Photostatic copy: a copy of a document made using a photostat (a type of machine for making photocopies on special paper).  “(photostatic copy of a much older document; …)”
+	•	Enterprise: a project or undertaking, typically one that is difficult or requires effort.  “BE IT KNOWNE that, through the Generositie and Enterprise of the Hon. Goodman Heinrich Verlac, the Miskaton Valley Mille shall be Rebuilt, …”
+	•	Hon.: an abbreviation of Honorable, used as a title indicating eminence or distinction, given especially to judges and certain high officials.  “... through the Generositie and Enterprise of the Hon. Goodman Heinrich Verlac, the Miskaton Valley Mille shall be Rebuilt, …”
+	•	Goodman: the male head of a household.  “... through the Generositie and Enterprise of the Hon. Goodman Heinrich Verlac, the Miskaton Valley Mille shall be Rebuilt, …”
+	•	Christening: dedicating (a vessel, building, etc.) ceremonially.  “BE IT KNOWNE that, upon its Newe Christening, there shall Arise a Sore Need for Men of Able Bodie and Industrious Bent to Work therein;”
+	•	Industrious: diligent and hard-working.  “... there shall Arise a Sore Need for Men of Able Bodie and Industrious Bent to Work therein;”
+	•	Bent: a natural talent or inclination.  “... there shall Arise a Sore Need for Men of Able Bodie and Industrious Bent to Work therein;”
+	•	Anthropologist: one who studies anthropology, the study of humankind.  “ANTHROPOLOGIST TURNED AWAY IN PROPERTY DISPUTE”
+	•	Prominent: important; famous.  “Prominent anthropologist Dr. Joseph Corbin’s repeated attempts to secure permission to set up an archeological dig in nearby Anchorhead came to an end yesterday …”
+	•	Archeological: a misspelling of Archaeological, which pertains to the study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.  “... repeated attempts to secure permission to set up an archeological dig in nearby Anchorhead came to an end yesterday …”
+	•	Pending: awaiting decision or settlement.  “The case has been pending for over six months.”
+	•	Contending: asserting something as a position in an argument.  “The Rev. Verlac has strongly disputed Corbin’s right to dig in the area, contending that the land in question belongs to the ancestral Verlac estate …”
+	•	Conclusive: serving to prove a case; decisive or convincing.  “Last week, Rev. Verlac’s lawyers presented conclusive evidence of prior ownership, …”
+	•	Protégé: a person who is guided and supported by an older and more experienced or influential person.  “Dr. Corbin … is a protégé and close personal friend of the noted folklorist Dr. J. Arnsworth Frazer, …”
+	•	Folklorist: a student of the traditional stories, music, and customs of a culture or community.  “Dr. Corbin … is a protégé and close personal friend of the noted folklorist Dr. J. Arnsworth Frazer, …”
+	•	Travesty: a false, absurd, or distorted representation of something.  “Corbin called the decision ‘a travesty.’”
+	•	Conflagration: an extensive fire that destroys a great deal of land or property.  “CONFLAGRATION CLAIMS PAPER MILL - AGAIN”
+	•	Sympathizers: people who agree with or support a sentiment or opinion.  “...some still hold that it was burned down by Confederate sympathizers.”
+	•	Fiery: having a passionate, quick-tempered nature.  “Mordecai, in addition to being a fiery preacher and outspoken Prohibitionist, was quite wealthy …”
+	•	Outspoken: frank in stating one’s opinions, especially if they are critical or controversial.  “Mordecai, in addition to being a fiery preacher and outspoken Prohibitionist, was quite wealthy …”
+	•	Prohibitionist: somebody who supports a legal ban on the manufacture and sale of alcoholic beverages.  “Mordecai, in addition to being a fiery preacher and outspoken Prohibitionist, was quite wealthy …”
+	•	Controversial: giving rise or likely to give rise to public disagreement.  “At the age of 70, this controversial figure was accused …”
+	•	Associate: denoting shared function or membership but with a lesser status.  “Edward is an associate professor of history at Miskaton University in Anchorhead, Massachusetts;”
+	•	Guileless: devoid of guile; innocent and without deception.  “It seems open and guileless, and he is clearly very happy.”
+	•	Unadorned: not adorned; plain.  “It’s a slim, hardbound volume in dark leather, unadorned except for name ‘Verlac’ embossed on the front.”
+	•	Embossed: carved, molded, or stamp as a design on a surface so that it stands out in relief.  “It’s … unadorned except for name ‘Verlac’ embossed on the front.”
+	•	Biographies: accounts of someone’s lives written by someone else.  “The book contains portraits and brief biographies … on some two hundred members of the Verlac clan, …”
+	•	Residing: having one’s permanent home in a particular place.  “Currently residing in Anchorhead;”
+	•	Seminary: a college that prepares students to be priests, ministers, or rabbis.  “attended seminary at Arkham College in 1906;”
+	•	Ordained: made a priest or minister.  “ordained in 1912;”
+	•	Spartan: showing the indifference to comfort or luxury traditionally associated with ancient Sparta.  “... dressed in spartan black, …”
+	•	Tonsure: a part of a monk’s or priest’s head left bare on top by shaving off the hair.  “... hair clipped in an archaic tonsure, …”
+	•	Stoically: enduring pain and hardship without showing one’s feelings or complaining.  “... clutching a Bible in his lap as he glares stoically at the camera.”
+	•	Single-minded: having or concentrating on only one aim or purpose.  “His eyes still carry the Verlac madness, burning with single-minded righteousness.”
+	•	Genealogy: a line of descent traced continuously from an ancestor.  “Traveled to Europe in 1824 to study painting and to research the Verlac genealogy;”
+	•	Scored: cut or scratched notches or lines onto a surface.  “His face is deeply scored by time, …”
+	•	Mottled: marked with spots or smears of color.  “His face is deeply scored by time, his skin mottled with liver spots, …”
+	•	Liver spots: small brown spots on the skin, especially as caused by a skin condition.  “His face is deeply scored by time, his skin mottled with liver spots, …”
+	•	Digit: a finger (including the thumb) or toe.  “he appears to have an extra digit, a sixth finger, on his right hand.”
+	•	Cupola: a small, most often dome-like, structure on top of a building.  “Added cupola to the Verlac Estate in 1759;”
+	•	Royalist: a person who supports the principle of monarchy or a particular monarchy.  “arrested as a Royalist sympathizer in 1777 but subsequently cleared of all charges;”
+	•	Patrician: belonging to or characteristic of the aristocracy.  “The similarities to the portrait in the sitting room is evident, though: the patrician nose, …”
+	•	Circa: an approximate date.  “Born the son of a provincial cabinet-maker in the Höllental Valley circa 1590;”
+	•	Heresy: belief or opinion contrary to orthodox religious doctrine.  “fled Germany in 1620 to avoid charges of heresy;”
+	•	New World: North and South America regarded collectively in relation to Europe, especially after the early voyages of European explorers.  “came to the New World in 1622 on the ship Dawn Maiden;”
+	•	Fantastic(al): imaginative or fanciful; remote from reality.  “And yet, despite the fantastical nature of the images painted, the style is neither abstract nor surreal.”
+	•	Abstract: existing in thought or as an idea but not having a physical or concrete existence.  “And yet, despite the fantastical nature of the images painted, the style is neither abstract nor surreal.”
+	•	Surreal: bizarre; having the qualities of surrealism (a 20th-century avant-garde movement in art and literature that sought to release the creative potential of the unconscious mind).  “And yet, despite the fantastical nature of the images painted, the style is neither abstract nor surreal.”
+	•	Photorealistic: having detailed visual representation, like that obtained in a photograph, in a nonphotographic medium such as animation or computer graphics.  “In fact, the level of detail approaches the photorealistic.”
+	•	Excruciating: mentally agonizing; very embarrassing, awkward, or tedious.  “Excruciating attention has been paid to light, shadows, and textures;”
+	•	Gruesome: causing repulsion or horror; grisly.  “even the alien creatures are depicted with gruesome anatomical accuracy.”
+	•	Deranged: mad; insane.  “It is as though the artist had worked from actual, living models rather than from what must have been a thoroughly deranged imagination, and the overall effect is rather chilling.”
+	•	Undergrowth: a dense growth of shrubs and other plants, especially under trees in woodland.  “It disappears into the undergrowth to the northwest, …”
+	•	Stunted: prevented from growing or developing properly.  “... framed by crooked trees with overhanging branches that seem to form a stunted, jagged archway into the dim recesses of the forest.”
+	•	Draperies: cloth coverings hanging in loose folds.  “In their midst stands an ancient marble crypt, its heavy iron door nearly obscured by thick draperies of ivy.”
+	•	Enclave: a portion of territory within or surrounded by a larger territory whose inhabitants are culturally or ethnically distinct.  “The trees press close around this quiet enclave of death, leaning together over your head as if sharing secrets.”
+	•	Lichen: a simple slow-growing plant that typically forms a low crustlike, leaflike, or branching growth on rocks, walls, and trees.  “The air is clammy and frigid, the stone walls damp and streaked with mud and lichen.”
+	•	Masonry: stonework.  “Pale, swollen roots push through cracks in the masonry.”
+	•	Deliquesce: become liquid, typically during decomposition.  “Rank upon rank of the ancient Verlac family remains are stacked away in this hole, left to crumble and deliquesce together, …”
+	•	Verdigris: a bright bluish-green encrustation or patina formed on copper or brass by atmospheric oxidation, consisting of basic copper carbonate.  “Most of the nameplates are illegible, corroded with centuries of rot and verdigris.”
+	•	Vanity: a dressing table.  “A small vanity table occupies the opposite wall, and in the corner under the window stands an ancient crib.”
+	•	Vanity: excessive pride in or admiration of one’s own appearance or achievements.  “... vanity of even the most innocent kind was probably discouraged in most of the Verlac children.”
+	•	Maypole: a pole painted and decorated with flowers, around which people traditionally dance on May Day, holding long ribbons that are attached to the top of the pole.  “It’s hardly larger than your hand, made of wood and charmingly decorated with a picture of children dancing around a Maypole.”
+	•	Disconcerting: causing one to feel unsettled.  “He is smiling, but there is something disconcerting about his expression, …”
+	•	Cropped: cut very short.  “It’s difficult to tell, because the picture has been cropped so closely you can’t even see the edges of the boy’s face.”
+	•	Tattered: old and torn; in poor condition.  “Carefully, you turn the tattered pages.”
+	•	Aberration: a departure from what is normal, usual, or expected, typically one that is unwelcome.  “‘Father calls him an aberration, …’”
+	•	Wardes: a medieval spelling of Wards, lookouts posted to watch out for danger.  “On the pipe stand is The Compleat Manual of Wardes and Seales.”
+	•	Arcane: understood by few; mysterious or secret.  “It’s all very deliberately vague and arcane …”
+	•	Pagan: relating to Pagans, people holding religious beliefs other than those of the main world religions.  “The section marked discusses various methods of opening doors that have been sealed with the image of a pagan god.”
+	•	Deity: a god or goddess, typically from a polytheistic religion.  “Speaking aloud the deity’s true name will usually do the trick, apparently.”
+	•	Incongruously: not in harmony or keeping with the surroundings or other aspects of something.  “An authentic first printing of Edgar Allen Poe’s Tales of Mystery and Imagination, shelved incongruously between volumes ‘G’ and ‘H’ of the Encyclopedia Americana.”
+	•	Notwithstanding: in spite of.  “Notwithstanding the excitement of finding a secret wall safe in your own house, you’re actually rather disappointed.”
+	•	Leering: looking or gazing in an unpleasant, malicious, or lascivious way.  “All six surfaces are decorated … with leering, demonic faces and obscene designs.”
+	•	Ornately: made in an intricate shape or decorated with complex patterns.  “It appears to be some kind of wind instrument, fashioned out of ornately carved, greenish metal.”
+	•	Resonates: produces or is filled with a deep, full, reverberating sound.  “You blow an open chord into the little flute, and it resonates with an eerie, metallic warble.”
+	•	Eerie: strange and frightening.  “... it resonates with an eerie, metallic warble.”
+	•	Warble: a sound which is soft, with a succession of constantly changing notes.  “... it resonates with an eerie, metallic warble.”
+	•	Adjoining: next to or joined with.  “This smaller room adjoining the library seems comfortable enough, …”
+	•	Cryptical: having a meaning that is mysterious or obscure.  “You open the drawer, revealing the Cryptical Haermoniacon.”
+	•	Tarnished: lost or caused to lose luster, especially as a result of exposure to air or moisture.  “The leather covers are worn and cracked; the metal corner fittings tarnished; the pages yellow and brittle.”
+	•	Brittle: hard but liable to break or shatter easily.  “The leather covers are worn and cracked; the metal corner fittings tarnished; the pages yellow and brittle.”
+	•	Atonal: not written in any key or mode.  “Inscribed on the title page are the words Cryptical Haermoniacon: Manual of the Atonal Servitors …”
+	•	Servitors: people who serve or attend on a social superior.  “Inscribed on the title page are the words Cryptical Haermoniacon: Manual of the Atonal Servitors …”
+	•	Cipher: a secret or disguised way of writing; a code.  “The greater portion of the book is written in an incomprehensible, flowing cipher;”
+	•	Countenance: a person’s face or facial expression.  “that Name which may be learned only by gazing upon His Terrible Countenance…”
+	•	Hapless: unfortunate.  “The only specific details involve a ritual used to open a one-way portal into the Womb of Nehilim, allowing the magician to enter or possibly throw some hapless soul into its chaotic, blasphemous depths.”
+	•	Chaotic: in a state of complete confusion and disorder.  “... allowing the magician to enter or possibly throw some hapless soul into its chaotic, blasphemous depths.”
+	•	Blasphemous: sacrilegious against God or sacred things; profane.  “... allowing the magician to enter or possibly throw some hapless soul into its chaotic, blasphemous depths.”
+	•	Attune: make harmonious.  “‘Attune ye Pillars to ye Resonant Haermonicae.’”
+	•	Raving: wild, irrational, or incoherent talk.  “The rest, by only the barest contrast, is nothing but pure raving.”
+	•	Insidiously: proceeding in a gradual, subtle way, but with harmful effects.  “‘... lately sleep has come to me more easily, more quickly, and more insidiously than it ever has before.’”
+	•	Ornate: made in an intricate shape or decorated with complex patterns.  “It’s a rather ornate thing, with a silver hilt and a slim, sharp tip.”
+	•	Hilt: the handle of a weapon or tool, especially a sword, dagger, or knife.  “It’s a rather ornate thing, with a silver hilt and a slim, sharp tip.”
+	•	Immaculately: perfectly clean, neat, or tidy.  “Looking closely, you notice some smudges on the otherwise immaculately polished brass.”
+	•	Astrological: relating to astrology, the study of the movements and relative positions of celestial bodies interpreted as having an influence on human affairs and the natural world.  “The walls are covered with astrological and astronomical charts …”
+	•	Astronomical: of or relating to astronomy, the branch of science that deals with celestial objects, space, and the physical universe as a whole.  “The walls are covered with astrological and astronomical charts …”
+	•	Crabbed: ill-formed and hard to decipher.  “The walls are covered with astrological and astronomical charts with equations and diagrams scribbled across them in crabbed, stilted handwriting.”
+	•	Stilted: stiff and self-conscious or unnatural.  “The walls are covered with astrological and astronomical charts with equations and diagrams scribbled across them in crabbed, stilted handwriting.”
+	•	Trajectory: the path followed by a projectile flying or an object moving under the action of given forces.  “Most of the charts seem to be plotting the trajectory of some comet you’ve never heard of, …”
+	•	Groping: feel about or search blindly or uncertainly with the hands.  “At the edges of the view you can make out the topmost branches of the surrounding trees, groping at the sky like skeletal fingers.”
+	•	Eaves: the edges of a roof which overhang the face of a wall.  “... to the north stands a wooden door, draped in shadows and half-hidden by the slanting eaves.”
+	•	Clatter: make or cause to make a continuous rattling sound.  “... you hear something clatter to the floorboards on the other side of the door.”
+	•	Ratcheting: changing steadily in a series of irreversible steps.  “With a ratcheting shriek of rusted springs, the contraption unfolds into a rickety ladder, dropping down into the hallway below.”
+	•	Mouldering: slowly decaying or disintegrating, especially because of neglect.  “A pile of mouldering straw in the corner and what looks like pencil marks on the lower part of the walls seem to indicate that someone lived here once.”
+	•	Gingerly: in a careful or cautious manner.  “You gingerly poke through the filthy straw, barely able to suppress your disgust.”
+	•	Mousy: of or like a mouse.  “Her pale, fragile face is framed by straight, dark, mousy hair, …”
+	•	Resignation: the acceptance of something undesirable but inevitable.  “... she seems to stare plaintively out at you, her expression one of haunted resignation.”
+	•	Asylum: an institution offering shelter and support to people who are mentally ill.  “Asylum Courtyard”
+	•	Edifice: a building, especially a large, imposing one.  “The grim, white-washed edifice of Danvers Asylum bounds this tiny, shadowed courtyard to the south, …”
+	•	Cinderblock: a lightweight building brick made from small cinders mixed with sand and cement.  “Ugly, mint-green tiles and walls of whitewashed cinderblock comprise the decor of this inhospitable waiting room.”
+	•	Decor: the furnishing and decoration of a room.  “Ugly, mint-green tiles and walls of whitewashed cinderblock comprise the decor of this inhospitable waiting room.”
+	•	Orderly: an attendant in a hospital responsible for the nonmedical care of patients and the maintenance of order and cleanliness.  “An orderly sits by the gate, leisurely perusing a pornographic magazine.”
+	•	Perusing: reading something, typically in a thorough or careful way.  “An orderly sits by the gate, leisurely perusing a pornographic magazine.”
+	•	Consumptive: affected with a wasting disease.  “The consumptive-looking plant probably hasn’t been watered in over a month, …”
+	•	Tenaciously: tending to keep a firm hold of something; clinging or adhering closely.  “... somehow it clings tenaciously to life and a certain dull, scraggly greenness.”
+	•	Scraggly: thin and bony.  “... somehow it clings tenaciously to life and a certain dull, scraggly greenness.”
+	•	Pockmarked: covered or disfigured with pock marks (pitted scars or marks on the skin left by pustules or pimples).  “The pockmarked and overweight orderly is absorbed in his magazine, …”
+	•	Crass: lacking sensitivity, refinement, or intelligence.  “He occasionally pauses … to mutter some crass observation about one of the women in his magazine.”
+	•	Guffaws: laughs in a loud or boisterous way.  “The orderly guffaws for a moment or two, …”
+	•	Abandon: complete lack of inhibition or restraint.  “The orderly guffaws for a moment or two, then … throws himself into the magazine with renewed abandon.”
+	•	Pained: affected with pain, especially mental pain; hurt or troubled.  “The orderly looks pained.”
+	•	Gloats: contemplates or dwells on one’s own success or another’s misfortune with smugness or malignant pleasure.  “‘You know what this thing is hanging off my belt?’ gloats the orderly, patting the key proudly.”
+	•	Waggles: moves or causes to move with short quick movements from side to side or up and down.  “The orderly waggles his eyebrows at you in a way that makes you slightly ill.”
+	•	Wends: goes in a specified direction, typically slowly or by an indirect route.  “The lane narrows here to little more than a badly cobbled sidewalk as it wends its way up through a series of tortuous bends and switchbacks.”
+	•	Switchbacks: roads, paths, or railroads with alternate sharp ascents or descents.  “The lane narrows here to little more than a badly cobbled sidewalk as it wends its way up through a series of tortuous bends and switchbacks.”
+	•	Oppressive: unjustly inflicting hardship and constraint.  “... a safe harbor from the oppressive gloom pervading the rest of the town.”
+	•	Pervading: spreading through and being perceived in every part of.  “... a safe harbor from the oppressive gloom pervading the rest of the town.”
+	•	Labyrinth: a complicated irregular network of passages or paths in which it is difficult to find one’s way; a maze.  “...a sidestreet to the east leads back into the labyrinth.”
+	•	Gaudily: extravagantly bright or showy, typically so as to be tasteless.  “It simply reads, in gaudily illuminated letters, ‘The Cauldron.’”
+	•	Illuminated: lit up.  “It simply reads, in gaudily illuminated letters, ‘The Cauldron.’”
+	•	Cauldron: a large metal pot with a lid and handle, used for cooking over an open fire.  “It simply reads, in gaudily illuminated letters, ‘The Cauldron.’”
+	•	Suffuses: gradually spreads through or over.  “A warm and pleasantly dim light surrounds you and suffuses this cozy little shop.”
+	•	Conceivable: capable of being imagined or grasped mentally.  “The shelves are crammed with every conceivable variety of new age curiosity:”
+	•	Pendants: hanging ornaments, as earrings or main pieces suspended from a necklace.  “... books, crystals, pendants, charms, herbs, potions, incense, candles …”
+	•	Cast-iron: an alloy of iron, carbon, and other elements, cast as a soft and strong or as a hard and brittle iron, depending on the mixture and methods of molding.  “...decorative cast-iron cauldron-shaped paperweights.”
+	•	Proprietor: the owner of a business, or a holder of property.  “The proprietor watches you quietly from behind the display case.”
+	•	Portly: having a stout body; somewhat fat.  “A fabulously thick and bushy tangle of moustache, beard and eyebrows frame the portly old proprietor’s deeply seamed face.”
+	•	Seamed: covered in lines.  “... the portly old proprietor’s deeply seamed face.”
+	•	Ingenuous: innocent and unsuspecting.  “His eyes are kind, … and his smile warm and ingenuous, …”
+	•	Considerable: notably large in size, amount, or extent.  “... he seems content to watch you quietly with his hands folded across his considerable paunch as you browse through his shop.”
+	•	Paunch: a large or protruding abdomen or stomach.  “... he seems content to watch you quietly with his hands folded across his considerable paunch …”
+	•	Charlatan: a person falsely claiming to have a special knowledge or skill; a fraud.  “‘Oh, I’m just a harmless old shopkeeper, a lesser charlatan.’”
+	•	Hokey: noticeably contrived (created or arranged in a way that seems artificial and unrealistic).  “Mostly a lot of hokey, pseudo-spiritualist knick-knacks.”
+	•	Pseudo-: not genuine; sham.  “Mostly a lot of hokey, pseudo-spiritualist knick-knacks.”
+	•	Spiritualist: an adherent of spiritualism, a belief that spirits of the dead have both the ability and the inclination to communicate with the living.  “Mostly a lot of hokey, pseudo-spiritualist knick-knacks.”
+	•	Knick-knacks: small worthless objects, especially household ornaments.  “Mostly a lot of hokey, pseudo-spiritualist knick-knacks.”
+	•	Scroll: the curled end of a violin.  “It’s a gorgeous instrument - the wood is a rich, polished mahogany, the scroll and fingerboard gleaming ebony.”
+	•	Fingerboard: the part of a stringed instrument against which the fingers press the strings to vary the pitch.  “... the wood is a rich, polished mahogany, the scroll and fingerboard gleaming ebony.”
+	•	Accord: an official agreement or treaty.  “The strings almost seem to vibrate of their own accord, as if aching to be played.”
+	•	Nestles: settles or lies comfortably within or against something.  “He nestles the instrument under his chin, produces a bow from somewhere behind the display case, and lays it across the strings.”
+	•	Haunting: poignant and evocative; difficult to ignore or forget.  “The shop is filled with a haunting melody the likes of which you have never heard.”
+	•	Tarot: any of a set of usually 78 playing cards including 22 pictorial cards used for fortune-telling.  “Inside the case you see a deck of tarot cards, …”
+	•	Geode: a stone with a hollow space inside lined with crystals or mineral matter.  “Inside the case you see a deck of tarot cards, a geode and an amulet.”
+	•	Conspiratorial: indicating or betraying knowledge of or involvement in a conspiracy.  “He leans toward you, offering you a salesman’s conspiratorial wink.”
+	•	Exquisitely: extremely beautiful.  “The top card, ‘The Tower,’ has been turned up, allowing you to see the exquisitely detailed artwork.”
+	•	Catastrophic: extremely unfortunate or unsuccessful.  “‘Indicates catastrophic change, disaster, an overturning of all you once knew.’”
+	•	Faceted: one of the small, polished plane surfaces of a cut gem.  “Its center is a glittering cavity of violet crystals, thousands of sparkling, faceted stalactites and stalagmites inside a cave of colored glass.”
+	•	Stalactites: rock structures formed on the ceilings of caves as water drips down, leaving behind minerals.  “... thousands of sparkling, faceted stalactites and stalagmites inside a cave of colored glass.”
+	•	Stalagmites: a type of rock formation that rises from the floor of a cave due to the accumulation of material deposited on the floor from ceiling drippings.  “... thousands of sparkling, faceted stalactites and stalagmites inside a cave of colored glass.”
+	•	Unassuming: not pretentious or arrogant; modest.  “It’s an unassuming silver pendant hanging from a thin leather thong, …”
+	•	Pewter: a metallic substance made mostly of tin sometimes mixed with copper or antimony.  “It reminds you a little of one of those cast pewter game pieces from Monopoly.”
+	•	Chap: a man or boy.  “‘Young chap brought that in some twenty years ago, …’”
+	•	Superstitious: having or showing a belief in superstitions, a belief or practice resulting from ignorance, fear of the unknown.  “‘... he had no more use for superstitious baubles.’”
+	•	Baubles: small, showy trinkets or decorations.  “‘... he had no more use for superstitious baubles.’”
+	•	Trinket: a small ornament or item of jewelry that is of little value.  “‘He visited my shop once, you know.  Sold me a trinket.’”
+	•	Heaves: produces a sigh.  “The proprietor heaves a heavy sigh.”
+	•	Tendriled: having tendrils, slender threadlike appendages of a climbing plant, often growing in a spiral form, that stretch out and twine around any suitable support.  “‘They’re a sticky-tendriled bunch, … and don’t forget it;’”
+	•	Callused: having an area of hardened skin.  “With surprising grace, the proprietor reaches across the display case and places his callused finger lightly across your lips.”
+	•	Dexterously: having neat skill, especially with the hands.  “His fingers flicker dexterously over the box, sliding a panel here, pressing a corner in there.”
+	•	Snick: a sharp click.  “Suddenly the lid pops open with a faint snick.”
+	•	Tapering: progressively narrowing toward one end.  “It’s a dark glassy circle, … tapering off to thinness toward the edge like a convex lens.”
+	•	Convex: curved or rounded like the exterior of a sphere or circle.  “It’s a dark glassy circle, … tapering off to thinness toward the edge like a convex lens.”
+	•	Obsidian: a dark natural glass formed by the cooling of molten lava.  “Its color is the deep, oily black of obsidian, …”
+	•	Organic: of, relating to, or derived from living matter.  “... there is an odd, yielding quality to it, almost like something organic …”
+	•	Disquiet: a feeling of worry or anxiety.  “... almost, you realize with disquiet, like skin.”
+	•	Dank: disagreeably damp, musty, and typically cold.  “A dank, drafty old drinking hole lit by flickering, oil-burning lanterns.”
+	•	Drafty: characterized by or admitting currents of air, usually uncomfortable.  “A dank, drafty old drinking hole lit by flickering, oil-burning lanterns.”
+	•	Rafters: a series of sloping parallel beams used to support a roof covering.  “Smoke collects in greasy pools among the rafters, …”
+	•	Grimly: stern and admitting of no appeasement or compromise.  “Mill workers and fishermen occupy a few of the tables, drinking beer or puffing grimly at long-stemmed pipes.”
+	•	Solitude: the state or situation of being alone.  “Each is wrapped in his solitude, soaking up the general miasma of dreary fatalism.”
+	•	Miasma: a highly unpleasant or unhealthy smell or vapor.  “Each is wrapped in his solitude, soaking up the general miasma of dreary fatalism.”
+	•	Dreary: dull, bleak, and lifeless; depressing.  “Each is wrapped in his solitude, soaking up the general miasma of dreary fatalism.”
+	•	Fatalism: a philosophical doctrine stressing the subjugation of all events or actions to fate.  “Each is wrapped in his solitude, soaking up the general miasma of dreary fatalism.”
+	•	Sputters: makes explosive popping or sizzling sounds.  “The lantern sitting on the table nearest you sputters fitfully, …”
+	•	Fitfully: happening in fits or by spells; recurring irregularly.  “The lantern sitting on the table nearest you sputters fitfully, …”
+	•	Icily: in a manner that is icy (very cold or hostile).  “Suddenly, … the pub becomes even more icily silent.”
+	•	Encrusted: covered with something hard.  “His lips barely seem to move beneath his selt-encrusted beard.”
+	•	Rasps: says in a harsh, grating voice.  “‘Some things best left alone by outsiders, ma’am,’ he rasps.”
+	•	Folk: people in general.  “‘Some things best left alone by decent folk altogether.’”
+	•	Distinguished: made conspicuous by excellence; noted, eminent, famous.  “... this is not a particularly distinguished brand of spirits.”
+	•	Spirits: alcoholic beverages.  “... this is not a particularly distinguished brand of spirits.”
+	•	Bootleg: made, distributed, or sold illegally.  “The words ‘bootleg’ and ‘rotgut’ come to mind, …”
+	•	Rotgut: cheap or inferior liquor.  “The words ‘bootleg’ and ‘rotgut’ come to mind, probably because they are the only words legible on what’s left of the label.”
+	•	Sears: burns or scorches the surface of something with a sudden, intense heat.  “You take a tiny sip, then shudder as the liquid sears down your esophagus and settles greasily in your stomach.”
+	•	Vile: extremely unpleasant.  “It’s so vile, you’d hesitate to even pour the stuff down your sink.”
+	•	Rampant: flourishing or spreading unchecked.  “Where once a building stood, there is now only cracked pavement and rampant weeds.”
+	•	Intently: with earnest and eager attention.  “An old man dressed in dirty rags sits on his mattress, muttering to himself as he stares intently out to sea.”
+	•	Bleary: unfocused or filmy from sleep or tiredness.  “The old man squints at you with bleary, cunning eyes.”
+	•	Cunning: attractive; quaint.  “The old man squints at you with bleary, cunning eyes.”
+	•	Quavers: shakes or trembles in speaking, typically through nervousness or emotion.  “‘Don’t know too much about that,’ he quavers.”
+	•	Pungent: having a sharply strong taste or smell.  “Trickles of pungent brown liquid ooze from the corners of his mouth as he swallows convulsively, …”
+	•	Convulsively: producing or consisting of convulsions (sudden, violent, irregular movements of limbs or the body, caused by involuntary contractions of muscles).  “Trickles of pungent brown liquid ooze from the corners of his mouth as he swallows convulsively, …”
+	•	Beatific: blissfully happy.  “Finally, he falls back onto his mattress with a beatific smile on his mud-smeared face, the flask dropping from his fingers.”
+	•	Cackle: a harsh laugh resembling the cry of a hen or goose.  “The old man lets out a vicious cackle.”
+	•	Akin: of similar character.  “The bum makes no move to take the locket, but he stares at the boy’s picture with something akin to fear.”
+	•	Reedy: high and thin in tone.  “... for the first time his voice is steady, without the reedy whine of alcoholic craving.”
+	•	Wavering: shaking with a quivering motion.  “The old man falls silent again, and his wavering, bloodshot eyes wander once more out to sea.”
+	•	Ramshackle: in a state of severe disrepair.  “Unlike the others, William’s coffin is a ramshackle affair of cheap pine, held together with rusting nails.”
+	•	Shabbily: in poor condition through long or hard use or lack of care.  “It’s half-rotten with age and so shabbily built you could probably open it with your bare hands.”
+	•	Compelled: forced or obliged to do something.  “Compelled by a gruesome curiosity, you dig your fingers under the soft, rotting boards and pry up the lid.”
+	•	Interred: placed in a grave or tomb, typically with funeral rites.  “Who would have buried an animal in place of the child that should have been interred here?”
+	•	Glumly: looking or feeling dejected; morose.  “Glumly, you … realize that anyone who might have known the answers to these questions is probably already buried in this room.”
+	•	Intact: not damaged or impaired in any way; complete.  “Only the animal’s skull seems reasonably intact.”
+	•	Bleached: whitened by exposure to sunlight or by a chemical process.  “The gruesome thing seems to leer at you with its bleached, toothy grin.”
+	•	Fawning: displaying exaggerated flattery or affection.  “The old man looks up at you with fawning admiration.”
+	•	Shambles: moves with a slow, shuffling, awkward gait.  “He shambles off, up the riverwalk toward Town Square, his shadow dragging long behind him.”
+	•	Wharf: a level quayside area to which a ship may be moored to load and unload.
+	•	Hawsers: thick ropes or cables for mooring or towing a ship.  “The gentle creaking of hawsers and the hollow slap of water beneath the wooden pier provide a faint counterpoint to the endless, rhythmic surging of the sea.”
+	•	Counterpoint: an argument, idea, or theme used to create a contrast with the main element.  “The gentle creaking of hawsers and the hollow slap of water beneath the wooden pier provide a faint counterpoint to the endless, rhythmic surging of the sea.”
+	•	Alcove: a recess, typically in the wall of a room or of a garden.  “This tiny, concrete-lined alcove within the underside of the bridge forms the top of a vertical shaft leading down into darkness.”
+	•	Brackish: slightly salty, as in the mixture of river water and seawater in estuaries.  “The tunnel is ankle-deep in brackish water, though raised walkways on either side provide relatively dry footing.”
+	•	Fissures: long, narrow openings or line of breakage made by cracking or splitting, especially in rock or earth.  “Water drips endlessly through the walls and ceiling, seeping in through thousands of invisible fissures, …”
+	•	Prickling: a tingling sensation, especially as a result of strong emotion.  “The house is still, hushed; an eery prickling walks up your back like centipede legs.”
+	•	Wont: in the habit of doing something; accustomed.  “You try to convince yourself that he merely went for a walk and lost track of the time, as he is so often wont to do.”
+	•	Whippoorwills: North and Central American nightjars (nocturnal insectivorous birds with gray-brown camouflaged plumage and large eyes) with a distinctive call.  “Down the road and through the woods, where the whippoorwills call their lunatic’s song, you are running.”
+	•	Baleful: threatening harm; menacing.  “When you look up at them, they merge together, melting into a single, baleful orb - a swollen, bloody moon.”
+	•	Veer: change direction suddenly.  “You veer off the road, tripping over an old, rotted stump, pushing aside a twisted sapling.”
+	•	Underbrush: shrubs and small trees forming the undergrowth in a forest.  “But still you must run, until you suddenly burst out of the underbrush, into a tangled, moonlit clearing.”
+	•	Tantalizing(ly): tormenting or teasing with the sight or promise of something that is unobtainable.  “Your hair slips from your shoulders, dangling tantalizingly close to the well’s opening …”
+	•	Crescendo: a gradual increase in loudness in a piece of music.  “... the whippoorwills reach a crescendo …”
+	•	Irritable: having or showing a tendency to be easily annoyed or made angry.  “Michael dismisses you with an irritable wave of his hand.”
+	•	Rubik’s cube: a puzzle in the form of a plastic cube covered with multicolored squares, which the player attempts to twist and turn so that all the squares on each face are of the same color.  “‘I REALLY don’t feel like messing with some weird Rubik’s cube right now.’”
+	•	Rounds on: make a sudden verbal attack on or unexpected retort to.  “He rounds on you.”
+	•	Dismayed: caused to feel consternation and distress.  “You draw a shaky breath, dismayed and hurt.”
+	•	Perplexed: completely baffled; very puzzled.  “He … spends a few moments staring at the picture inside with a perplexed expression, as though trying to remember a name that was on the tip of his tongue just a second ago.”
+	•	Vantage: a place or position affording a good view of something.  “Standing on tiptoe and placing your eye up to the hole, you see the sitting room, from a vantage high up on the wall.”
+	•	Incoherent: expressed in an incomprehensible or confusing way; unclear.  “At that moment, Michael wanders into the sitting room, muttering something incoherent.”
+	•	Unbeknownst: without the knowledge of someone.  “He gazes into its eyes (and also, unbeknownst to him, your own eyes) the way one might appraise an old friend one hasn’t seen for some time.”
+	•	Appraise: assess the value or quality of.  “He gazes into its eyes … the way one might appraise an old friend one hasn’t seen for some time.”
+	•	Rhapsodically: in an enthusiastic manner.  “... as your husband continues to gaze rhapsodically at the terrible portrait, a sickening realization strikes you.”
+	•	Preen: to take great care in cleaning oneself.  “Your husband is staring at this portrait the way he might preen himself in a mirror.”
+	•	Skulks: keeps out of sight, typically with a sinister or cowardly motive.  “A light shines in through a doorway, and a moment later Michael skulks into the room, …”
+	•	Recoil: suddenly spring or flinch back in fear, horror, or disgust.  “At one point he looks straight at you, and you nearly recoil, alarmed at the sight of his crazed, red-rimmed eyes.”
+	•	Wretched: causing misery or distress.  “The room is filled for a moment with a wild, wretched keening, …”
+	•	Keening: wailing in grief as for a dead person.  “The room is filled for a moment with a wild, wretched keening, like a cold wind blowing through an empty chasm.”
+	•	Wary: feeling or showing caution about possible dangers or problems.  “With one last, wary look behind him, Michael steps through the portal.”
+	•	Churning: moving about vigorously.  “There is a spinning, churning hole in the clouds, an inverted whirlpool sucking streamers of gray up into itself.”
+	•	Maelstrom: a powerful whirlpool in the sea or a river.  “The upper depths of the maelstrom are too dark to see, …”
+	•	Arc: move with a curving trajectory.  “The upper depths of the maelstrom are too dark to see, though occasionally you can make out sparks of green energy as they arc across the gap.”
+	•	Sheen: a soft luster on a surface.  “... patterns of colors begin to emerge, like the rainbow sheen of oil on water.”
+	•	Translucent: allowing light, but not detailed images, to pass through; semitransparent.  “The black disk grows translucent, stars become visible through the swirling haze, and then …”
+	•	Vitreous: like glass in appearance or physical properties.  “... its great, lidless, red-rimmed eye rolls over in a vast lake of vitreous fluid, …”
+	•	Outer Reaches: Outer Space.  “You’re not sure what, exactly, you just witnessed; whether it was … the actual form of some Dark God from the Outer Reaches, come to devour the world.”
+	•	Pinot Noir: literally, “black grape,” a variety of grape used in making wine.  “... at a quick glance you count a Pinot Noir, a Cabernet Sauvignon, and a Cheval Blanc.”
+	•	Cabernet Sauvignon: a variety of red wine grape from the Bordeaux area of France, now grown throughout the world.  “... at a quick glance you count a Pinot Noir, a Cabernet Sauvignon, and a Cheval Blanc.”
+	•	Cheval Blanc: an abbreviation of “Château Cheval Blanc,” French for “White Horse Castle,” a wine producer in the Bordeaux wine region of France.  “... at a quick glance you count a Pinot Noir, a Cabernet Sauvignon, and a Cheval Blanc.”
+	•	Robust: rich and full of flavor.  “A robust Pinot Noir, vintage 1651;”
+	•	Merlot: a variety of black wine grape originally from the Bordeaux region of France.  “This bottle is so old that the label has almost faded beyond legibility, although from what you can make out it is probably a fine Merlot.”
+	•	Fathomless: immeasurable.  “The passageway ends here at a fathomless pit, …”
+	•	Puckered: contracted into tight wrinkles or folds.  “The passageway ends here at a fathomless pit, a puckered circular hole in the rock from which the foul wind seems to emanate, …”
+	•	Reeking: suggestive of something unpleasant or undesirable.  “The passageway ends here at a fathomless pit … from which the foul wind seems to emanate, howling up from the depths like a reeking banshee.”
+	•	Banshee: a female spirit whose wailing warns of an impending death in a house.  “The passageway ends here at a fathomless pit … from which the foul wind seems to emanate, howling up from the depths like a reeking banshee.”
+	•	Decrepit: worn out or ruined because of age or neglect.  “A thin and decrepit rope bridge spans the pit, shivering occasionally in the wind.”
+	•	Lists: leans.  “A couple of the tattered lines snapp just as you reach the halfway mark, and the bridge lists sharply to the left.”
+	•	Interminable: endless.  “The seemingly interminable steps curve in a gentle sweep from the southwest, above you, dropping toward black, unplumbed depths to the north.”
+	•	Unplumbed: unfathomed.  “The seemingly interminable steps curve … dropping toward black, unplumbed depths to the north.”
+	•	Stylized: designed in or caused to conform to a particular style.  “The emblem in the center of the door is that of a stylized open eye, …”
+	•	Threshold: a strip of wood, metal, or stone forming the bottom of a doorway and crossed in entering a house or room.  “You stand at the threshold for a moment … before your eyes can make out enough details to see what this place is;”
+	•	Phosphorescent: emitting light without combustion or perceptible heat.  “You stand at the threshold for a moment, peering into the strange, phosphorescent gloom, …”
+	•	Desiccated: preserved through the removal of moisture.  “Shrunken and desiccated, they lie in jumbled heaps inside irregularly carved niches.”
+	•	Smirking: smiling in an irritatingly smug, conceited, or silly way.  “Carvings cover the rock walls in between the niches - grotesque, leering faces too horrible even to look upon, their features twitching and smirking in the wavering light that sifts down from above.”
+	•	Sifts: descends or floats down lightly or sparsely as if sprinkled from a sieve.  “... smirking in the wavering light that sifts down from above.”
+	•	Monolith: a large single upright block of stone, especially one shaped into or serving as a pillar or monument.  “And dominating the center of the chamber: a dark monolith rising up through the green, murky light - …”
+	•	Denizens: inhabitants or occupants of a particular place.  “... even the shape of the skulls call to mind a more primitive and degenerate sort of folk than even the denizens of this town.”
+	•	Hieroglyphs: stylized pictures of objects representing words, syllables, or sounds, as found in ancient Egyptian and other writing systems.  “The hieroglyphs on this portion of the obelisk, untouched by eroding weather, are much clearer and deeper than the ones above.”
+	•	Eroding: causing to gradually wear away.  “The hieroglyphs on this portion of the obelisk, untouched by eroding weather, are much clearer and deeper than the ones above.”
+	•	Motif: a decorative design or pattern.  “The comet symbol has returned, although there is an added eye-motif;”
+	•	Converging: coming together from different directions so as eventually to meet.  “Wavy lines radiate from the eye in all directions, several of them converging to join at the tower’s tip.”
+	•	Imperceptibly: in a way that is so slight, gradual, or subtle as not to be perceived (noticed).  “It is vibrating very slightly, almost imperceptibly;”
+	•	Dissonant: inharmonious.  “The columns’ vibrations seem to grow momentarily stronger while the flute’s sound lingers, their dissonant ringing resonating strangely with the warbling, metallic notes.”
+	•	Intertwine: twist or twine together.  “The two dissonances seem to intertwine, reinforcing each other, …”
+	•	Sub-sonic: below the audible range of human hearing.  “The flute emits an eerie, almost sub-sonic note.”
+	•	Maw: an open mouth as that of a voracious animal.  “... everything not nailed down goes flying across the temple and into the all-devouring maw hovering over the altar-stone.”
+	•	Rift: a crack, split, or break in something.  “You scream, and even the sound of your voice is whipped away, pulled over your shoulder like a trailing ribbon and sucked into whatever blasphemous dimension lies beyond that horrible rift.”
+	•	Infernal: of, relating to, or characteristic of Hell or the underworld.  “The last time you tried that, you were nearly sucked into an infernal dimension.”
+	•	Birch: a slender, fast-growing tree that has thin bark (often peeling) and bears catkins, usually found in north temperate regions.  “The gently winding lane makes its way through the birch woods south of town.”
+	•	Foliage: plant leaves, collectively.  “New England foliage is famous for its splendid colors in the fall, …”
+	•	Leached: drained away from soil, ash, or similar material by the action of percolating liquid, especially rainwater.  “New England foliage is famous for its splendid colors in the fall, but the oppressive weather and pervading murk have leached these trees of most of their tint.”
+	•	Wrought-iron: a tough, malleable form of iron suitable for forging or rolling rather than casting.  “A low, wrought-iron fence … surrounds the overgrown yard of this dark, abandoned church.”
+	•	Brooding: showing deep unhappiness of thought.  “The steeple is a jagged silhouette against the brooding sky.”
+	•	Encroaches: advances beyond proper, established, or usual limits; makes gradual inroads.  “The forest encroaches right up to the iron fence here, some of which is literally buried in the tangled underbrush.”
+	•	Homogenous: (more commonly homologous) showing a degree of similarity.  “The padlock, which is the size of your fist, is so thoroughly rusted that it looks like one huge homogenous lump of corrosion.”
+	•	Scrutinize: examine or inspect closely and thoroughly.  “You scrutinize the edge of the road carefully, looking for whatever it was you saw …”
+	•	Astonishment: great surprise.  “You take a closer look - and are nearly struck motionless with astonishment.”
+	•	Plausible: seeming reasonable or probable.  “You try to imagine how it could have come to be here, but there’s really only one plausible explanation:”
+	•	Fathom: understand after much thought.  “You shudder, unable - or unwilling - to fathom why.”
+	•	Tottering: being in an unstable condition.  “... nothing stands now but the tottering, crumbling stonework (and that only barely), …”
+	•	Palpable: so intense as to seem almost tangible (able to be touched or felt, as with the hands).  “... you fancy you can still detect a faint miasma of death - a palpable, chilling reminder of the bloody work which once went on within these walls.”
+	•	Scrawled: written in a hurried, careless way.  “The drawing is of a pair of crudely rendered figures, scrawled with dark, heavy lines that occasionally punch right through the paper.”
+	•	Speculate: form a theory or conjecture about a subject without firm evidence.  “Frankly, you’d rather not speculate.”
+	•	Conceive: form or devise in the mind.  “An octopus on human legs, maybe, if you could believe any healthy child would conceive of such a thing.”
+	•	Crossbar: a horizontal bar fixed across another bar or between two upright bars, in particular.  “The crossbar fits in your palm, leaving the hook part to stick out between the third and fourth fingers.”
+	•	Ceremony: an amount of politeness.  “It’s a heavy sucker, nearly fifteen inches long from handle to point, made for hauling around carcasses with a minimum of ceremony.”
+	•	Deduce: arrive at a fact or conclusion by reasoning; draw as a logical conclusion.  “You can deduce only two things about the gruesome pile:”
+	•	Tuft: a bunch or collection of something, typically threads, grass, or hair, held or growing together at the base.  “You notice a tuft of brown among the yellowed-ivory of the bones.”
+	•	Threadbare: becoming thin and tattered with age.  “It is old and threadbare, its fur worn through to the stuffing in some places.”
+	•	Tromps: walks heavily; trudges.  “The ground trembles slightly with the thing’s thunderous footsteps as it tromps up the path.”
+	•	Implements: tools, utensils, or other pieces of equipment, especially as used for a particular purpose.  “All of them carry weapons or nasty farm implements of some kind, …”
+	•	Hasp: a slotted hinged metal plate that forms part of a fastening for a door or lid and is fitted over a metal loop and secured by a pin or padlock.  “The rusted metal casing splits open, the hasp falls loose, and the padlock, now nothing but a broken shell, slides to the ground.”
+	•	Decapitated: having had its head cut off.  “It appears to have been decapitated.”
+	•	Rising gorge: a sensation of constriction in the throat as an indication of revulsion.  “As you fight to control your rising gorge, you note that the body cannot have been here for very long;”
+	•	Lapel: the part on each side of a coat or jacket immediately below the collar that is folded back on either side of the front opening.  “Gingerly, trying to avoid the worst of the blood, you lift the woman’s lapel, hoping to find something - identification, maybe.”
+	•	Blazer: a lightweight jacket, typically solid-colored, often worn as part of a uniform by members of a club, sports team, or school.  “Her wallet is missing; however, you do find, tucked into the pocket of her blazer, a small, steel key.”
+	•	Throttles: attacks or kills someone by choking or strangling them.  “Cold, rabid panic leaps up from your stomach and throttles you from the inside out as you flail your arms madly, tipping inexorably over the brink.”
+	•	Inexorably: in a way that is impossible to stop or prevent.  “... you flail your arms madly, tipping inexorably over the brink.”
+	•	Lurches: makes an abrupt, unsteady, uncontrolled movement or series of movements; staggers.  “The structure lurches about five heart-stopping degrees to starboard, nearly throwing you off balance.”
+	•	To starboard: to the right.  “The structure lurches about five heart-stopping degrees to starboard, nearly throwing you off balance.”
+	•	Vestibule: an antechamber, hall, or lobby next to the outer door of a building.
+	•	Antechamber: a small room leading to a main one.  “A dim antechamber, opening onto the main chapel to the east.”
+	•	Protracted: lasting for a long time or longer than expected or usual.  “From the stairwell behind you there is a sudden, painful shriek of nails ripping out of stone, a loud, protracted splintering, and finally a thunderous crash that seems to echo up the shaft from far below.”
+	•	Pulpit: a raised platform or lectern in a church or chapel from which the preacher delivers a sermon.  “... to the east, a small doorway behind the pulpit leads to the back of the church.”
+	•	Jackstraw: used to describe wood that is broken up into long, skinny sticks and arranged in a heap as used to play the game Jackstraw (also a British slang term for Worthless).  “The once orderly procession of benches is now a jackstraw jumble of broken wood.”
+	•	Icons: likenesses or images, traditionally used in religious contexts.  “There are illustrations, as well: horrible icons that make your skin crawl to look at.”
+	•	Horrid: causing horror.  “A horrid coldness seeps into your fingers as you try to pick up the book.”
+	•	Writhe: make continual twisting, squirming movements or contortions of the body.  “As you lean closer over the pages to make out the words in this dim light, the letters seem to writhe and crawl across the page, …”
+	•	Hideous: offensive to the senses.  “Something about a ‘Blessed Event’, which will happen very soon, and a hideous god whose name may not be spoken…”
+	•	Gleefully: in an exuberantly or triumphantly joyful manner.  “... some small, gleefully filthy part of you wants to keep reading, to uncover the secrets that the people of Anchorhead uncovered…”
+	•	Presumably: by assuming reasonably; probably.  “A ladder bolted to the wall leads up through a hatch, presumably up into the steeple.”
+	•	Bringing … to bear: (idiom) concentrating on with a specific purpose.  “You haul yourself up onto the rope, bringing your whole weight to bear.”
+	•	Voluminous: consisting of many folds.  “Its voluminous folds would easily cover you head to toe.”
+	•	Shimmy: shake or sway one’s whole body, as when doing a dance by the same name.  “Gripping the end of the rope tightly, you lower yourself off the edge and shimmy down into the darkness.”
+	•	Glimmer: a faint or wavering light.  “Looking down, you can barely make out a faint glimmer of water, far below.”
+	•	Thrash: move violently or noisily, as when hitting something repeatedly.  “Blindly, you thrash about until you find higher ground, and you crawl, choking and sputtering, feeling cold brick beneath your fingers.”
+	•	Sputtering: making a series of soft explosive sounds.  “... you crawl, choking and sputtering, feeling cold brick beneath your fingers.”
+	•	Depression: a hollow or depressed (sunken) area.  “Water flowing in from the northwestern tunnel has pooled in a depression sunk into the limestone floor, becoming quite deep near the far end.”
+	•	Limestone: a hard sedimentary rock, used as building material and in the making of cement.  “Water flowing in from the northwestern tunnel has pooled in a depression sunk into the limestone floor, becoming quite deep near the far end.”
+	•	Impaled: pierced or transfixed with a sharp instrument.  “You’re very lucky you weren’t impaled when you fell.”
+	•	Outflow: a place where a large amount of something flows out.  “From the smell of it, this must be a sewage outflow tunnel.”
+	•	Eddies: moves in a circular way.  “Filthy water swirls past a metal grate to the west and eddies around your hands and knees, …”
+	•	Outcroppings: rock formations that are visible on the surface.  “This narrow strip of beach is tucked away between two outcroppings in the predominantly rocky shoreline, accessible only from a steep, muddy slope to the west.”
+	•	Detritus: waste or debris of any kind.  “The sand is filthy and strewn with rocks, seaweed, litter and other bits of storm-tossed detritus.”
+	•	Attest: provide or serve as clear evidence of.  “‘My name is Claudia Benson, and I attest that I am of sound mind and body, …’”
+	•	Divulge: make known, especially private or sensitive information.  “‘I assume the cult somehow discovered that I was planning to divulge information to an outsider and now plans to silence me.’”
+	•	Testimony: a formal written or spoken statement, especially one given in a court of law.  “‘In case I don’t make it, I am leaving this testimony for someone to find;’”
+	•	Wreak: inflict or execute punishment or vengeance.  “‘These beliefs center around the worship of some sort of demon or god from the outer reaches of space, which … will return some day to wreak terrible destruction.’”
+	•	Ringleaders: people who initiate or lead an illicit or illegal activity.  “‘The ringleaders of this cult are and have always been the Verlac family.’”
+	•	Ascension: the act of rising to an important position or a higher level.  “‘Every second generation … the role of high priest is passed down from grandfather to grandson, following some arcane ritual of ascension.’”
+	•	Transmigration of souls: the act of passing into a different body after death.  “‘There is a persistent legend that this ritual somehow involves a transmigration of souls…’”
+	•	Imminent: about to happen.  “‘In the 1920s, Edward’s grandfather Mordecai Verlac began preaching that the return of the “Nameless God” was imminent - …’”
+	•	Defunct: no longer existing or functioning.  “‘He re-opened the defunct paper mill, converting it into a factory to build some sort of device, …’”
+	•	Beacon: a fire or light set up in a high or prominent position as a warning, signal, or celebration.  “‘He re-opened the defunct paper mill, converting it into a factory to build some sort of device, a “beacon” with which to facilitate the Nameless God’s entry into this world.’”
+	•	Facilitate: make an action or process easy or easier.  “‘He re-opened the defunct paper mill, converting it into a factory to build some sort of device, a “beacon” with which to facilitate the Nameless God’s entry into this world.’”
+	•	Entail: involve something as a necessary or inevitable part or consequence.  “‘It will most likely entail the wholesale slaughter of every non-cultist man, woman and child in the city.’”
+	•	Wholesale: done on a large scale; extensive.  “‘It will most likely entail the wholesale slaughter of every non-cultist man, woman and child in the city.’”
+	•	Perpetrated: carried out of committed.  “‘The child abductions of the past few years were most likely preparatory sacrifices perpetrated by the cult, …’”
+	•	Induct: admit formally to a position or organization.  “‘The cult is almost certainly watching your every move, and will attempt to induct and brainwash you into their cult …’”
+	•	Inbred: produced by breeding closely related people or animals, especially over many generations.  “‘These cultists are a menace, inbred and insane to the last man, …’”
+	•	Dog-eared: having the corners of each page folded down, typically to mark a place.  “Beneath the sign sits a heavy, dog-eared register, …”
+	•	Dutifully: in a conscientious or obedient manner.  “Dutifully, you sign the register, and the librarian hands you the book before disappearing again.”
+	•	Fecund: fertile; producing or capable of producing an abundance of offspring or new growth.  “‘... the Miskaton River Valley has long been recognized as particularly fecund ground for tall tales and fanciful superstition.’”
+	•	Fanciful: overimaginative and unrealistic.  “‘... the Miskaton River Valley has long been recognized as particularly fecund ground for tall tales and fanciful superstition.’”
+	•	Venerable: accorded a great deal of respect, especially because of age, wisdom, or character.  “‘Legends abound of hideous, inhuman races living within the venerable hills;’”
+	•	Bombastic: high-sounding but with little meaning; inflated.  “It begins … and continues along the same lines in the typically dry and bombastic style of those times.”
+	•	Sired: became the father of.  “‘Croseus sired six raven-haired daughters and schooled all of them at home.’”
+	•	Raven-haired: having hair that is shiny and black like the feathers of a raven.  “‘Croseus sired six raven-haired daughters and schooled all of them at home.’”
+	•	Reclusive: avoiding the company of other people; solitary.  “‘The girls were reclusive and odd of habit, and by the time the eldest turned fifteen the town had all but openly accused them of witchcraft.’”
+	•	Shunned: persistently avoided, ignored, or rejected through antipathy or caution.  “‘The townsfolk shunned the Verlac daughters and called them “the Old Man’s Coven” - …’”
+	•	Coven: a group or gathering of witches who meet regularly.  “‘The townsfolk shunned the Verlac daughters and called them “the Old Man’s Coven” - …’”
+	•	Ostensibly: apparently or purportedly, but perhaps not actually.  “‘Although he never had a son, Croseus apparently sired a number of grandsons by more than one of his daughters - ostensibly to keep the Verlac blood pure, …’”
+	•	Xenophobic: having or showing a dislike of or prejudice against people from other countries.  “‘... Croseus apparently sired a number of grandsons by more than one of his daughters - ostensibly to keep the Verlac blood pure, such practice being not uncommon in the more secluded and xenophobic early settlements.’”
+	•	Sorcery: the use of magic, especially black magic.  “‘... there were furtive whispers that Croseus was practicing some form of dark sorcery on his progeny.’”
+	•	Progeny: a descendant or the descendants of a person, animal, or plant; offspring.  “‘... there were furtive whispers that Croseus was practicing some form of dark sorcery on his progeny.’”
+	•	Calvinist: an adherent of the Protestant theological system of John Calvin and his successors.  “‘She returned some years later, after an outbreak of smallpox wiped out much of the town’s older population, including the Calvinist minister and every last man and woman who had participated in the burning of Verlac’s brood.’”
+	•	Brood: a family of young animals, especially of a bird, produced at one hatching or birth.  “‘... an outbreak of smallpox wiped out … every last man and woman who had participated in the burning of Verlac’s brood.’”
+	•	Start: a sudden and violent move.  “With a start, you remember the pattern you uncovered in the city archives - …”
+	•	Legacy: a thing handed down by a predecessor.  “He went insane and killed his entire family, and now his legacy has been passed on to your husband.”
+	•	Enigmatic: difficult to interpret or understand; mysterious.  “‘Little is known about the enigmatic Misquat Indians.’”
+	•	Unobtrusive: not conspicuous or attracting attention.  “‘They are believed to have occupied a small, unobtrusive area around southeastern Massachusetts, along the banks of the river which now bears their name.’”
+	•	Sequestered: isolated and hidden away.  “‘... information about this tiny, sequestered tribe is therefore scarce and based largely on hearsay and folklore.’”
+	•	Hearsay: information received from other people that one cannot adequately substantiate; rumor.  “‘... information about this tiny, sequestered tribe is therefore scarce and based largely on hearsay and folklore.’”
+	•	Folklore: the traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth.  “‘... information about this tiny, sequestered tribe is therefore scarce and based largely on hearsay and folklore.’”
+	•	Indigenous: originating or occurring naturally in a particular place; native.  “‘Analysis of the only known fossil - a partial skull - has led some anthropologists to conclude that the Misquat were not indigenous to the region.’”
+	•	Degenerate: immoral or corrupt.  “‘One popular theory holds that the tribe is most closely related to certain degenerate branches of the northern Esquimeaux, …’”
+	•	Esquimeaux: a misspelling of Esquimaux, the French spelling of Eskimo, the indigenous peoples who have traditionally inhabited the northern circumpolar region from eastern Siberia, across Alaska, Canada, and Greenland.  “‘One popular theory holds that the tribe is most closely related to certain degenerate branches of the northern Esquimeaux, …’”
+	•	Unilaterally: relating to, occurring on, or involving one side only.  “‘They appear to have been a unilaterally reviled tribe.’”
+	•	Reviled: criticized in an abusive or angrily insulting manner.  “‘They appear to have been a unilaterally reviled tribe.’”
+	•	Ululating: howling or wailing as an expression of strong emotion, typically grief.  “‘Most of the whispered stories involve horrid, ululating chants around blazing bonfires in the dead of winter night, …’”
+	•	Copulations: acts of sexual intercourse.  “‘Most of the whispered stories involve … grotesque copulations performed in honor of bestial gods, and of course abundant human sacrifice.’”
+	•	Prejudices: preconceived opinions that are not based on reason or actual experience.  “‘None of these claims can of course be verified; nearly all Indian tribes encountered by the first European settlers have been subject to such prejudices at one time or another.’”
+	•	Theology: the study of the nature of God and religious belief.  “‘It is known that the Misquat were most likely star-worshippers, and possessed what was likely a quite complex theology involving entities that dwelled beyond “the bowl of tiny fires” - their term for the night sky.’”
+	•	Bestowed: confer or present an honor, right, or gift.  “‘These entities granted wisdom or insanity, bestowed prosperity or famine, according to how well or how laxly the tribe performed its ritual appeasements.’”
+	•	Laxly: insufficiently strict, severe, or careful.  “‘These entities … bestowed prosperity or famine, according to how well or how laxly the tribe performed its ritual appeasements.’”
+	•	Appeasements: acts of relieving or satisfying demands or feelings.  “‘These entities … bestowed prosperity or famine, according to how well or how laxly the tribe performed its ritual appeasements.’”
+	•	Aspects: the position of planets or stars with respect to one another.  “‘The rituals attempted to contact or even possibly summon aspects of these entities through elaborately carved “beacons” - …’”
+	•	Intractable: hard to control or deal with.  “‘The few eroded hieroglyphs left by them … have proved a compelling but so far intractable puzzle for linguists today; …’”
+	•	Linguists: people skilled in foreign languages.  “‘The few eroded hieroglyphs left by them … have proved a compelling but so far intractable puzzle for linguists today; …’”
+	•	Primordial: existing at or from the beginning of time; primeval.  “‘Nearly all of the early European settlements circulated stories of a being known as “The Dark Man” that lived in the primordial woods beyond the settlements’ borders.’”
+	•	Fundamentalist: relating to or advocating the strict, literal interpretation of scripture.  “‘For the predominantly fundamentalist Protestant sects that first colonized the New World, these projections typically were embodiments of the Christian concept of the Devil.’”
+	•	Protestant: a member or follower of any of the Western Christian churches that are separate from the Roman Catholic Church and follow the principles of the Reformation.  “‘For the predominantly fundamentalist Protestant sects that first colonized the New World, these projections typically were embodiments of the Christian concept of the Devil.’”
+	•	Sects: groups of people with somewhat different religious beliefs from those of a larger group to which they belong.  “‘For the predominantly fundamentalist Protestant sects that first colonized the New World, these projections typically were embodiments of the Christian concept of the Devil.’”
+	•	Cunning: having or showing skill in achieving one’s ends by deceit or evasion.  “‘... most often he is a Caucasian with jet-black skin, thus combining the refined, cunning intelligence of the European with the base carnality of the African.’”
+	•	Carnality: relating to physical, especially sexual, needs and activities.  “‘most often he is a Caucasian with jet-black skin, thus combining the refined, cunning intelligence of the European with the case carnality of the African.’”
+	•	Consort: a wife, husband, or companion.  “‘He is regularly portrayed as the consort of witches.’”
+	•	Appellation: a name or title.  “‘He has many names: … but always his formal, Biblical appellation - “Lucifer” or “Satan” - is scrupulously avoided, …’”
+	•	Scrupulously: in a very careful or thorough way.  “‘He has many names: … but always his formal, Biblical appellation - “Lucifer” or “Satan” - is scrupulously avoided, …’”
+	•	Harken … back: to bring back to mind.  “‘More interesting to the folklorist are the names that harken … back than these simple Christian superstitions, …’”
+	•	Pan: a god of flocks and herds, typically represented with the horns, ears, and legs of a goat on a man’s body.  “‘He is sometimes pictured as being covered with hair, or having hooves instead of feet, resembling Classical images of Pan.’”
+	•	Wicker: another name for Wicca, the religious cult of modern witchcraft.  “‘His names are more obscure: The Wicker (or Wicca) Man; …’”
+	•	Aspects: particular parts or features of something.  “‘A few rare instances of the Dark Man have been uncovered that point beyond even these antiquated references - bizarre aspects that seem to reflect some of the less understood concepts of Native American mysticism.’”
+	•	Baroque: relating to or denoting a style of European architecture, music, and art of the 17th and 18th centuries that followed mannerism and is characterized by ornate detail.  “‘Such baroque names … point to a substratum of human mythology as yet untouched.’”
+	•	Substratum: an underlying layer or substance.  “‘Such baroque names … point to a substratum of human mythology as yet untouched.’”
+	•	Ouroburos: a misspelling of Ouroboros (also spelled Uroborus), a circular symbol of a snake or dragon devouring its tail, standing for infinity or wholeness.  “‘These versions typically describe … rather abstract concepts of Evil and Time that some scholars have linked to the pre-Roman god Saturn, … when he was instead identified with the Ouroburos Dragon, Devourer of Worlds.’”
+	•	Hobgoblins: mischievous imps or sprites.  “‘Some accounts insist that it is a spirit of the restless dead; others attribute the effect to malicious hobgoblins.’”
+	•	Implicate: show someone to be involved in a crime.  “‘Other versions implicate witchcraft, a pirate’s curse, swamp faerie… the list goes on.’”
+	•	Faerie: one of multiple archaic literary spellings of the plural form of Fairy.  “‘Other versions implicate witchcraft, a pirate’s curse, swamp faerie… the list goes on.’”
+	•	Spectral: of or like a ghost.  “‘Yet another colorful folk legend involves … a spectral locomotive that materializes from nowhere, …’”
+	•	Advent: the arrival of a notable person, thing, or event.  “‘... obviously it only came into being after the advent of the steam locomotive in our burgeoning Machine Age.’”
+	•	Burgeoning: begin to grow or increase rapidly; flourish.  “‘... obviously it only came into being after the advent of the steam locomotive in our burgeoning Machine Age.’”
+	•	Ghastly: causing great horror or fear; frightful or macabre.  “‘... many versions hold that the ghost train represents the ghastly echoes of a locomotive that was wrecked, …’”
+	•	Charon: an old man in Greek mythology who ferried the souls of the dead across the Styx and Acheron rivers to Hades.  “‘More intriguing and more useful to the folklorist are versions that explain the ghost train as … a modernized boat of Charon, …’”
+	•	Shroud: a thing that envelopes or obscures something (also a length of cloth or an enveloping garment in which a dead person is wrapped for burial).  “‘More intriguing and more useful to the folklorist are versions that explain the ghost train as … a modernized boat of Charon, ferrying damned souls across the shroud to the devil’s newly industrial Hell.’”
+	•	Analogous: comparable in certain respects, typically in a way that makes clearer the nature of the things compared.  “‘In some of these tellings, the traveling soul must have a ticket to present to the grim conductor - an element directly analogous to the ancient custom of placing of gold coins beneath the tongue to buy passage to the underworld.’”
+	•	Sojourn: a temporary stay.  “‘Living souls who ventured too near the tracks as the ghost train made its nightly sojourn would find themselves swept along - …’”
+	•	Celtic: of or relating to the Celts or their languages.  “‘... the Celtic/Germanic myth of the Wild Hunt, …’”
+	•	Germanic: of, relating to, or denoting the branch of the Indo-European language family that includes English, German, Dutch, Frisian, the Scandinavian languages, and Gothic.  “‘... the Celtic/Germanic myth of the Wild Hunt, …’”
+	•	Eldritch: weird and sinister or ghostly.  “‘Those who thus boarded the train … were inevitably carried back to whatever eldritch dimension from whence the train originated.’”
+	•	Apocryphal: of doubtful authenticity, although widely circulated as being true.  “‘Tales of return voyages are rare and generally held by those who pass them along to be apocryphal.’”
+	•	Spirits: conveys rapidly and secretly.  “Wordlessly the librarian takes the tome from you and spirits it back to the shadowy depths of the reserved stacks.”
+	•	Metempsychosis: the supposed transmigration at death of the soul of a human being or animal into a new body of the same or a different species.  “‘Mechanics of Metempsychosis’ by C. C. H. Horne;”
+	•	Transduction: the act of transducing (converting variations in a physical quantity, such as pressure or brightness, into an electrical signal, or vice versa).  “‘N-Fold Transduction and the Space-Time Barrier: a New Theory in Particle Physics’ by Lord Wheldrake.”
+	•	Amassed: gathered together or accumulated over a period of time.  “Strange; you can’t help but wonder why your real estate agent would have amassed such an esoteric reading list.”
+	•	Objective: not influenced by personal feelings or opinions in considering and representing facts.  “... the book’s purpose is to give an objective account of the social and economic factors which led some of the early American colonies into violent conflict with the tribes of the northeast, …”
+	•	Manifest Destiny: the 19th-century doctrine or belief that the expansion of the US throughout the American continents was both justified and inevitable.  “... the ‘Indian policies’ which took shape early on evolved into Western Expansionism and the idea of Manifest Destiny.”
+	•	Conservative: holding to traditional attitudes and values and cautious about change or innovation, typically in relation to politics and religion.  “The author, reflecting the more conservative decade in which he wrote, tends to paint a more sympathetic picture of the European side of the issue than would be fashionable today; …”
+	•	Diplomatic: of or concerning the profession, activity, or skill of managing international relations.  “‘Diplomatic relationships with the original river valley settlers seemed doomed from the beginning.’”
+	•	Savages: members of a people regarded as primitive and uncivilized.  “‘Documents from the period paint the tribe as aggressively pagan, degenerate savages.’”
+	•	Coexistence: the state or condition of living in harmony despite different ideologies or interests.  “‘... Croseus Verlac managed to hammer out a peace treaty of sorts with the tribal leader, and the two groups led an uneasy coexistence for over a century.’”
+	•	Subservient: prepared to obey others unquestioningly.  “‘... as far as is known, the Misquats were never in a subservient relationship to the Anchorhead settlers, …’”
+	•	Corroborates: confirms or gives support to a statement, theory, or finding.  “‘... no evidence has yet been discovered that corroborates the notion that the Misquat Indians initiated any sort of hostility whatsoever.’”
+	•	Notion: a conception or belief about something.  “‘... no evidence has yet been discovered that corroborates the notion that the Misquat Indians initiated any sort of hostility whatsoever.’”
+	•	Initiated: caused to begin.  “‘... no evidence has yet been discovered that corroborates the notion that the Misquat Indians initiated any sort of hostility whatsoever.’”
+	•	Allusion: an expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.  “‘No known document makes even the vaguest allusion to the Misquat Indians after 1772.’”
+	•	Foreword: a short introduction to a book, typically by a person other than the author.  “According to the author’s foreword, the term ‘metempsychosis’ means the transmigration of souls - that is, the reincarnation of a soul into another body.”
+	•	Transmigration: the act of passing into a different body after death.  “According to the author’s foreword, the term ‘metempsychosis’ means the transmigration of souls - that is, the reincarnation of a soul into another body.”
+	•	Quaint: attractively unusual or old-fashioned.  “‘Among tribes with a strong ancestor-worship tradition, one often discovers the quaint notion that one may be reincarnated as one’s own descendant.’”
+	•	Aeons: an alternate spelling of Eons, in its singular form, an indefinite and very long period of time; often (when used in the plural) a period exaggerated for humorous or rhetorical effect.  “‘One could conceivably be dealing with a tribe of “first” men, present at the day of Creation and renewing themselves over the aeons with each succeeding generation.’”
+	•	Tract: a short treatise in pamphlet form, typically on a religious subject.  “This is a very thin volume, more of a tract than a proper book.”
+	•	Physics: the branch of science concerned with the nature and properties of matter and energy.  “Even without a background in physics, you can immediately tell that this is nothing but the purest pseudoscience.”
+	•	Pseudoscience: a collection of beliefs or practices mistakenly regarded as being based on scientific method.  “Even without a background in physics, you can immediately tell that this is nothing but the purest pseudoscience.”
+	•	Heretofore: before now.  “The author claims to have made ‘startling advances’ relating to a heretofore unknown medium through which energy can travel.”
+	•	Medium: the intervening substance through which impressions are conveyed to the senses or a force acts on objects at a distance.  “The author claims to have made ‘startling advances’ relating to a heretofore unknown medium through which energy can travel.”
+	•	Thesis: a statement or theory that is put forward as a premise to be maintained or proved.  “... his entire thesis is built on extrapolation from his own creative reasoning.”
+	•	Extrapolation: the action of estimating or concluding something by assuming that existing trends will continue or a current method will remain applicable.  “... his entire thesis is built on extrapolation from his own creative reasoning.”
+	•	Posit: assume as a fact; put forward as a basis of argument.  “‘Having established the existence of the N-space medium, we can then reasonably posit the existence of a special wave-length capable of traveling through that medium; …’”
+	•	Electromagnetic spectrum: the range of wavelengths or frequencies over which electromagnetic radiation extends.  “‘Due to the fundamentally extradimensional nature of N-space, N-rays cannot logically be located at any one point of the electromagnetic spectrum; …’”
+	•	Perpendicular: at an angle of 90° to a given line, plane, or surface.  “‘... they instead exist at every point along the spectrum, traveling perpendicular it.’”
+	•	Ramifications: consequences of an action or event, especially when complex or unwelcome.  “‘Naturally, the practical ramifications of being able to transmit extradimensionally are dwarfed by the theoretical implications …’”
+	•	Dwarfed: caused to seem small or insignificant in comparison.  “‘Naturally, the practical ramifications of being able to transmit extradimensionally are dwarfed by the theoretical implications …’”
+	•	Drivel: silly nonsense.  “Good grief, you can’t help thinking.  What drivel.”
+	•	Desolate: deserted of people and in a state of bleak and dismal emptiness.  “The road carries you across a desolate heath of gray, windswept grass.”
+	•	Gable(s): the part of a wall that encloses the end of a pitched roof.  “To the south, the black, jagged outline of Anchorhead’s steep roofs and sharp, leaning gables cuts across the horizon.”
+	•	Breakwater: a barrier built out into a body of water to protect a coast or harbor from the force of waves.
+	•	Ruts: long, deep tracks made by the repeated passage of the wheels of vehicles.  “You are picking your way across the breakwater’s bare, rocky spine, where the road has diminished to little more than a pair of dusty ruts.”
+	•	Vigil: a period of keeping awake during the time usually spent asleep, especially to keep watch or pray.  “A hundred yards to the northeast, at the breakwater’s far end, the lonely stone tower of Anchorhead’s lighthouse stands vigil against the ocean.”
+	•	Vertiginous: causing vertigo, especially by being extremely high or steep.  “Before you looms the ancient, massive lighthouse, a vertiginous pillar of pale brick jabbing defiantly up at the sky.”
+	•	Circumference: the enclosing boundary of a curved geometric figure, especially a circle.  “You climb the winding stairs in a gradual spiral around the inner circumference of the tower, and finally emerge, breathless, at the top.”
+	•	Undulating: moving with a smooth wavelike motion.  “In one direction, the dying heath and the stunted cluster of buildings that is Anchorhead; in the other, the ocean like a vast, undulating blanket.”
+	•	Turbulent: characterized by conflict, disorder, or confusion; not controlled or calm.  “Beyond the breakwater’s tip, a turbulent patch of water bubbles and seethes, …”
+	•	Charred: partially burnt to the point its surface is black in color.  “A gate of heavy iron bars blocks the only opening into this charred fortress, …”
+	•	Buckling: bending and giving way under pressure or strain.  “Weeds push up through cracked and buckling slabs of concrete; …”
+	•	Rebar: a steel reinforcing rod in concrete.  “... twisted rebar and rusting pipes poke up like the legs of dead insects.”
+	•	Thickets: a dense group of bushes or trees.  “The ruins are surrounded on all sides by dense thickets, …”
+	•	Embankment: a wall or bank of earth or stone built to prevent a river flooding an area.  “The trail heads up a short embankment and emerges from the thicket alongside the railroad tracks.”
+	•	Sentinel: a soldier or guard whose job is to stand and keep watch.  “From the embankment you can look out over the entire heath: … to the east, the lighthouse sentinel and the leaden waters of the Atlantic beyond.”
+	•	Leaden: dull, heavy, or slow.  “... to the east, the lighthouse sentinel and the leaden waters of the Atlantic beyond.”
+	•	Clapboard: long, thin, flat piece of wood with edges horizontally overlapping in series, used to cover the outer walls of buildings.  “The road peters out at a wide clearing of rutted mud, flanked by uneven rows of decrepit, clapboard shacks.”
+	•	Tarpaper: heavy tar-coated paper used as waterproofing material in building.  “The town is quiet, almost deserted; only a few bits of loose tarpaper blowing listlessly in the wind betray the overall stillness.”
+	•	Listlessly: lacking energy or enthusiasm.  “... only a few bits of loose tarpaper blowing listlessly in the wind betray the overall stillness.”
+	•	Teetering: move or balance unsteadily; sway back and forth.  “All peeling paint, broken glass and missing shingles, the houses are poorly built and teetering on the verge of falling apart completely.”
+	•	Verge: an edge or border.  “... the houses are poorly built and teetering on the verge of falling apart completely.”
+	•	Trepidation: a feeling of fear or agitation about something that may happen.  “She stares out [at] you with a mixture of trepidation and mistrust.”
+	•	Tenuous: very weak or slight.  “But… even one clue, however tenuous, offers possibility.”
+	•	In lieu: instead.  “Rags hang across the window in lieu of curtains.”
+	•	Wanly: pale and giving the impression of illness or exhaustion.  “The woman smiles wanly.”
+	•	Implores: begs someone earnestly or desperately to do something.  “Her look implores you.”
+	•	Scored: cut or scratched.  “Looking closely, you see faint marks - like sucker marks, almost - scored across the sill.”
+	•	Wistful: having or showing a feeling of vague or regretful longing.  “She smiles, sad and wistful.”
+	•	Hurricane lamp: an oil lamp with a glass chimney, designed to protect the flame even in high winds.  “It’s an old-fashioned hurricane lamp, with a tall glass chimney to protect it from the wind.”
+	•	Calibrations: each of a set of graduations (marks indicating degrees or quantity) on an instrument.  “The gauge has a circular face with a needle that sweeps in a 270 degree arc across a set of numbered calibrations, most of which are colored green.”
+	•	Gout: a drop or spot, especially of blood, smoke, or flame.  “Just as the mechanical noises reach a crescendo, the pipes at the north end of the crawlway suddenly give vent to an enormous gout of superheated steam.”
+	•	Sundry: of various kinds; several.  “Towering above you on all sides are the enormous vats, presses and sundry machinery, the ever-churning inner workings of the paper mill.”
+	•	Acquainted: aware of or familiar with.  “... you could hardly call yourself acquainted with the working of a paper mill, …”
+	•	Pulp: a soft, wet, shapeless mass of material.  “... you don’t see any paper - or any wood pulp, or any dye, …”
+	•	Dye: a natural or synthetic substance used to add a color to or change the color of something.  “... you don’t see any paper - or any wood pulp, or any dye, …”
+	•	Churning out: producing or issuing something quickly or regularly and in large quantities.  “The machines are definitely churning out something - but what?”
+	•	Conglomeration: a number of different things, parts or items that are grouped together; collection.  “A dense conglomeration of tubes and compressors packed into a sturdy metal frame;”
+	•	Compressors: instruments or devices for compressing (increasing the pressure and reducing the size of) something.  “A dense conglomeration of tubes and compressors packed into a sturdy metal frame;”
+	•	Taut: stretched or pulled tight; not slack.  “... suddenly, the chain pulls taut and jerks you off your feet, hauling you up through the air - …”
+	•	Caliper: an instrument for measuring external or internal dimensions, having two hinged legs resembling a pair of compasses and in-turned or out-turned points.  “Prominent among the strange tools scattered across the table is a strange caliper-like instrument.”
+	•	Pincer: a tool made of two pieces of metal bearing blunt concave jaws that are arranged like the blades of scissors, used for gripping and pulling things.  “It has three independently-adjustable arms, each ending in a needle-point pincer, …”
+	•	Contortion: something that is twisted or bent out of a normal shape.  “There is a calibrated readout set near the base, which presumably provides a measure of whatever strange contortion of space is occupied by whatever object is placed between the pincers at the tool’s other end.”
+	•	Formulae: alternate plural form of Formula, as in mathematics.  “The notes are a mess of incomprehensibly scrawled numbers; long printouts of technical data, tangled diagrams and complex formulae.”
+	•	Cribbed: copied illicitly or without acknowledgment.  “Lifting up a sheet of cribbed equations, you notice what looks to be a general memo to all mill workers.”
+	•	Flimsy: a document, especially a copy, make on very thin paper.  “It’s a flimsy sheet of paper …”
+	•	Brethren: members of a male religious order.  “‘!!NOTICE TO ALL BRETHREN!!’”
+	•	Instabilities: states of being unstable.  “‘Even the slightest smudge of dirt or grease can create dangerous instabilities in the refraction patterns.’”
+	•	Refraction: the fact or phenomenon of light, radio waves, etc., being deflected in passing obliquely through the interface between one medium and another or through a medium of varying density.  “‘Even the slightest smudge of dirt or grease can create dangerous instabilities in the refraction patterns.’”
+	•	Ionization: conversion of an atom, molecule, or substance into an ion or ions, typically by removing one or more electrons.  “‘All mirrors must receive ionization treatment as a matter of course.’”
+	•	Matter of course: a natural or logical outcome.  “‘All mirrors must receive ionization treatment as a matter of course.’”
+	•	Schematic: a schematic (symbolic and simplified) diagram, in particular of an electric or electronic circuit.  “The blueprint is a technical schematic for some extremely complicated device, the exact purpose of which is anything but clear.”
+	•	Cabbalistic: resembling Kabbalah, which is Hebrew for To Receive, and is an esoteric method, discipline, and school of thought that originated in Judaism.  “Some of the notations on the circuitry don’t even look like technical symbols; they look more like cabbalistic runes.”
+	•	Runes: letters of an ancient Germanic alphabet, related to the Roman alphabet.  “Some of the notations on the circuitry don’t even look like technical symbols; they look more like cabbalistic runes.”
+	•	Spur: a thing that projects or branches off from a main body, in particular.  “A long figure, tiny in the distance, makes its way around the small spur of rock at the end of the breakwater …”
+	•	Assailant: a person who typically attacks another.  “As you kneel there, dazed and struggling not to pass out, your assailant walks slowly around you.”
+	•	Correlate: have a mutual relationship or connection, in which one thing affects or depends on another.  “The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents.”
+	•	Placid: not easily upset or excited.  “We live on a placid island of ignorance in the midst of black seas of infinity, …”
+	•	Dissociated: disconnected or separated.  “... but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, …”
+	•	Vistas: views, especially as seen through long, narrow openings.  “... but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the deadly light into the peace and safety of a new dark age.”
+	•	Strait jacket: a strong garment with long sleeves that can be tied together to confine the arms of a violent prisoner or mental patient.  “... you’re wearing a strait jacket, for god’s sake.”
+	•	Immobilize: prevent from moving or operating as normal.  “It’s a canvas strait jacket, the kind used to immobilize violent or spastic mental patients.”
+	•	Spastic: relating to or affected by muscle spasm.  “It’s a canvas strait jacket, the kind used to immobilize violent or spastic mental patients.”
+	•	Prancing: moving with high springy steps.  “Inside the eastern cell you can see what must be one of the asylum’s old inmates, prancing and cavorting around the room.”
+	•	Cavorting: jumping or dancing around excitedly.  “Inside the eastern cell you can see what must be one of the asylum’s old inmates, prancing and cavorting around the room.”
+	•	Congealed: solidified or coagulated, especially by cooling.  “With mounting disgust, you notice several strands of dark hair still stuck to the congealed stain.”
+	•	Worse for the wear: in poor physical condition owing to long use.  “The padding in this room seems a bit worse for the wear;”
+	•	Testament: a person’s will.  “‘My name is Edward Verlac, and this is my testament:’”
+	•	Quill: an object in the form of a thin tube, in particular.  “‘... I hold the tiny steel quill beneath my teeth to write.’”
+	•	Exhaustive: examining, including, or considering all elements or aspects; fully comprehensive.  “‘This exhaustive task shall be my last on earth;’”
+	•	Congenital: present from birth.  “‘Know this: I did not slip into madness through any weakness or congenital defect …’”
+	•	Insofar: to the extent that.  “‘Know this: I did not slip into madness through any weakness or congenital defect (except insofar as my blood is indelibly tainted with the cursed ichor of the Verlac line) …’”
+	•	Indelibly: in a way that cannot be removed or forgotten.  “‘... (my blood is indelibly tainted with the cursed ichor of the Verlac line) …’”
+	•	Ichor: an ethereal fluid taking the place of blood in the veins of the ancient Greek gods.  “‘... (my blood is indelibly tainted with the cursed ichor of the Verlac line) …’”
+	•	Spectre: a ghost.  “‘... I was driven mad by the spectre of my great-great-ancestor, Croseus Verlac.’”
+	•	Incestuous: involving incest (sexual relations between people classed as being too closely related to marry each other).  “‘For generations, that fiend has traveled down the family line, passing from body to body in a hideous, incestuous ritual …’”
+	•	Coupling: the pairing of two items, as in sexual intercourse.  “‘William, however, died while still a toddler - or so my mother has always told me - and the next unholy coupling resulted in me.’”
+	•	Pernicious: having a harmful effect, especially in a gradual or subtle way.  “‘From as early as I can remember, I could feel the lurking presence of my grandfather, who died the day I was born, and who I now realize was little more than a fleshly disguise for the pernicious warlock Croseus.’”
+	•	Warlock: a man who practices witchcraft; a sorcerer.  “‘... my grandfather … was little more than a fleshly disguise for the pernicious warlock Croseus.’”
+	•	Limbo: in some Christian beliefs, the supposed abode of the souls of unbaptized infants, and of the just who died before Christ’s coming.  “‘He stalked the boundaries of my mind, seeking a means of entrance, of condemning my soul to limbo and taking up a fresh, new abode in my young limbs.’”
+	•	Abode: a place of residence; a house or home.  “‘He stalked the boundaries of my mind, seeking a means of entrance … and taking up a fresh, new abode in my young limbs.’”
+	•	O’ershadowed: a contraction of Overshadowed, towered above and cast a shadow over.  “‘His evil, red-rimmed eyes haunted my every dream and o’ershadowed even my waking hours.’”
+	•	Cannot abide: is unable to tolerate.  “‘The amulet my mother gave me while I was still in the crib protected me - for the old man cannot abide its presence, and must flee all who wear it - …’”
+	•	Pall: a dark cloud or covering of dust, smoke, or similar matter.  “‘I became embarrassed by the scandal that seemed to hover over my family name like a pall, ...’”
+	•	Mortified: caused to feel embarrassed, ashamed, or humiliated.  “‘I … was mortified by the superstitious trinket that I still wore around my neck, as if in ignorant servitude to those old myths.’”
+	•	Trinket: a small ornament or item of jewelry that is of little value.  “‘I … was mortified by the superstitious trinket that I still wore around my neck, …’”
+	•	Fancy: the faculty of imagination.  “‘The red-rimmed eyes had not given me nightmares since my twelfth birthday, and I dismissed them as an immature fancy that had passed along with my boyhood.’”
+	•	Pawned: deposited with a pawnbroker as security for money lent.  “‘At the age of 21, I pawned the amulet at a magic shop somewhere in town, and thereby sealed my doom.’”
+	•	Antiquarian: relating to or dealing in antiques or rare books.  “‘I found my mind flooded at the oddest times with strange, antiquarian memories;’”
+	•	Scoured: subjected to a thorough search in order to locate something.  “‘I scoured every street in this cursed town, looking for that magic shop, but I have never found it.’”
+	•	Delving: reaching inside a receptacle and searching for something.  “‘In desperation I began delving into old histories and forbidden genealogies, researching the history of the dread Verlac name for some solution to my plight.’”
+	•	Nefarious: wicked or criminal.  “‘But I also discovered something worse - the ultimate purpose behind the old demon’s nefarious bodysnatching!’”
+	•	Messiah: a leader or savior of a particular group or cause.  “‘... the degenerate inhabitants of this town would hunt down my family and wreak a terrible vengeance if I took from them their Messiah.’”
+	•	Crafty: clever at achieving one’s aims by indirect or deceitful methods.  “‘And besides; who could say whether the crafty devil Croseus might not concoct some new way to enter the world, through a new body - through that of one of my daughters, perhaps?’”
+	•	Concoct: make by up by putting several different things together.  “‘... who could say whether the crafty devil Croseus might not concoct some new way to enter the world, through a new body …’”
+	•	Psychotic: of, denoting, or suffering from a psychosis (a severe mental disorder in which thought and emotions are so impaired that contact is lost with external reality).  “You have just enough time to notice - with no small amount of disquiet - that the man is not wearing a strait jacket, and then he looks up at you and grins and utterly psychotic grin.”
+	•	Capering: skipping or dancing about in a lively or playful way.  “Old, dried blood streaks his lips and chin, and his dirt-ringed eyes gleam with an obscene, capering madness.”
+	•	Pawing: feeling or scraping with a paw or hoof.  “The madman snatches the magazine from your hand and begins pawing through it like an over-sexed adolescent, …”
+	•	Gristly: consisting or full of gristle (cartilage, especially when found as tough, inedible tissue in meat).  “The madman stops, stoops down, and picks a bit of gristly stuff out of the back of the orderly’s head.”
+	•	Dumbfounded: greatly astonished or amazed.  “He looks around, utterly dumbfounded.”
+	•	Addled: unable to think clearly; confused.  “Slowly it dawns on his addled brain that he is outside; that he is, in fact, free.”
+	•	Hobbles: walks in an awkward way, typically because of pain from an injury.  “With a wild whoop of pure joy, the madman hobbles away down the street, …”
+	•	Unabashed: not embarrassed, disconcerted, or ashamed.  “With a wild whoop of pure joy, the madman hobbles away down the street, laughing and chattering to himself with such unabashed happiness …”
+	•	Homicidal: of, relating to, or tending toward murder.  “... for a moment you almost forget that you have just let loose a dangerous and quite probably homicidal psychotic into the world at large.”
+	•	Brandishing: waving or flourishing something, usually a weapon, as a threat or in anger or excitement.  “Robed men brandishing torches pour into the square, rallying around the obelisk at its center.”
+	•	Rallying: coming together to support a person or cause or take concerted action.  “Robed men brandishing torches pour into the square, rallying around the obelisk at its center.”
+	•	Frantic: wild or distraught with fear, anxiety, or other emotion.  “Although he screams and writhes with frantic desperation, the frail old drunkard is no match for his captors.”
+	•	Whimpering: making a series of low, feeble sounds expressive of fear, pain, or discontent.  “Even the old bum’s screams lower to a fearful whimpering.”
+	•	Intones: says or recites with little rise and fall of the pitch of the voice.  “‘My brethren,’ intones the leader, ‘we are gathered here to mete out bloody justice upon one who has sinned against us.’”
+	•	Mete out: give out something such as punishment or justice, especially in a way that seems harsh or unfair.  “‘... we are gathered here to mete out bloody justice upon one who has sinned against us.’”
+	•	Brotherhood: an association, society, or community of people linked by a common interest, religion, or trade.  “‘This one, … has divulged our secrets to an outsider and betrayed the sacred trust of our brotherhood!’”
+	•	Embraced: included or contained as a constituent part.  “‘For this, his soul must be condemned forever, embraced and encysted within the necrotic folds of the Womb of Nehilim!’”
+	•	Encysted: enclosed or become enclosed in a cyst.  “‘For this, his soul must be condemned forever, embraced and encysted within the necrotic folds of the Womb of Nehilim!’”
+	•	Necrotic: causing the death of most or all of the cells in an organ or tissue due to disease, injury, or failure of the blood supply.  “‘For this, his soul must be condemned forever, embraced and encysted within the necrotic folds of the Womb of Nehilim!’”
+	•	Avert: turn away one’s eyes or thoughts.  “You avert your eyes;”
+	•	Staved in: having had a hole smashed in.  “You avert your eyes; his screams are quickly cut off as his ribs are staved in, …”
+	•	Hypnotic: of, producing, or relating to hypnosis (the induction of a reduced state of consciousness).  “The crowd backs away, its cheering and chanting diminished to a low, hypnotic murmur.”
+	•	Musing: being absorbed in thought.  “You pick up the amulet, musing sadly that it must not have brought the poor old bum as much luck as he’d hoped.”
+	•	Hulking: large, heavy, or clumsy.  “As you approach the bridge, you see a hulking shadow lurking about on the far bank.”
+	•	Lurking about: lying in wait in a place of concealment especially for an evil purpose.  “As you approach the bridge, you see a hulking shadow lurking about on the far bank.”
+	•	Blot out: remove something painful from the mind.  “In the next few moments, your battered mind manages to blot out the memory of the bloated, barrel-like, armless trunk;”
+	•	Banish: send someone or something away.  “... you are not, and will never be, able to banish the horrible, searing memory of the thing’s misplaced face which leers madly out at you from the side of the trunk - …”
+	•	Runoff: the water or other material that drains freely off the surface of something.  “At your feet, the waters of the Miskaton are swollen and churning with runoff from the storm.”
+	•	Squawl: an antiquated spelling of Squall, a crying out.  “The little boy’s face opens its mouth and lets forth a horrible, wailing squawl, a sound like a frightened infant calling for its mother.”
+	•	Captivated: attracted and having had one’s interested and attention held; charmed.  “The creature looks down and is immediately captivated.”
+	•	Engulfed: swept over something so as to surround of cover it completely.  “It hits the water with a giant splash and is instantly engulfed by the raging current.”
+	•	Pneumatic: containing or operated by air or gas under pressure.  “The receptacle lets go of the mirror with a metallic click and a pneumatic hiss.”
+	•	Malice: the intention or desire to do evil; ill will.  “The guards eye you with malice and a certain hunger, as if they were just waiting for an excuse to tear you to pieces.”
+	•	Tart: a derogatory term for a woman who dresses or behaves in a way that is considered tasteless and sexually provocative.  “‘You’re quite a persistent little tart, aren’t you?’”
+	•	Irritant: a thing that is continually annoying or distracting.  “‘Quite the gutsy little irritant.’”
+	•	Submissive: ready to conform to the authority or will of others; meekly obedient or passive.  “‘I suppose Michael must have been one of those “modern” men; didn’t go in for the submissive type.’”
+	•	Sneers: smiles or speaks in a contemptuous or mocking manner.  “Michael - or whatever fiend is speaking from behind Michael’s face - sneers.”
+	•	Headstrong: self-willed and obstinate.  “‘A headstrong woman should be broken in, just like a headstrong horse.’”
+	•	Enthralling: capturing and holding one’s attention; fascinating.  “‘I think you’ll find it quite… enthralling.’”
+	•	Supplicants: people who beg for something earnestly or humbly.  “The guards shove their way through the crowds of robed supplicants, carrying you to the island’s center.”
+	•	Squelchy: making a soft sucking sound such as that made by walking heavily through mud.  “The block is so low, you are forced to remain kneeling in the squelchy muck, …”
+	•	Craning: stretching out one’s body or neck in order to see something.  “... you are forced to remain kneeling in the squelchy muck, craning your neck to watch the orgiastic ceremony taking place…”
+	•	Orgiastic: of or resembling an orgy (a wild party, especially one involving excessive drinking and unrestrained sexual activity).  “... you are forced to remain kneeling in the squelchy muck, craning your neck to watch the orgiastic ceremony taking place…”
+	•	Rites: religious or other solemn ceremonies or acts.  “... you are … craning your neck to watch the orgiastic ceremony taking place… and your husband … leading the terrible rites.”
+	•	Heaving: rising and falling rhythmically or spasmodically.  “Underneath the muck, the ground throbs - heaving rhythmically to a blasphemous, living pulse.”
+	•	Lashed: bound with a rope, cord, thong, or chain, so as to fasten.  “Lashed to a stake in the center of the island is a young boy.”
+	•	Tow-headed: having a head of tow-colored (very light blond) hair.  “A skinny, tow-headed boy of eight or so, he bears all the markings of a recent victim of trauma.”
+	•	Trauma: a deeply distressing or disturbing experience.  “... he bears all the markings of a recent victim of trauma.”
+	•	Gulfs: deep ravines, chasms, or abysses.  “‘Formless Drifter of the Gulfs Between, I summon Thee!’”
+	•	Summon: authoritatively or urgently call on someone to be present.  “‘Formless Drifter of the Gulfs Between, I summon Thee!’”
+	•	Thee: archaic form of You.  “‘Formless Drifter of the Gulfs Between, I summon Thee!’”
+	•	Ecstatic: feeling or expressing overwhelming happiness or joyful excitement.  “The crowd murmurs in ecstatic encouragement.”
+	•	Sigil: an inscribed or painted symbol considered to have magical power.  “Michael traces a mystic sigil in the air in front of him with the flaming torch.”
+	•	Inexplicable: unable to be explained or accounted for.  “The torch flares up with a roar, and the ocean waves seem to respond with sudden, inexplicable fury, crashing brutally against the island.”
+	•	Suppurates: undergoes the formation of pus; festers.  “‘To the East, where the Spawning Chaos seethes and suppurates within the Crucible of Grum, … I summon Thee!’”
+	•	Crucible: a ceramic or metal container in which metals or other substances may be melted or subjected to very high temperatures.  “‘To the East, where the Spawning Chaos seethes and suppurates within the Crucible of Grum, … I summon Thee!’”
+	•	Pustules: small blisters or pimples containing pus.  “‘To the East, where the Spawning Chaos seethes and suppurates within the Crucible of Grum, from whose bursting pustules arise the Million Unseeable Forms, I summon Thee!’”
+	•	Throng: a large, densely packed crowd of people or animals.  “The throng of cultists presses around the small clearing in the middle of the island from all directions, …”
+	•	Entrails: a person’s or animal’s intestines or internal organs, especially when removed or exposed.  “‘To the North, where the Howling Hunger sweeps invisibly across the Yellow Plains and gnaws upon the entrails of the pious, I summon Thee!’”
+	•	Pious: devoutly religious.  “‘To the North, where the Howling Hunger sweeps invisibly across the Yellow Plains and gnaws upon the entrails of the pious, I summon Thee!’”
+	•	Spume: froth or foam, especially that found on waves.  “A monstrous bolt of lightning licks down from the sky and strikes the sea just north of the island, sending a spume of steam and boiling water fifty feet into the shrieking sky.”
+	•	Rapture: a feeling of intense pleasure or joy.  “Screams of fear and rapture erupt throughout the pressing crowd, almost inaudible beneath the deafening peal of thunder.”
+	•	Peal: a loud repeated or reverberating sound of thunder or laughter.  “Screams of fear and rapture erupt throughout the pressing crowd, almost inaudible beneath the deafening peal of thunder.”
+	•	Fazed: disturbed or disconcerted.  “Michael isn’t even fazed.”
+	•	Corpulent: fat.  “‘To the South, where the Seven Corpulent Sultans of Slaas’tha stand in judgment over the Heretics of Kron, … I summon Thee!’”
+	•	Sultans: Muslim sovereigns.  “‘To the South, where the Seven Corpulent Sultans of Slaas’tha stand in judgment over the Heretics of Kron, … I summon Thee!’”
+	•	Heretics: people believing or practicing religious heresy (beliefs or opinions contrary to orthodox religious doctrine).  “‘To the South, where the Seven Corpulent Sultans of Slaas’tha stand in judgment over the Heretics of Kron, … I summon Thee!’”
+	•	Repentant: people who express or feel sincere regret and remorse.  “‘To the South, where the Seven Corpulent Sultans of Slaas’tha … force their vile copulations upon the repentant, I summon Thee!’”
+	•	Plasmic: of or relating to plasma (the colorless fluid part of blood).  “The crowd begins to writhe and gibber madly, like a single, plasmic organism.”
+	•	Eclipsing: obscuring the light from or to a celestial body.  “Its towering shadow seems to lean menacingly over you, eclipsing half the sky.”
+	•	Turbid: cloudy, opaque, or thick with suspended matter.  “... you can’t help but make the comparison with a lightning rod, as if this building were the focus for whatever restless forces seem to be stirring through the turbid atmosphere above.”
+	•	Venomous: secreting venom; capable of injecting venom by means of a bite or sting.  “The top of the lighthouse flares brightly with a venomous violet glow.”
+	•	Cognizant: having knowledge or being aware of.  “For a moment, Michael’s lunatic grin of triumph remains frozen in place, licked by the purple radiance, not yet cognizant that the ritual has gone wrong.”
+	•	Stricken: seriously affected by an undesirable condition or unpleasant feeling.  “In the next moment, however, he is stricken.”
+	•	Ropy: resembling a rope in being long, strong, and fibrous.  “Many are pushed off into the water, where clusters of ropy, jellyfish-like tentacles drag them screaming beneath the waves.”
+	•	Vaporized: converted into vapor.  “The upper half of the lighthouse has been vaporized, leaving a blackened, jagged stump.”
+	•	Gut: take out the intestines and other internal organs of a fish or other animal before cooking it.  “‘If I had the time I’d gut you right here and now -’”
+	•	Strides: walks with long, decisive steps in a specified direction.  “With a mocking bow he strides past you and hops over to the shore.”
+	•	Linda Hamilton: an actress who famously played as Sarah Connor in the Terminator film series, picking the locks on her bed harness and then the lock on the door of her detention cell in the second movie.  “For what seems like endless minutes, you jiggle the needle fruitlessly around, … reflecting that Linda Hamilton makes it look deceptively easy on the big screen - …”
+	•	Beckons: makes a gesture with the hand, arm, or head to encourage someone to come nearer or follow.  “The door opens a crack and the woman peers fearfully out; but when she sees it is you, she smiles and beckons you inside.”
+	•	Gratitude: the quality of being thankful; readiness to show appreciation for and to return kindness.  “Her eyes speak volumes of gratitude that her words will never be able to express.”
+	•	Guttural: produced in the throat; harsh-sounding.  “He walks over to the obelisk and places his hand against the bloodstained stone, then mutters something guttural under his breath.”
+	•	Transfixed: become motionless with horror, wonder, or astonishment.  “Michael is transfixed.”
+	•	Anguish: severe mental or physical pain or suffering.  “Suddenly, his face crumbles, the madness and stoic evil falling away to reveal confusion, fear, vulnerability and anguish - …”
+	•	Superimposed: placed or laid over another, typically so that both are still evident.  “Suddenly, his face crumbles, the madness and stoic evil falling away to reveal confusion, fear, vulnerability and anguish - all superimposed upon the malevolent features of Croseus, struggling to regain control.”
+	•	Ectoplasmic: relating to ectoplasm, a supernatural viscous substance that is supposed to exude from the body of a medium during a spiritualistic trance and form the material for the manifestation of spirits.  “... a thick, ropy stream of ectoplasmic mist pours from his throat.”
+	•	Roils: moves in a turbulent, swirling manner.  “It pools into the center of the room, roils about, then coalesces into a human form - …”
+	•	Coalesces: comes together and forms one mass or whole.  “It pools into the center of the room, roils about, then coalesces into a human form - …”
+	•	Apparition: a ghost or ghostlike image of a person.  “It pools into the center of the room, roils about, then coalesces into a human form - the vaporous, half-rotted apparition of Croseus Verlac himself!”
+	•	Putrefied: decayed or rotted and producing a fetid smell.  “... his apparition takes the form of an ancient, rotted corpse - a blackened skeleton adorned with patches and strings of putrefied flesh, …”
+	•	Cerements: waxed cloth for wrapping a corpse.  “... his apparition takes the form of an ancient, rotted corpse - a blackened skeleton adorned with patches and strings of putrefied flesh, wrapped in tattered cerements of ectoplasm.”
+	•	Sepulchral: of or relating to a tomb or interment.  “The ghost lets out a chilling, sepulchral laugh.”
+	•	Thrived: grew or developed well or vigorously.  “‘I have lived and thrived for over four hundred years - not even Death can claim me!’”
+	•	Sabotaged: deliberately destroyed, damaged, or obstructed something, especially for political or military advantage.  “‘You sabotaged my dimensional beacon - I will build another.’”
+	•	Host: an animal or plant that nourishes and supports a parasite.  “‘You drove me from my host body - I will find another.’”
+	•	Disciples: a personal follower of a religious leader during his life.  “‘Will you track down my disciples, one by one, and kill them all?’”
+	•	Violating: abusing sexually.  “‘I’ve half a mind to simply let you go, and spend the next four hundred years tormenting and violating your future daughters and grand-daughters through the next twelve generations.’”
+	•	Gossamer: a fine, filmy substance consisting of cobwebs spun by small spiders, which is seem especially in autumn.  “Verlac is caught like a gossamer thread in a tornado.”
+	•	Insubstantial: lacking strength and solidity.  “Frantically he claws at the air, but as an insubstantial ghost there is nothing for him to hang on to.”
+	•	Corpus: the main body or mass of a structure.  “Shrieking and cursing, he is dragged inexorably back, closer and closer to the portal, until the suction draws his corpus out into a long, trailing ribbon, …”
+	•	Cable-knit: having or made with a knitting stitch that produces a pattern resembling the twist of a usually two-ply cable.  “Shrieking and cursing, he is dragged inexorably back, closer and closer to the portal, until the suction draws his corpus out into a long, trailing ribbon, like an unraveling cable-knit sweater - …”
+	•	Oblivion: the state of being unaware or unconscious of what is happening.  “There passes some time that your memory cannot account for; a brief period of blackness and oblivion, you and your unconscious husband, together in the subterranean vault.”
+	•	Titan: a person or thing of very great strength, intellect, or importance.  “You lift Michael to his feet, putting his arm around your shoulders, and the two of you stagger up the titan stairs to the surface.”
+	•	Ruptures: break or burst suddenly.  “A gas pipe ruptures in the courthouse, sending a gout of flame high into the air, and soon the entire town is burning.”
+	•	Bespeak: suggest; be evidence of.  “Behind you, a muffled explosion and a sudden warmth against your back bespeak a similar end to the Verlac family mansion.”
+	•	Overlook: a commanding position or view.  “... while Michael rests, you stand at the overlook and watch the sparks rise like fireflies, mingling with the stars in a clear, cloudless sky.”
+	•	Wondrous: inspiring a feeling of wonder or delight; marvelous.  “Downstairs, Michael is waiting for you to bring him the wondrous news.”
+	•	Indicator: a device providing specific information on the state or condition of something, in particular.  “You stare down at the little plastic indicator, and an inexplicable horror seizes you as you recall Edward Verlac’s last words:”
+

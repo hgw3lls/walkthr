@@ -1,0 +1,206 @@
+Walkthrough of
+
+BiCon
+An Interactive Infatuation by rach
+Release 4 / Serial number 101006 / Inform 7 build 6E72 (I6/v6.31 lib 6/12N) SD
+
+This is a medium-long walkthrough with comments. This is not everything you can interact with, but does include a great deal more than you actually need to win the game.
+
+
+>x me
+>i
+>x leader
+>x flipchart
+>x posters
+>heteronormativity off
+>x phone
+>switch on phone
+>x timetable
+>look up argentina in handbook
+>look up ICB in handbook
+>x badge
+>x stickers
+>x kit
+>x clothes
+>x people
+>x cutie
+>x cutie's badge
+ [+1 point for discovering Phoenix's name.]
+>x phoenix
+>x phoenix's stickers [remember what the stickers are (tho you can check again later)]
+>z [waiting for Phoenix's phonecall, to give you a chance to examine the room a bit more]
+>z
+>listen
+>ask leader about local bi group [asking about anything will do, but bi group is clued in the timetable]
+ [+1 point for ditracting the session leader's attention]
+>get up
+>x people
+>n
+>x argentina
+>s [can't go back]
+>x britain
+>n
+>x skylights
+>x blanket
+>x friends
+>ask friends about food [there are a few different things you can ask about, but none are essential]
+>ask friends about phoenix
+>ask friends about username
+>switch on phone
+>x phone
+>read message
+>x twitter
+>x twitter [twitter will update every time you x it]
+>look up phoenix on twitter
+>x bag
+>get bag
+>eat food
+>ask friends about naked lunch
+>s
+>e
+>n
+>s
+>x game
+>x facilitator
+>x groups
+>>4 [it makes no difference if you get it right or wrong, it's not a competitive game. These are the correct responses.]
+>>8
+>>fizz
+>>16
+>>buzz
+>>fizz
+>>28
+ [+1 for enjoying a nice game of fizzbuzz]
+>x people
+>ask them about bicon
+>x phoenix
+>ask phoenix about bicon
+>x phoenix's badge
+>x phoenix's stickers [in case you've forgotten]
+>n
+>e [the maze is simply-mapped, no one-way connections, or anything unusual
+>n  to find the optimal route through, follow the yellow signs]
+>e
+>d
+>e
+>d
+>e
+>e
+ [+1 for navigating the signs]
+>x desk
+>x mugs
+>x paperwork
+>x box [if you dropped anything in the now inaccessible maze, the super-quick BiCon elves will have dropped it in the lost property box]
+>x volunteers
+>ask volunteers about bicon
+>x table
+>x list
+>look up star on list
+ [+1 point for having something to talk to Phoenix about]
+>x board
+>x notices
+>x menus
+>w
+>s
+>ask phoenix about bikes
+ [+1 point for breaking the ice with Phoenix]
+>ask phoenix about bicon [there are a few different things you can talk to Phoenix about]
+>ask phoenix about crisis
+ [+1 for stalking Phoenix, and offering your room]
+>n
+>e
+>call pizza place
+>ask reception about number
+>get menus
+>call pizza place
+>s
+>drop menus
+>s
+
+[each of your friends have wandered off to some random adjacent room (the lawn, corridor east or the ballroom)]
+>ask friends about pizza
+>ask friends about bicon
+>ask friends about drama
+>friend, n
+>friend, n
+>friend, n
+>n
+>x shiny
+>get shiny
+>drop shiny
+
+[until you drop the shiny shiny your friends will keep wandering off, so go and fetch them again]
+
+>w
+>friend, e
+>friend, e
+>e
+>s
+>friend,n
+>n
+>get menus
+>call pizza place
+ [+1 for successful cat herding]
+>x people
+>juggle
+>belly dance
+>go on bouncy castle
+>n
+>n [oh no, you can't get into the ball yet]
+>s
+>s
+>x message
+>n
+>get key from reception
+>show message to receptionist
+>get key from reception
+ [+1 point for getting your key]
+>s
+>unlock door
+>s
+>e
+>x bed
+>x sink
+>x wardrobe
+>open wardrobe
+>pull wardobe
+>oil wardrobe
+>x kit
+>put lube on wardrobe
+>open wardrobe
+>remove clothes
+>get costume
+>wear it
+>w
+>n
+>n
+>n
+>phoenix, hi
+>x people
+>x outfits
+>x music
+>x dj
+>x dancing
+>x phoenix
+>talk to phoenix about dance
+>kiss phoenix
+>s
+>s
+>e
+>kiss phoenix
+>close door
+>kiss phoenix
+>open door
+>w
+>flatmates, be quiet [nice try]
+>n
+>n
+>w
+>s [try some deserted workshop rooms?]
+>kiss phoenix
+>n
+>n
+>kiss phoenix
+>close door
+>kiss phoenix
+ [+1 point for winning!]

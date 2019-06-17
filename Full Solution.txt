@@ -1,0 +1,56 @@
+Full Solution for Acorn Adventure
+---------------------------------
+Your mission: To wander around the Acorn Offices and escape with 4 Acorn items.
+
+You start by the Reception Desk, there's nothing here, so go N and find yourself in
+the Managing Directors Office (strange place for it!). Sitting here is a Distribution
+Contract. GET DISTRIBUTION CONTRACT and leave by going W. We find ourselves in the
+Customer Support Department. GET BASIC2 SOURCE CODE and go back to the MD's office, by
+going E. Now leave by taking the N exit.
+
+Now we are in the Secretary's Office, GET U.S. DEALER BUSINESS CARD. There is nothing
+else of importance here, so continue N to find yourself in the Word Processing
+Department. There is a Torch here, for those of you who remember back to the early 80's
+the Torch was a Z80 computer, running CP/M. EXAMINE TORCH to find out a password. (For
+amusement value, GET TORCH and LIGHT TORCH).
+
+Leave the department by going W to the canteen. GET CUP OF COFFEE and then go back E,
+and then E again and we find outselves in the Public Relations Department. We don't
+want to do anything here just at the moment, so leave by going N.
+
+Now we find ourselves in the Export Department with Herman Hauser (one of the creators
+of the BBC Micro) Bearing in mind he probably wants to know about exporting the BBC to
+the US we can GIVE U.S. DEALER BUSINESS CARD, and off goes Herman to look for his
+business partner. For the moment we don't want to explore the rest of the area, so go
+back S, GET 'ACORN USER' PRESS CARD', and then S again.
+
+Here we see Chris Curry (the other creator of the BBC). Take the E exit (Chris won't
+stop us as we're certified members of the press!) We find ourselves in the Prototype
+Laboratory. GET TELETEXT ADAPTOR and DROP 'ACORN USER' PRESS CARD (as we don't need it
+anymore!) then go back W and then S to the Quality Control Department. EXAMINE EPROM
+ERASER and GET BLANK EPROM. Return to the Export Department (N, N, N)
+
+Continue onto the N to the Mail Order Department, leave the Spade for now and go W.
+GET POWER PILL, EAT POWER PILL. The Pill was a bit hard to swallow, so wash it down
+with DRINK CUP OF COFFEE. Now continue W. Here we are in the Showroom with Snapper
+(Acorn's version of Pac Man) here. As we have already eaten the Power Pill Snapper won't
+stop us continuing. So go S.
+
+We find ourselves in the Marketing Office, here is Sheridan Williams (I presume Acorn's
+Marketting Manager at the time!) He probably wants a contract of sorts (Marketting
+people are so easily pleased!) OFFER DISTRIBUTION CONTRACT and he'll go away.
+
+Go W and we find ourselves in the Software Support Department, there is a PROM BLOWER
+here, and look, we have all the components of a BASIC2 ROM. So BLOW BASIC2 ROM, GET
+BASIC2 ROM and finally, DROP BASIC2 SOURCE CODE (not needed anymore!).
+
+Leave and return to the Mail Order Department (E, N, E, E) GET SPADE and return to the
+Secretary's Office (S, S, W, S) Continue on to the W and we find ourselves in a Room
+with Scaffolding. Hold on; does this remind you of the dame 'Dig Dug'? Hmmm. DIG SPADE
+and the Monster falls into the Hole! DROP SPADE and head W. In the Warehouse is an
+Electron ready to ship. GET ELECTRON.
+
+Now Return to the Export Department (E, E, N, E, N) and head E to the Despatch Bay.
+GET ECONET INTERFACE. Now we have all four items and need to escape! How about the
+Rear Exit? Go there (W, N, W) The exit to the North is blocked off by a voice activated
+lock. But we got a password from the Torch, so SAY 6502 and Huzzah! we have won!

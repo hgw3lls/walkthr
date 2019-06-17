@@ -1,0 +1,42 @@
+Solution to Aztec Tomb
+======================
+
+w, w,
+open drawer, look drawer > door key
+look bedroom > trap, go trap
+get cloak, wear cloak, look cellar > small key
+u, e, e
+go ladder, open chest (with small key) > rope & sword
+d, w,
+look hall > jar, open door (with door key), go door
+climb building > wood
+d, s, e
+look pool, catch fish (with jar), look fish > instructions, fill jar
+w
+drop wood > bridge, go bridge
+s > mouse, n, w
+throw cloak (otherwise bull blocks you), go gate
+water plant > big plant, (refill at stream), water plant > beanstalk
+climb beanstalk
+drop mouse
+go path, go valley, s
+throw rope, climb rope, give cloak (to dwarf), get box, open box, get map
+n, e, go harbour, go boat
+look boat > cabin, go cabin > torch, go hatch,
+n > isle,
+go island, light torch, go hole > life jacket, u
+n, e, s
+wear jacket, jump over, swim
+go beach, go forest,
+n
+climb statue > diamond
+d, e
+look wall, insert diamond,
+light torch
+go passage
+
+
+*************************
+Solved by Ambat Sasi Nair
+*************************
+

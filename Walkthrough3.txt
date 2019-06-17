@@ -1,0 +1,130 @@
+Wake up
+Open window (doesn't work)
+N
+Get all (acquire workbag, folder, hammer and crowbar)
+Look under desk (acquire screwdriver)
+Open bag
+Put all in bag
+W
+N
+D
+Search boxes (acquire leaflet)
+X leaflet (get phone number)
+S
+W (can't leave)
+X graffiti (don't examine anything else until you get the gizmo)
+N
+U
+S
+S
+S (doesn't work)
+N
+E
+Dial 05231453257(doesn't work, but now you have the nightcap)
+Wear nightcap
+S
+Lie on bed
+Sleep
+E
+Get case
+Open case
+Get crowbar
+Get notepad
+Get screwdriver
+Unscrew framed picture
+Get bedroom photo (you need to empty the frame)
+W
+W (note the trophy case)
+(wait for Mr Green to show up)
+Give notepad to green (acquire the remote control)
+G (acquire gizmo; This isn't absolutely necessary, but it speeds things up)
+Touch gizmo (Mr Red appears)
+Give crowbar to red
+Z (he opens the case)
+Get lantern
+Put lantern in case
+Wake up
+Get lantern
+Turn on lantern
+W
+(wait for the leprechaun to drop the cenofloger)
+Get cenofloger
+Put cenofloger in bag
+[1]
+E
+(wait to be swallowed)
+E
+Open case
+Get cenofloger
+W
+W
+Get gizmo
+(wait for Mr Blue to show up)
+Touch gizmo (Mr Green appears)
+Touch gizmo (Mr Red appears)
+[2]
+Give cenofloger to red
+(watch what he does, and after he drops it-)
+Get cenofloger
+Benodate cenofloger (note statue)
+Push statue
+E
+N
+N
+Benodate cenofloger (note lizard)
+Hit lizard
+S
+S
+S
+Benodate cenofloger (note music)
+Listen
+N
+E
+S
+Benodate cenofloger (note the tv)
+Turn off television 
+
+[1] If you want to read your history do as follows from this point:
+Get stone
+Get hammer
+Hit stone with hammer (acquire seed)
+E
+(wait for the void to swallow you)
+E
+Get case
+Open case
+Open folder
+Get storeroom photo
+Put storeroom photo in frame
+W
+W
+Get crowbar
+Put crowbar in case
+Wake up
+Get crowbar
+X crates
+Open wooden crate with crowbar
+Put seed in soil (acquire plant)
+Get plant
+Put plant in bag
+Lie on hammock
+Sleep
+E
+Open case
+Get cenofloger
+Get plant
+W
+W
+Get gizmo
+Put plant in bowl
+Open trapdoor
+D
+Get pages
+X page
+Drop page
+(repeat the last two steps until you've read all five pages)
+U
+(wait for someone to show up, touch gizmo until he turns into Mr Red)
+
+[2]
+If you complete the optional section, proceed from this point to the ending.

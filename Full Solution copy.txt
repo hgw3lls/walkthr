@@ -1,0 +1,70 @@
+Full Solution for Bungle Brothers
+---------------------------------
+In this game you play Bertie Bungle, trying to recover the stolen money of your
+Brother's unsuccessful bank raid.
+
+You start off in your bedroom of your house. There's nothing much here, so go N to
+the landing. Still nothing here, there is a bathroom to the north, but the less
+said about this the better! If you go D, you find yourself in your hall. There is
+a newspaper here which if you GET (Note, on the BBC version you'll have to use
+'GET PAPER') and READ it you'll find out your incompetant Brothers got a 25 year
+stretch in jail.
+
+If you now go north you'll find you Kitchen. There is a knife here, which could
+come in useful, GET KNIFE and as there seems to be nothing else of use, you might
+as well leave the house, so go S and W.
+
+This finds you in Laburnum Lane, near the church. Let's visit the church, go W to
+find yourself there. Once inside you may get overcome by religion and might desire
+to PRAY (a good idea in most Text Adventures!). Useful this time, pick up the Jemmy
+and, ignoring the crypt (dust, dust and more dust!) go N to the graveyard. You'll
+find a freshly dug grave, and might want to EXAMINE HEADSTONE. Nothing much here
+yet, so visit the vicar by going W to the vicarage.
+
+Being the nice person that you are, this person seems to be in your way, KILL VICAR
+(see how useful that knife was!) and EXAMINE CORPSE. What's this? And ID CARD,
+might be useful. GET ID CARD and leave the Vicarage, returning to Laburnum Lane by
+going E, S, E.
+
+Go S to get to Sweetpea Street, to the east is a Pet Shop, not much point in going
+there just yet, but to the west is a Greengrocer's Shop. Go W and you'll see the
+shop is out of stock, all but a mouldy Cucumber. GET CUCUMBER (you never know what
+may be useful!) and leave the shop by going E.
+
+Go S to get to Rosebud Road, going W will take you to the Newsagents where there
+is a magazine. GET MAGAZINE and READ MAGAZINE and it mentions about your Brothers
+hideout in Ferny Forest. Leave the Newsagents by going E. To your east is a post
+office, if you quickly pop in (E) you'll find a free public telephone.
+
+Instead go S to get to Peartree Parade, to your east is an empty warehouse. Ignore
+this and go W to get on the path to Ferny Forest - the location of your Brothers
+hideout! Follow the path 'til the end (W, W)
+
+You are now in the forest maze! The only way to map this out is drop objects and
+the try every exit (or look at the included map!) But for you lazy people, Go N, N
+W to get to a clearing, then W and N to get to the outside of a Log Cabin - your
+brothers hideout.
+
+Your brothers have left a ferious tiger here to guard the place, but the tiger is
+a bit too vicious and won't let you past! If you EXAMINE TIGER you'll see it is
+hungry, but do you have any tiger food? Only the cucumber. Might be worth a try?
+DROP CUCUMBER. Wow! Bet you never expected it to be a vegetarian tiger!
+
+Go N to go to the cabin and GET NOTEBOOK that is there. If you READ NOTEBOOK it
+tells you a number, what could this be, map coordinates? Amount of money? Complex
+code? Phone Number? Hold on to that last thought, there was a telephone in the
+Post Office, Go back there (S, S, E, E, S, S, E, E, E, N, E) and DIAL 19258143.
+
+Hmmm... Now we have a password hamster, what are hamsters? Pet's! So let's have a
+look in the Pet Shop (W, N, E) Nothing there, but what about the shopkeeper?
+EXAMINE PETE and we see he's a 'bit bent', hmmm. SAY HAMSTER and Pete gives you a
+spade!
+
+Spade, maybe buried treasure, but where could it be buried? Where has there been
+freshly dug ground - the Graveyard! Head there (W, N, W, N) and DIG (if you want
+to see the point of the ID card try digging without it!) And we have dug up a
+coffin!
+
+What could be in there, if we OPEN COFFIN (we need the Jemmy to do this!) and LOOK
+we'll find loads of cash. Now GET CASH. Well done your stupidly rich!
+

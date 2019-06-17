@@ -1,0 +1,262 @@
+* * * * * * THE HULK - QUESTPROBE 1 HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get to where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - CAN NOT GET LOOSE FROM CHAIR?
+     4 83 47 13 167 66 26
+2 - More help for above problem.
+     144 83 162 174 94
+3 - Solution to above problem.
+     5 67
+-----------------------------------
+4 - CAN NOT LEAVE THE DOME?
+     9 170
+5 - More help for above problem.
+     125 54 177
+6 - Solution to above problem.
+     9 170 120 9 63
+-----------------------------------
+7 - HIGH GRAVITY GETTING YOU DOWN?
+     51 52
+8 - More help for above problem.
+     88 157 112
+9 - Solution to above problem.
+     121 112 120 5 67 120 9 63
+-----------------------------------
+10 - HAVE NOT SCORED ANY POINTS?
+      58 54 163 45 86 101 36 7 91
+11 - More help for above problem.
+      149 100
+12 - Solution to above problem.
+      74 58 101 149 100 120 6 50
+-----------------------------------
+13 - CAN NOT FIND ANYTHING BUT UNDERGROUND
+     ROOM, FIELD AND SAME DOME?
+      145 72
+14 - More help for above problem.
+      166
+15 - Solution to above problem.
+      166 85 68 125 40 128 85 120 9 73
+-----------------------------------
+16 - NATTER ENERGY EGG A PROBLEM?
+      139 15 178
+17 - More help for above problem.
+      125 54 106 79
+18 - Solution to above problem.
+      125 41 95 136 97 111
+-----------------------------------
+19 - CAN NOT GET OUT OF UNDERGROUND ROOM?
+      24 159
+20 - More help for above problem.
+      92 127
+21 - Solution to above problem.
+      24 137 167 139 15 178 171 136 97
+-----------------------------------
+22 - FOUND NOTHING IN DOME BY THE SMALL HOLES?
+      174 102 49 161 135 142
+23 - More help for above problem.
+      77
+24 - Solution to above problem.
+      66 26
+-----------------------------------
+25 - ANTS A PROBLEM?
+      89 54 176 107 171 125 72 31 83
+      162
+26 - More help for above problem.
+      115 83 134 157 174 102 10 118
+      135 61 125
+27 - Solution to above problem.
+      53 134
+-----------------------------------
+28 - HAVING PROBLEM WITH BEES OR CAN NOT
+     FIND BEES?
+      176 54 101 128 85 84 152 62 104
+      85
+29 - More help for above problem.
+      124 70 11 37
+30 - Solution to above problem.
+      24 173 167 147
+-----------------------------------
+31 - STILL HAVING PROBLEM WITH BEES?
+      24 85
+32 - More help for above problem.
+      30 98 155 22
+33 - Solution to above problem.
+      59 70 82 85 30 63 85
+-----------------------------------
+34 - CAN NOT KEEP DR STRANGE IN ONE PLACE?
+      51 52 65
+35 - More help for above problem.
+      19 45 35 171 164 82 174 102
+36 - Solution to above problem.
+      5 67 132 101 2 85 15 113 164 82
+      174 102
+-----------------------------------
+37 - CAN NOT FIGURE OUT WHAT DR STRANGE
+     SHOWED YOU?
+      24 103
+38 - More help for above problem.
+      4 12
+39 - Solution to above problem.
+      71 78 157 116
+-----------------------------------
+40 - CAN NOT FIGURE OUT WHAT TO DO
+     WITH DR STRANGE NOW?
+      123 28
+41 - More help for above problem.
+      146 35
+42 - Solution to above problem.
+      33 131
+-----------------------------------
+43 - HAVE NOT FOUND MORE THAN 1 GEM
+     IN ANY FIELD?
+      29 135 95 61 168
+44 - More help for above problem.
+      55 99
+45 - Solution to above problem.
+      55 138 120 9 138 120 55 129 65
+      167 65 119
+-----------------------------------
+46 - DO NOT UNDERSTAND WHAT DR STRANGE
+     TOLD YOU?
+      113 135 108 125 155 122 125 42
+      95 56
+47 - More help for above problem.
+      36 109 36 52 18 36 10 36 52 18
+48 - Solution to above problem.
+      4 36 143 131 153 171 66 90 109
+      84 24 69 84
+-----------------------------------
+49 - HAVING PROBLEM WITH RING IN FIRST DOME?
+      103 41 93 48
+50 - More help for above problem.
+      52 41 42 103
+51 - Solution to above problem.
+      4 148 131 153 120 133 103
+-----------------------------------
+52 - STRANGE DID NOT GIVE YOU A GEM?
+      123 28
+53 - More help for above problem.
+      152 82 35
+54 - Solution to above problem.
+      33 131 15 113 158
+-----------------------------------
+55 - UNDERGROUND ROOM HAS YOU STUMPED?
+      52
+56 - More help for above problem.
+      24 137
+57 - Solution to above problem.
+      123 52 167 150 32
+-----------------------------------
+58 - CHIEF EXAMINER IS A PROBLEM?
+      130 35 80
+59 - More help for above problem.
+      24 156 101 137
+60 - Solution to above problem.
+      24 96 120 66 165 120 9 14 171
+      114 171 117
+-----------------------------------
+61 - ULTRON A PROBLEM?
+      24 27
+62 - More help for above problem.
+      126
+63 - Solution to above problem.
+      126 76 167 3
+-----------------------------------
+64 - ANTS STILL A PROBLEM?
+      115 103 110
+65 - More help for above problem.
+      25 124
+66 - Solution to above problem.
+      20 87 167 53 134
+-----------------------------------
+67 - ANTS STILL A PROBLEM?
+      60 57
+68 - More help for above problem.
+      131 167 12
+69 - Solution to above problem.
+      66 116 167 71 44
+-----------------------------------
+70 - CAN NOT HELP ANT-MAN?
+      149 100
+71 - More help for above problem.
+      43 169
+72 - Solution to above problem.
+      53 134 120 20 87 120 71 44 157
+      116 120 66 34 120 9 149 100 120
+      9 46 120 9 39
+-----------------------------------
+73 - STILL MISSING 3 OR 4 GEMS?
+      99 155 140
+74 - More help for above problem.
+      23 85
+75 - Solution to above problem.
+      8 52 75 175 64 167 55 151 140
+      101 175 38
+-----------------------------------
+76 - BIO GEM STILL BEING DESTROYED?
+      52 41 1 103 84 24 160 84
+77 - More help for above problem.
+      148 41 125 42 157 81 160 72
+78 - Solution to above problem.
+      52 21 160
+-----------------------------------
+79 - BIO GEM STILL GETTING RUINED?
+      24 165
+80 - More help for above problem.
+      42 130 103 16 154 172
+81 - Solution to above problem.
+      42 95 66 141 165 15 103 135 36
+      105 17 179
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 SAVE              46 NORTH            91 PLACE            136 SOLVE
+ 2 EMPTY             47 ALTER            92 LOOK             137 ROOM
+ 3 ULTRON            48 OUT              93 COME             138 HOLE
+ 4 REMEMBER          49 NON              94 PAIN             139 WAIT
+ 5 BITE              50 SCORE            95 NOT              140 HOLES
+ 6 TYPE              51 BECOME           96 DESK             141 BIO
+ 7 RIGHT             52 HULK             97 THIS             142 HERE
+ 8 AS                53 CLOSE            98 POSITION         143 NAME
+ 9 GO                54 ARE              99 ALOT             144 GIVE
+ 10 STRONGER         55 DIG              100 AREA            145 SAME
+ 11 WILL             56 LIKE             101 IN              146 QUERY
+ 12 BEES             57 THEM             102 THING           147 THINK
+ 13 EGO              58 GEMS             103 IT              148 WHAT
+ 14 DOOR             59 WAVE             104 EACH            149 FUZZY
+ 15 UNTIL            60 SEAL             105 VERY            150 SCRATCH
+ 16 ANY              61 ON               106 TOO             151 DEEP
+ 17 LAST             62 TRYING           107 GETTING         152 KEEP
+ 18 GETS             63 OUTSIDE          108 TELLING         153 SAID
+ 19 WATCH            64 DOMES            109 MADDER          154 WHERE
+ 20 HOLD             65 AGAIN            110 UP              155 OF
+ 21 EAT              66 GET              111 NOW             156 EVERYTHING
+ 22 STRENGTH         67 LIP              112 BUTTON          157 WITH
+ 23 UNDER            68 WHENEVER         113 HE              158 DOES
+ 24 EXAMINE          69 MIRROR           114 RETURN          159 THINGS
+ 25 USE              70 FAN              115 COVER           160 EGG
+ 26 MAD              71 PLUG             116 WAX             161 MATERIAL
+ 27 CAGE             72 ?                117 COMPUTER        162 SELF
+ 28 FRIENDLY         73 WEST             118 THAT            163 GOOD
+ 29 OTHER            74 DROP             119 ...             164 POINT
+ 30 FROM             75 LIFT             120 THEN            165 GEM
+ 31 PROTECT          76 ANT-MAN          121 PUSH            166 ENTER
+ 32 WALL             77 ASTRAL           122 SOMETHING       167 AND
+ 33 ASK              78 OUTLET           123 BE              168 TOP
+ 34 ANTS             79 EARLY            124 HAND            169 FRIENDS
+ 35 HIM              80 ALONE            125 YOU             170 EAST
+ 36 THE              81 AN               126 TALK            171 TO
+ 37 HELP             82 AT               127 AROUND          172 ELSE
+ 38 FIELDS           83 YOUR             128 A               173 MESH
+ 39 CRACK            84 .                129 DOWN            174 SOME
+ 40 SEE              85 DOME             130 LEAVE           175 ALL
+ 41 CAN              86 POINTS           131 STRANGE         176 THEY
+ 42 DO               87 NOSE             132 WHILE           177 INSIDE
+ 43 LITTLE           88 PLAY             133 PULL            178 LATER
+ 44 EARS             89 HOW              134 EYES            179 TREASURE
+ 45 FOR              90 EVEN             135 IS             

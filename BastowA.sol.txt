@@ -1,0 +1,349 @@
+
+The Secret of Bastow Manor
+(A.K.A. The Secret of Bastow Manor 64)
+(c) Gameworx Software 1983
+
+  --  The 99% Walkthrough!  --  
+
+1/ General hints
+2/ Solution - short list
+3/ Solution - long list
+4/ Notes
+
+
+1/ General Hints
+
+The dogs will get you after a limited number of moves, so whenever you are
+in the open, be sure to take cover (eg climb the tree) frequently in order
+to avoid being attacked.  There are 3 hiding places outside the house, one
+of which you must arrange yourself.
+
+There is a secret panel in the study which is not indicated in the text.
+In the same study, there is a pencil which cannot be lifted.  I think
+'pencil' may be a typographical error for 'panel'.  It makes more sense
+that the game should tell you about the panel and that you couldn't lift
+it.  This basic problem got me stuck for about 5 years!
+
+The combination to the safe must be entered in one string, not as single
+characters (eg, enter ABCD not A [ENTER] B [ENTER] C [ENTER] D [ENTER].
+
+The safe combination is IBDF.  This is worked out by the note in the box
+which says 'VI', and then the book in the library.  If you start at F, the
+sixth (VI) letter and go right 3, you get to the 9th letter, which is I.
+Left 7 takes you back to the  second letter (9-7), which is B, and then
+right  2 brings you to D (2+2).  The F at the end is our starting letter,
+but I am not sure how we are meant to know that it is used at the end,
+other than as a starting point.
+
+
+2/ Solution - short list
+
+S, Climb tree, Look tree, Break branch, Get branch, Climb tree, N, Look
+gate, Get key, Iron, S, Unlock mailbox, Look mailbox, Look mailbox, Get
+letter, Get torch, Read letter ("The left is right...or is the right
+wrong?"), N, Unlock gate, Open gate, Go gate, S, Drop branch, N, Look shed,
+S, N, Get ladder, N, E, E, Drop ladder, Climb ladder, Climb ladder, W, W,
+S, S, Move case, Open case, Look case, Get apple, Get branch, Light torch,
+Go trap, S, Look pit, Drop branch, S, Open toolbox, Look toolbox, Get
+crowbar, W, Pull switch (Anyone know if this was made? Could it be
+Thermonuclear Wargames?  If you try to go north in the first screen of that
+game, it says that way leads back to Bastow Manor!), E, N, N, Look door,
+Remove beam, Open door, Go door, Open clock, Look clock (Don't do this more
+than once or you will end up with a multitude of knives!), Drop letter, Get
+knife, Drop apple, Cut apple, Get key, Small, S, Go stairs, Open window, Go
+stairs, S, Look table, S, Get armour, Wear armour, N, W, Drop crowbar, Get
+bucket, Move crate (So much for the armour!), E, N, N, N, Look balcony, E,
+Look desk, Read book (right 3, left 7, right 2), W, S, S, Go stairs, S,
+Fill bucket, N, Go window, Climb ladder, W, W, W, S, Climb tree, Climb
+tree, Drop key, Iron, Look mailbox, Get key, Brass, Climb tree, Climb tree,
+N, Go gate, S, S, Go trap, Drop bucket, Get box, Unlock box, Open box, Look
+box, Drop key, Brass, Get note, Read note ('VI'), Drop box, Drop note, Get
+bucket, Get key, Brass, Go door, S, Unlock door, Open door, Go door, Look
+desk, Open drawer, Look drawer, Drop pencil, Get pencil (???), Get bucket,
+Press panel (perhaps 'pencil' is a mistake & it should say 'panel'?), Pull
+button, E, Go stairs, Go window, Climb ladder, W, W, S, S, Go trap, S, S,
+S, Look skeleton, E, Look wall, Go hole, Throw water, Hole, W, N, N, N, Go
+door, S, Go stairs, S, Fill bucket, N, Go window, Climb ladder, W, W, S, S,
+Go trap, S, S, S, E, (We get to repeat that twice more - fun, hey?), Throw
+water, Hole, W, N, N, N, Go door, S, Go stairs, S, Fill bucket, N, Go
+window, Climb ladder, W, W, S, S, Go trap, S, S, S, E, Throw water, Hole,
+Go hole, Look robot, E, Look chest, Unlock chest, IBDF (all as one entry),
+Look chest, Get gold
+
+
+3/ Solution - long list
+
+S
+Climb tree
+Look tree
+Break branch
+Get branch
+Climb tree
+N
+Look gate
+Get key
+Iron
+S
+Unlock mailbox
+Look mailbox
+Look mailbox
+Get letter
+Get torch
+Read letter ("The left is right...or is the right wrong?")
+N
+Unlock gate
+Open gate
+Go gate
+S
+Drop branch
+N
+Look shed
+S
+N
+Get ladder
+N
+E
+E
+Drop ladder
+Climb ladder
+Climb ladder
+W
+W
+S
+S
+Move case
+Open case
+Look case
+Get apple
+Get branch
+Light torch
+Go trap
+S
+Look pit
+Drop branch
+S
+Open toolbox
+Look toolbox
+Get crowbar
+W
+Pull switch (Anyone know if this was made? Could it be Thermonuclear
+Wargames?  If you try to go north in the first screen of that game, it says
+that way leads back to Bastow Manor!)
+E
+N
+N
+Look door
+Remove beam
+Open door
+Go door
+Open clock
+Look clock (Don't do this more than once or you will end up with a
+multitude of knives!)
+Drop letter
+Get knife
+Drop apple
+Cut apple
+Get key
+Small
+S
+Go stairs
+Open window
+Go stairs
+S
+Look table
+S
+Get armour
+Wear armour
+N
+W
+Drop crowbar
+Get bucket
+Move crate (So much for the armour!)
+E
+N
+N
+N
+Look balcony
+E
+Look desk
+Read book (right 3, left 7, right 2)
+W
+S
+S
+Go stairs
+S
+Fill bucket
+N
+Go window
+Climb ladder
+W
+W
+W
+S
+Climb tree
+Climb tree
+Drop key
+Iron
+Look mailbox
+Get key
+Brass
+Climb tree
+Climb tree
+N
+Go gate
+S
+S
+Go trap
+Drop bucket
+Get box
+Unlock box
+Open box
+Look box
+Drop key
+Brass
+Get note
+Read note ('VI')
+Drop box
+Drop note
+Get bucket
+Get key
+Brass
+Go door
+S
+Unlock door
+Open door
+Go door
+Look desk
+Open drawer
+Look drawer
+Drop pencil
+Get pencil (???)
+Get bucket
+Press panel (perhaps 'pencil' is a mistake & it should say 'panel'?)
+Pull button
+E
+Go stairs
+Go window
+Climb ladder
+W
+W
+S
+S
+Go trap
+S
+S
+S
+Look skeleton
+E
+Look wall
+Go hole
+Throw water
+Hole
+W
+N
+N
+N
+Go door
+S
+Go stairs
+S
+Fill bucket
+N
+Go window
+Climb ladder
+W
+W
+S
+S
+Go trap
+S
+S
+S
+E
+(We get to repeat that twice more - fun, hey?)
+Throw water
+Hole
+W
+N
+N
+N
+Go door
+S
+Go stairs
+S
+Fill bucket
+N
+Go window
+Climb ladder
+W
+W
+S
+S
+Go trap
+S
+S
+S
+E
+Throw water
+Hole
+Go hole
+Look robot
+E
+Look chest
+Unlock chest
+IBDF (all as one entry)
+Look chest
+Get gold
+
+Now we must escape with the gold - but I don't know how!  Some bells will
+ring & skeleton will chase you.  So far I have tried dropping the armour in
+the treasure room (thinking that if it goes in the chest, the weight may
+equal that of the gold, and prevent the bells from ringing), closing the
+chest (which you can't do), collecting the plank to stop the skeleton
+crossing the snake pit (which makes no difference), and trying to get to
+the garden so the dogs eat his bones! (which there don't seem to be enough
+moves to do).
+
+
+4/ Notes
+
+I was at a flea market a few weekends ago, and I came across a stack of C64
+tapes.  One of them was a Computer Classics title, and on the back was a
+list of their other games.  There was a host of titles for the VIC 20,
+including "The Secret of Bastow Manor".  Underneath the VIC 20 titles was a
+list of C64 titles, which was basically everything from the VIC 20 list but
+with '64' added to the end.  Therefore the proper title of the C64 version
+of this game is "The Secret of Bastow Manor 64"!
+
+This game was probably the second game I ever played on the C64, and my
+brother and I spent ages on it, and got quite far - in fact, it was only
+the panel puzzle (see above) that got us stuck.  Since we spent so much
+time on this game, our father used to ask us all the time if we had solved
+the game.  However, he never remembered the name right, so he always asked
+us "Have you solved Bristow Manor yet?"  Of course, this became a running
+joke between my brother & me and it still is, so I have had lots of good
+memories associated with this game.
+
+I spent several "wilderness years" without a C64, until I stumbled on to
+C64 emulation, and managed to transfer Bastow Manor to a disk image. After
+that, a couple of people helped me on the way, and therefore deserve much
+thanks:
+
+Adam Nelson (Spud) - When I came back to the game, I knew what to do, but I
+couldn't manage the 'minimalist' sequence needed to avoid the dogs!  Adam
+knew how to set up the ladder & get back to the shed safely.
+
+Stuart George (Dark Fiber) - After getting as far as my brother & me had
+been before (further even, by one move - I discovered FILL BUCKET!), DF
+told me about the hidden panel, then gave me a few other tips.
+
+Your Name Here - Whoever gets past that %$^%$# skeleton!!
+
+David Williams - My brother, for all his help more than a decade ago, plus
+for being impressed and encouraging when I discovered FILL BUCKET.
+
+My Dad - I'm looking forward to telling him I solved "Bristow Manor" ;)
+
+/Andrew Williams.
+
+7th April 1999

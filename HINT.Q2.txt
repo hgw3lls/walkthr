@@ -1,0 +1,316 @@
+* * * * * * SPIDER-MAN - QUESTPROBE 2 HINTS AND SOLUTIONS * * * * * *
+
+Read the questions until you get where you are stuck.
+The numbers underneath refer to the dictionary listed at the end.
+Match each number with its associated word and you'll find an Adventure clue
+or solution!
+
+1 - PROBLEM WITH MADAM WEB?
+     39 41 130 106
+2 - More help for above problem.
+     44 73 198 196
+3 - Solution to above problem.
+     39 41 153 112 4 105 90 161
+     95 138 95 103 92
+-----------------------------------
+4 - SANDMAN A PROBLEM?
+     103 198 196
+5 - More help for above problem.
+     212 119 189 112 51 93
+6 - Solution to above problem.
+     211 41 191 24 73 102 156
+-----------------------------------
+7 - SANDMAN STILL A PROBLEM?
+     151 191 126 121
+8 - More help for above problem.
+     5 16
+9 - Solution to above problem.
+     12 80 68 12 118 102 89 112
+     36 179 102 144
+-----------------------------------
+10 - LIZARD A PROBLEM?
+      151 191 199 121 165
+11 - More help for above problem.
+      198 196
+12 - Solution to above problem.
+      162 41 130 111 215
+-----------------------------------
+13 - HYDROMAN A PROBLEM?
+      179 102 62
+14 - More help for above problem.
+      76 85 131 62
+15 - Solution to above problem.
+      59 183 180
+-----------------------------------
+16 - BIO GEM A PROBLEM?
+      151 191 76 63 162
+17 - More help for above problem.
+      222 194 34 97 162 125
+18 - Solution to above problem.
+      59 163 180
+-----------------------------------
+19 - ELEVATOR A PROBLEM?
+      162 41 25
+20 - More help for above problem.
+      162 4 191 176 136 33 95
+      37 211
+21 - Solution to above problem.
+      113 31
+-----------------------------------
+22 - ELEVATOR STILL A PROBLEM?
+      36 118 102 71 134
+23 - More help for above problem.
+      95 37 211
+24 - Solution to above problem.
+      12 118 102 134
+-----------------------------------
+25 - MYSTERIO A PROBLEM?
+      13 41 102 208 225 109
+      155 123
+26 - More help for above problem.
+      209 37 55 102 7 101 133
+      47 78
+27 - Solution to above problem.
+      50 196 23 105 121 161 95
+-----------------------------------
+28 - MYSTERIO STILL A PROBLEM?
+      67 156 37 95 53 93 36 136
+      112 81 112 227 88 162
+29 - More help for above problem.
+      57 209
+30 - Solution to above problem.
+      36 27
+-----------------------------------
+31 - MYSTERIO STILL A PROBLEM?
+      12 73 121
+32 - More help for above problem.
+      26 115 1 114
+33 - Solution to above problem.
+      22
+-----------------------------------
+34 - FALLING BUT NOT LANDING?
+      78 164
+35 - More help for above problem.
+      185 10
+36 - Solution to above problem.
+      213 192 222 98
+-----------------------------------
+37 - STILL HAVE NOT FOUND A LARGE FAN?
+      95 37 191 190 95 227
+38 - More help for above problem.
+      95 37 172 179 102 148 83
+      192 70
+39 - Solution to above problem.
+      22 136 178 53 221 225 148
+-----------------------------------
+40 - CAN NOT GO ALL THE WAY UP THE ELEVATOR?
+      217 150 135 30 95
+41 - More help for above problem.
+      36 136 112 185 95 37 211
+42 - Solution to above problem.
+      56 136 112 68 12 136
+-----------------------------------
+43 - CAN NOT SPIN A WEB?
+      26 196 170
+44 - More help for above problem.
+      156 77 28
+45 - Solution to above problem.
+      140 129 112 48 37 53 3 156
+-----------------------------------
+46 - STILL CAN NOT SPIN A WEB?
+      215 41 179 102 28
+47 - More help for above problem.
+      162 41 53 130 188 225 127
+      128 41 65
+48 - Solution to above problem.
+      36 220
+-----------------------------------
+49 - STILL MISSING FORMULA?
+      76 220
+50 - More help for above problem.
+      36 220
+51 - Solution to above problem.
+      143 186
+-----------------------------------
+52 - FAN A PROBLEM?
+      43 162
+53 - More help for above problem.
+      95 37 211
+54 - Solution to above problem.
+      204 162 136 130 160
+-----------------------------------
+55 - MAZE A PROBLEM?
+      198 196
+56 - More help for above problem.
+      135 37 166 46
+57 - Solution to above problem.
+      12 141 136 69 81 179 162
+-----------------------------------
+58 - ELECTRO A PROBLEM?
+      157 222 52
+59 - More help for above problem.
+      147 210 117 37 139 225 45
+60 - Solution to above problem.
+      149 147 210 117 174 84 226
+-----------------------------------
+61 - PRESSES A PROBLEM?
+      14
+62 - More help for above problem.
+      146 218
+63 - Solution to above problem.
+      12 73 102 49 129
+-----------------------------------
+64 - RINGMASTER A PROBLEM?
+      19 76 222 132
+65 - More help for above problem.
+      44 73 14
+66 - Solution to above problem.
+      58 87 168 102 89 68 56 102
+      18 112 169 162
+-----------------------------------
+67 - LIZARD A PROBLEM?
+      198 196 23 105 121
+68 - More help for above problem.
+      95 23 26 102 111 175
+69 - Solution to above problem.
+      179 140 129 26 120 223 131
+      120 108 112 182 68 40 162
+      53 74 68 57 121
+-----------------------------------
+70 - HYDROMAN A PROBLEM?
+      13 41 139 225 122 185 135
+      198 196 181
+71 - More help for above problem.
+      28
+72 - Solution to above problem.
+      200 137 60 162 41 77 219
+      8
+-----------------------------------
+73 - BIO GEM A PROBLEM?
+      36 202 131 42
+74 - More help for above problem.
+      138 95 23 15 213 205 225
+      222 38 99
+75 - Solution to above problem.
+      9 196 83 195 85 131 42
+-----------------------------------
+76 - SCORE STILL ZERO?
+      198 196
+77 - More help for above problem.
+      105 104 17 198 196
+78 - Solution to above problem.
+      96 152 17 198 196 112 68
+      21 104
+-----------------------------------
+79 - STILL MISSING SOME GEMS?
+      71 134 107 57 147 210
+      112 226
+80 - More help for above problem.
+      167 201 179 102 71 134
+81 - Solution to above problem.
+      57 159 179 71 134
+-----------------------------------
+82 - STILL MISSING SOME GEMS?
+      173 37 116 152 179 102
+      71 134
+83 - More help for above problem.
+      146 102 218
+84 - Solution to above problem.
+      217 102 11
+-----------------------------------
+85 - PRINTING PRESS A PROBLEM?
+      21 203 179 49 129
+86 - More help for above problem.
+      20 201 179 102 184 158 89
+      177 73 102 218 89
+87 - Solution to above problem.
+      20 29 95 23 32 53 158 142
+      147 210 145 226 145 61
+      145 124 145 11 145 110
+      145 197 145 86 64
+-----------------------------------
+88 - FAN STILL A PROBLEM?
+      213 130 38 214
+89 - More help for above problem.
+      9 196
+90 - Solution to above problem.
+      9 196 83 207 68 57 207 206
+      72 91 73 35 9 196 79
+-----------------------------------
+91 - CAN NOT FIGURE OUT HOW TO GET
+     GEM FROM NEWSPAPER?
+      113 162
+92 - More help for above problem.
+      224 75 171 154 127 112
+      94 193
+93 - Solution to above problem.
+      21 2 83 49 6 53 224 75 100
+      216 154 127
+-----------------------------------
+94 - STILL MISSING GEMS?
+      36 144 164
+95 - More help for above problem.
+      178 179 27 213 66 98
+96 - Solution to above problem.
+      82 202 64 178 187 179 27
+-----------------------------------
+
+------------------------------------------------------------------------------
+                            * DICTIONARY *
+ 1 INTUITIVE         58 CLOSE            115 AN              172 STILL
+ 2 RESET             59 WAIT             116 4               173 THERE
+ 3 SAME              60 TILL             117 ARMS            174 BEFORE
+ 4 WILL              61 HYDROMAN         118 INTO            175 NEEDED
+ 5 TREAD             62 TANK             119 SAYS            176 SHOW
+ 6 KEYBOARD          63 NEAR             120 CALCIUM         177 NEXT
+ 7 WAY               64 ETC              121 HIM             178 WHILE
+ 8 DEGREES           65 HIDDEN           122 WATER           179 IN
+ 9 SHOOT             66 OTHER            123 ILLUSIONS       180 LATER
+ 10 SANDMAN          67 WHICH            124 COUCH           181 SAID
+ 11 DESK             68 THEN             125 OFF             182 ACID
+ 12 GO               69 OR               126 WAKE            183 UNTIL
+ 13 HE               70 TIMES            127 PAPER           184 WEIGHT
+ 14 RINGMASTER       71 ELEVATOR         128 THAT            185 REMEMBER
+ 15 SEE              72 SPEED            129 LAB             186 FRAME
+ 16 LIGHTLY          73 TO               130 A               187 FLOATING
+ 17 BY               74 LIZARD           131 FROM            188 PIECE
+ 18 KNOB             75 VERSION          132 ATTENTION       189 OUCH
+ 19 LIGHTS           76 GET              133 SEEM            190 WHERE
+ 20 PUT              77 BELOW            134 SHAFT           191 NOT
+ 21 TYPE             78 MYSTERIO         135 WHAT            192 ALL
+ 22 JUMP             79 BUTTON           136 UP              193 PUZZLE
+ 23 CAN              80 CEILING          137 THERMOSTAT      194 IMMEDIATE
+ 24 RESTRICTED       81 DOWN             138 IF              195 BIO
+ 25 BROKEN           82 FEEL             139 MADE            196 WEB
+ 26 MAKE             83 AT               140 CHEM            197 MESH
+ 27 SKY              84 HITTING          141 ONLY            198 MADAM
+ 28 PENTHOUSE        85 GEM              142 :               199 BOTHER
+ 29 EVERYTHING       86 AQUARIUM         143 REMOVE          200 LOWER
+ 30 STOPS            87 EYES             144 CRIB            201 SOMETHING
+ 31 DOORS            88 ABOUT            145 ,               202 WEST
+ 32 FIND             89 ROOM             146 START           203 RUN
+ 33 BUT              90 ITEMS            147 DR              204 SNARL
+ 34 PRESENCE         91 DROPS            148 BUILDING        205 ONE
+ 35 50               92 HER              149 GRAB            206 WHEN
+ 36 LOOK             93 ?                150 OUT             207 FAN
+ 37 ARE              94 SOLVE            151 DO              208 MASTER
+ 38 SPIDER           95 YOU              152 GEMS            209 THINGS
+ 39 SHE              96 LEAVE            153 PSYCHIC         210 OCK
+ 40 THROW            97 SETS             154 NEWS            211 SPIDER-MAN
+ 41 IS               98 SENSES           155 STYLE           212 WHO
+ 42 HALL             99 ASSETS           156 FLOOR           213 USE
+ 43 STOP             100 AFTER           157 GROUND          214 ASSET
+ 44 TALK             101 THEY            158 SCALE           215 FORMULA
+ 45 METAL            102 THE             159 WALLS           216 GETTING
+ 46 DIRECTIONS       103 ASK             160 BIT             217 CHECK
+ 47 AROUND           104 SCORE           161 FOR             218 PRESS
+ 48 CHEMICALS        105 SCAN            162 IT              219 32
+ 49 COMPUTER         106 FRIEND          163 UNTIL           220 PAINTING
+ 50 MADAME           107 ALSO            164 AGAIN           221 SIDE
+ 51 WHY              108 CARBONATE       165 NOW             222 YOUR
+ 52 SELF             109 HOLLYWOOD       166 COMPASS         223 CHLORIDE
+ 53 ON               110 CLOCK           167 DROP            224 SAGAPLUS
+ 54 BREAK            111 CHEMICAL        168 ENTER           225 OF
+ 55 NEVER            112 AND             169 TURN            226 ELECTRO
+ 56 PUSH             113 OPEN            170 FLUID           227 THINK
+ 57 EXAMINE          114 LEAP            171 READ           

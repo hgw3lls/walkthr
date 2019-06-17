@@ -1,0 +1,25 @@
++=3: A Logical Adventure
+Walkthrough
+
+This "game" is meant to illustrate the fact that "logical" and "simple"
+puzzles can be made arbitrarily difficult to solve.  In this particular
+case, the puzzle exploits an assumption that experienced text adventure
+players will make -- that things that aren't listed in one's inventory
+aren't actually manipulable game objects.
+
+>give shirt to troll
+>give shoes to troll
+>give socks to troll
+>n
+
+The solution is perfectly logical and simple.  If you were standing on a
+bridge with a troll who clearly wanted you to give him something, and you
+had nothing to give him, what would you do?  You'd give him the shirt off
+your back, of course.
+
+Note that if you say "examine me", you'll see that you are in fact a
+clothed human.  (If you'd have been naked, the game certainly would have
+pointed this out, right?)
+
+Everything explicitly mentioned in this game except the troll is a red
+herring.

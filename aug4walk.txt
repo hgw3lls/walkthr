@@ -1,0 +1,65 @@
+ntroduction
+Falling Down the Pit
+Z. Z. Z. Z. Z.
+Escaping Orchestra Pit
+(from Pit Bottom) CLIMB WALL. ENLARGE HOLE. G. G. G. E.
+Opening the Trapdoor
+(from Narrow Passage) GET ROCK. N. PUT ROCK ON PLATFORM. S. W. GET TPT. E. NE.
+(from Quarry Entrance) LOOK AT CHUNK. GET NOTE. READ NOTE. OPEN TRAPDOOR. D.
+Navigating the Darkness
+(from Darkness) PLAY TPT. NE. PLAY TPT. E. PLAY TPT. Z. Z. Z. Z.
+Midgame
+The Black Puzzle Piece
+(from Construction Office) GET BOOK. W. GET RUBBER. E. E. SW. GET BLACK PIECE. W. S.
+(from East of House) TIE RUBBER TO TREE. PUT PIECE IN SLINGSHOT. FIRE SLINGSHOT.
+Finney's Device
+(from East of House) N. DROP ALL. SW. GET BLACK PIECE. W. U. S. OPEN PIANO. GET WHITE PIECE.
+(from Music Salon) N. D. SE. PUT BLACK PIECE IN BLACK SLOT. PUT WHITE PIECE IN WHITE SLOT. GET JIGSAW.
+Finney's Music
+(from Workshop) NW. U. SE. GET HEAVY HEART. LEARN HEAVY HEART. LOOK AT SHELF. GET BOOK. READ BOOK.
+(from Study) NW. S. GET JIG. CUT JIG WITH JIGSAW. LEARN JIG. N. D. E. DROP ALL. NE. TAKE ALL.
+Leonine's Music & Leonine's Key
+(from Finney's House) S. S. E. NE. E. LOOK AT RAINY DAY. TAKE RAINY DAY.
+Find Leonine, wandering around the Community. ASK LEONINE ABOUT RAINY DAY. PLAY TPT (Jig). GET KEY.
+Return to the Magic Lab. TAKE RAINY DAY. LEARN RAINY DAY.
+Passing Moilan
+(from Magic Lab) W. N. N. N. GET CUP. S. PLAY TPT (Rain). PLAY TPT (Rain). PLAY TPT (Rain). W. W. SW. FILL CUP WITH MUD.
+(from Quarry Trapdoor) NE. E. E. N. N. GIVE MUD TO MOILAN. OPEN GATE. NW. N.
+Opening the Bank Safe
+(from Bank) PUT MANUAL (or any object) ON PLATFORM. PLAY TPT (Heavy). GET MANUAL. STAND ON PLATFORM.
+(from Bank) UNLOCK SAFE WITH COPPER KEY. OPEN SAFE. GET NOTE.
+Opening Poont's House and Getting the Mirror
+(from Bank) S. OPEN DOOR. E. GET EXPERIMENTS BOOK. READ EXPERIMENTS BOOK. N. PLAY TPT (Jig). N. GET MIRROR. S.
+(from Poont's Lab) W. SE. S. S. SE. E. E. E. GET IN RECESS. PLAY TPT (Heavy). STAND. W. SE. W. PUT MIRROR IN FRAME.
+(from Vault Door) GET COLOUR. LEARN COLOUR. E. NW. W. W. NW. S. S. SW. W.
+Getting the Herring
+(from Fish Pond) PLAY TPT (Colour). PLAY TPT (Duck). Wait for duck to catch the herring. GET HERRING.
+(from Fish Pond) E. NE. N. N. N. N. NW. E.
+Entering Squiggy's Tower
+(from Poont's Lab) PUT HERRING IN RECEPTACLE. GET HERRING. W. PUT HERRING IN CLEFT. D. ASK MULLOG ABOUT RING
+Finding Mullog's Ring
+(from Mullog's Lair) E. SE. S. S. E. READ PLAQUE. LOOK UP 113 IN MANUAL. LOOK UP 114 IN MANUAL.
+Finding the Solution to the Security Maze
+(from Outside Courtyard) W. S. SW. GET PAMPHLET. LOOK UP FOU-LLAMA IN TOME. NE. N. E. NE.
+Navigating the Security Maze
+(from F Courtyard) NW. E. NW. N. NE. E. W. N. SEARCH STATUE PARTS. GET GOLD RING.
+Reading the Butler's Diary
+(from Front Yard) E. Wait for the Widow to be engrossed in reading. PUSH FERN. W. W. READ DIARY. LEARN LOVE.
+(from Butler's Cottage) E. E. TELL WIDOW ABOUT DIARY. Wait for the Widow to be engrossed in reading. PUSH FERN. Z. Z.
+(from Drawing Room) PLAY TPT (Love). W. S.
+Navigating the Security Maze
+(from A Courtyard) E. SE. W. S. W. S. SE. W. SW.
+(from Outside Courtyard) W. N. N. NW. D. GIVE RING TO MULLOG. U.
+(Optional, if you've forgotten to get the ring) Returning to the Fou-llama Estate
+Go to the Bear's Den, north of Poont's Lab. S. PLAY TPT (Love). N. MOVE PALLET. D.
+Getting the Literal Music
+(from Tower Top) PLAY TPT (Colour). GET LITERAL. LEARN LITERAL.
+(from Tower Top) D. E. SE. S. S. SE. E. E. SE. W.
+Opening Snoobar's Vault
+(from Vault Door) PLAY TPT (Literal). W. GET DOOR. GET MODULATE. LEARN MODULATE. E. NW. W. W. NW. S. S. SW.
+End Game
+The Door to the Surface and the Key
+(from Rock Wall) PUT DOOR IN DEPRESSION. NE. N. N. E. E. LOOK AT PRACTICE BOOK. PLAY TPT (Modulate). GET KEY.
+(from Opera Hall) W. W. S. S. SW. UNLOCK DOOR WITH SILVER KEY. IN. U. U. U. CLIMB HANGINGS.
+The Final Showdown
+(from Throne Room) PLAY TPT (Heavy). PLAY TPT (Heavy Love or Modulate Jig). PLAY TPT (Colour Rain). PLAY TPT (Heavy Duck)

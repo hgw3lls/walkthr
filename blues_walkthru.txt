@@ -1,0 +1,298 @@
+Tinseltown Blues walkthrough - by Eytan Zweig
+---------------------------------------------
+
+Note - this is a no-frills walkthrough of "Tinseltown Blues". It was written
+for version 1.1. 
+
+This walkthrough only gives the commands necessary to solve the puzzles. It is 
+not an optimal solution, but it works well within the time limit. It ignores 
+several non-essential aspects of the game. It also ignores alternate solutions
+to some of the puzzles, which may be more efficient and/or give more points.
+
+On the other hand, I tried to group the actions together into the relevant 
+chunks, so it's more-or-less clear why you're doing what you're doing. This 
+means that following this solution will involve some back-tracking; but it 
+should be useful to people who want help with specific sections of the game 
+without necessarily spoiling others. To help facilitate this, in each section
+I say where I start for - so people not following the walkthrough from 
+beginning to end will know where to begin from.
+
+Note that some sections of the game require others to have been played first, 
+but others do not. If you need specific items from other sections, I will 
+say so. 
+
+A final, but important note, is that one section of the game (the Cooper 
+building) must be  played between 11:45 am and 1:15 pm. If you miss that 
+period, you won't be able to get the password for Mrs. Padderwacker's desk, 
+which is randomly determined each game. 
+
+The beginning
+-------------
+NE E
+Z Z NO
+SIGN PAPER
+STAND
+DROP KNAPSACK
+
+The Powerhouse - Getting the Black Script 
+-----------------------------------------
+(starting in the infirmary)
+W S E N
+TAKE CHICKEN SUIT
+S E
+THROW CHICKEN SUIT OVER WALL
+W W S SE
+SING
+TAKE CHICKEN SUIT
+NW
+WEAR CHICKEN SUIT
+N
+TAKE BLACK SCRIPT
+S
+DROP CHICKEN SUIT
+NW N
+
+Stage 18 - Getting the Purple Script
+------------------------------------
+(starting outside the infirmary)
+N E U E E E E N
+TAKE KEY
+W W W
+MOVE RUG
+OPEN TRAPDOOR
+D N E
+PUSH CONSOLE WEST
+E
+PUSH GRUE WEST
+PUT GRUE ON TRACKS
+CONNECT CABLE TO SOCKET
+TAKE CORD
+S
+X RAMP
+TAKE RECEPTACLE
+PLUG CORD IN RECEPTACLE
+N
+TURN ON CONSOLE
+PUSH LEVER
+TURN FIRST DIAL LEFT
+TURN SECOND DIAL RIGHT 
+G
+PULL LEVER
+TURN SECOND DIAL RIGHT
+G
+TURN THIRD DIAL RIGHT
+G
+PULL LEVER
+TURN THIRD DIAL RIGHT
+G G
+PUSH LEVER
+PRESS BLUE BUTTON
+PRESS BLACK BUTTON
+PULL LEVER
+TURN THIRD DIAL RIGHT
+PULL LEVER
+TURN SECOND DIAL RIGHT
+G
+PUSH LEVER
+TURN FIRST DIAL RIGHT
+PULL LEVER
+TAKE KEY
+S U E E E
+OPEN GRATING
+DROP KEY
+D
+TAKE PURPLE SCRIPT
+U S W W W W D W
+
+The island - getting the matches and the flashlight
+---------------------------------------------------
+(starting outside stage 18)
+NE N
+TAKE PLATFORM
+S S
+INFLATE PLATFORM
+S W W NW W W W NW N NE E E
+SEARCH HEDGE
+OPEN SPIGOT
+G
+Z (repeat until the man arrives)
+NW E E
+DROP PLATFORM
+TURN PLATFORM WEST
+STAND ON PLATFORM
+TAKE MATCHES
+OPEN MANHOLE COVER
+D
+TAKE FLASHLIGHT
+SW W W
+OPEN FLASHLIGHT
+PUT PACK IN RECHARGER
+TAKE PACK
+UNLOCK DOOR
+OPEN DOOR
+S S SW S
+
+The Zuckor building - getting the cinder block and the badge
+------------------------------------------------------------
+(starting from the north gate)
+S
+TAKE WHEELS
+S E E E E N E E N N N
+SEARCH CHEESE
+S S S NE
+TAKE BADGE
+TAKE PHOTO FROM BADGE
+DROP PHOTO
+UNSCREW HANDLEBAR
+SCREW HANDLEBAR TO WHEELS
+DROP SCREWDRIVER
+SW W W S W W W W U
+PUT DEVICE ON CABLE
+SLIDE DOWN CABLE
+N D E
+TURN DIAL
+SIT
+Z NO
+TAKE PHOTO
+PUT PHOTO IN BADGE
+WEAR BADGE
+STAND
+W N
+TAKE CINDER BLOCK
+OPEN HATCH
+D
+
+The oven - getting the red script
+---------------------------------
+(starting in the elevator, with the cinder block)
+DROP CINDER BLOCK
+TAKE CINDER BLOCK
+S E E 
+DROP CINDER BLOCK
+TAKE CINDER BLOCK
+NE NE N
+DROP CINDER BLOCK
+TAKE CINDER BLOCK
+NW W
+TURN TUBE NORTH
+PUT CINDER BLOCK ON PEDAL
+(the following section is timed)
+E
+TAKE RED SCRIPT
+
+The water tank - getting the green script
+-----------------------------------------
+(starting in special effects east, with the flashlight)
+TAKE SQUIB
+CONNECT SQUIB TO PACK
+SE S SW E U E N D
+if you haven't already done so, MOVE RUG and OPEN TRAPDOOR
+S 
+OPEN BOX
+TAKE PLASTIC
+N U S W D W NE S 
+INFLATE PLASTIC	
+S W W W S W D
+PUT SQUIB ON BOX
+TURN PACK ON
+DISCONNECT WIRES FROM PACK
+DROP WIRES
+CONNECT PACK TO BULB
+OPEN BOX
+OPEN VALVE
+(the following section is timed)
+U W
+PUT BOAT IN TANK
+ENTER BOAT
+Z
+OPEN GRATE
+U
+(end of timed section)
+SEARCH BOXES
+W
+PUSH WALL
+OPEN DOOR
+W
+DROP FLASHLIGHT
+
+Stage 17 - getting the yellow script and the poster
+---------------------------------------------------
+(starting in the mail room, with the badge)
+W NE SE E E E NE N E U
+OPEN CAGE
+D W S SW N N N E SE
+TAKE POSTER
+PUSH LIGHT NW
+ROLL POSTER
+PUT POSTER IN INTAKE
+TURN ON MACHINE
+DISCONNECT HOSE
+CONNECT HOSE TO INTAKE
+TAKE PARROT
+PUSH LIGHT WEST
+SHOW LIGHT TO ELECTRICIAN
+U
+LIGHT MATCH
+LIGHT WAX
+SIT
+TAKE YELLOW SCRIPT
+STAND
+S
+S
+TAKE POSTER
+UNROLL POSTER
+
+The administration building - getting the pink script
+-----------------------------------------------------
+(starting outside stage 17, with the poster)
+E N E U
+if you haven't done so already, OPEN CAGE
+TAKE MIRROR
+D W S SW SW S S S U
+SHOW POSTER TO PEEPHOLE
+DROP POSTER
+OPEN DOOR
+E 
+OPEN AQUARIUM
+SHOW MIRROR TO FISH
+TAKE CHEST
+OPEN CHEST
+READ CHEST
+PUSH NINETEENTH
+PUSH THIRD
+PUSH THIRTEENTH
+TAKE SCRIPT
+DROP CHEST
+W D N
+
+The Cooper building - getting the blue script
+---------------------------------------------
+(starting outside the administration building - between 11:45 am and 1:15 pm)
+W W W N N N
+TAKE PAMPHLET
+NE
+Now, this section is random: you need to find the woman in the cemetery,
+when you find her, X GRAVE, and mark the birth and death dates mentioned.
+Then, return to the rear enterance to the cemetery to continue the 
+walkthrough.
+S S S S S W U E
+GO BEHIND DESK
+Now, you need to type a password. The password is either the birth or death
+date from the grave you've seen earlier, without the slashed. So, if you saw
+the date 6/19/1884, you need to TYPE 6191884
+OPEN DRAWER
+TAKE SCRIPT
+STAND
+W D
+
+Endgame
+-------
+(starting outside the cooper building, with all 7 scripts)
+E E E NE N
+Z (until the door is unlocked)
+W
+GIVE SCRIPTS TO WOMAN
+S W N
+
+
+You won!

@@ -1,0 +1,143 @@
+Wake up
+Get all (acquire wallet, badge, blanket)
+N
+Get all (acquire workbag, folder, crowbar, hammer)
+Look under desk (acquire screwdriver)
+Open folder
+Open bag
+X apartment door (acquire key)
+W
+N
+D
+S
+Hit tree
+Get nest
+Hit nest (acquire feather)
+X graffiti (don't examine anything else until you get the gizmo)
+N
+U
+S
+E
+S
+Put all in bag
+Lie on bed
+Sleep
+Get knife
+E
+Get notepad
+(wait for Mr Green to show up)
+Give notepad to green (acquire remote control)
+G(acquire gizmo; This isn't absolutely necessary, but it speeds things up)
+Get case
+Open case
+Get newspaper
+Cut newspaper
+Get screwdriver
+Get storeroom photo
+Unscrew framed picture
+Get bedroom photo
+Put storeroom photo in frame
+Wake up
+Get blueprint
+Put blueprint in bag
+Lie on hammock
+Sleep
+E
+Get gizmo
+Get case
+Open case
+Get key
+Get blueprint
+N
+(wait for Mr Red to show up)
+Touch gizmo (Mr Blue appears)
+Give blueprint to blue (watch his charade to work out what item you need)
+Give key to blue (acquire gadget)
+Put gadget in case
+Wake up
+Get gadget
+Put gadget in depression
+Open chest
+Get blueprint
+Get discomforter
+Put all in bag
+Lie on hammock
+Sleep
+E
+Get case
+Open case
+Get feather
+Get blanket
+Get blueprint
+Get badge
+Get newspaper picture
+Get storeroom photo
+Put newspaper picture in frame
+Open drawer
+Get mirror
+N
+Get gizmo
+(wait for Mr Green to show up)
+Touch gizmo (Mr Red appears)
+G (Mr Blue appears)
+Give blueprint to blue
+Z (watch his charades to work out what items you need)
+Give blanket to blue
+Z
+Give mirror to blue
+Z
+Give feather to blue (acquire cloak)
+Put cloak in case
+S
+W
+N
+Put badge in fountain
+S
+E
+Get tablet (from the In tray)
+X tablet (read clues)
+E
+Set abacus to 42
+Set clock to 1730
+Turn lamp right
+G
+G (mission book appears)
+X mission book (read clues)
+Wake up
+Get cloak
+Wear cloak
+E
+In
+Get box
+W
+N
+U
+W
+(wait for the guard to close his eyes)
+Drop box
+(wait for the guard to eat all three doughnuts)
+Turn on discomforter (guard leaves)
+Turn off discomforter (not necessary, but would you leave it on?)
+In
+Turn on switch
+Out
+W
+Type 28635 on the keypad
+N
+Get cube
+Put cube in bag
+S
+E
+E
+D
+S
+E
+Out
+S
+Open door
+Lie on seats
+Sleep
+E
+Open case
+Take cube
+Put cube in out-tray

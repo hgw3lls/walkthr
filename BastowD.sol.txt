@@ -1,0 +1,109 @@
+The Secret of Bastow Manor
+Gameworx Software (1983)
+Walk Through by Dorothy Millard (C64 Version)
+
+
+Notes:
+
+1. The dogs will get you after a limited number of moves, so whenever
+   you are in the open, be sure to take cover. There are three places
+   where you are safe:
+-  Climb the tree.
+-  Climb the ladder at the window.
+-  In the shed.
+
+2. The safe combination is IBDF. This is worked out from the note in the
+   box (reads VI) and the book in the library (locks and cunning
+   escapes. as a general rule for opening treasure chests try Right 3,
+   Left 7, Right 2. the rest of the page is missing).
+-  Starting at F, the sixth letter (VI) and going right 3, you get to the
+   9th letter, which is I (first letter in the combination).  
+-  Left 7 takes you back to the second letter (9-7), which is B (second
+   letter of the combination.  
+-  Right 2 brings you to D (2+2).  
+-  The F at the end is the starting letter ("the left is right. or is the
+   right wrong").
+
+Walk Through
+
+(Start outside the manor gates), S (by manor wall), LOOK TREE (dead),
+CLIMB TREE, LOOK TREE (see a branch), BREAK BRANCH, GET BRANCH, CLIMB
+TREE (back down), N, LOOK GATE (it's locked but you see an iron key),
+GET KEY (which one?), IRON (using the branch), S (by wall), READ SIGN
+(says "Bastow Manor - Keep Out"), LOOK MAILBOX (locked), UNLOCK MAILBOX
+(using iron key), LOOK MAILBOX, GET LETTER, READ LETTER (says "the left
+is right... or is the right wrong"), DROP LETTER, LOOK MAILBOX (again),
+GET TORCH, N (back to manor gates), UNLOCK GATE (using iron key), OPEN
+GATE (you hear dogs howling and if you dally too long they will catch
+you), GO GATE (gravel path).
+
+S (outside garden shed), LOOK SHED (see ladder), S (inside shed - you
+are tired and can go no further while you are carrying the branch), DROP
+BRANCH, N, GET LADDER, N (gravel path), E (front door), READ SIGN (says
+ring bell and enter, but don't ring the bell as if you do a chute opens
+and you die), E (east side of the manor), DROP LADDER, CLIMB LADDER
+(window ledge where you are safe from the dogs - ignore the window for
+now as it can only be opened from the inside), CLIMB LADDER (back down),
+W, W, S, S (inside shed), MOVE CASE (see trapdoor), OPEN CASE, LOOK CASE
+(see apple), GET APPLE, LIGHT TORCH, GET BRANCH, GO TRAPDOOR (dim room),
+GET BOX (small), S (moss covered tunnel where there is a deep pit), LOOK
+PIT (full of snakes), DROP BRANCH (it spans the pit), S (damp stone
+corridor), OPEN TOOLBOX, LOOK TOOLBOX, GET CROWBAR, N, N (dim room where
+door is), LOOK DOOR (secured with a beam), LOOK BEAM (very heavy),
+REMOVE BEAM (using crowbar), DROP CROWBAR, OPEN DOOR.
+
+GO DOOR (now in the manor at the north end of a hall), OPEN CLOCK, LOOK
+CLOCK, GET KNIFE, S (south end of hall), S (kitchen), LOOK TABLE
+(strange, there's hot food there), DROP APPLE, CUT APPLE (a small key
+falls out), GET KEY (which one?), SMALL, DROP KNIFE, UNLOCK BOX (using
+small key), OPEN BOX, LOOK BOX (a note falls out), DROP BOX, DROP KEY
+(which one?), SMALL, GET NOTE, READ NOTE (writing - looks like VI...),
+DROP NOTE, W (closet), GET BUCKET, MOVE CRATE (see a brass key, but
+someone knocks you out... when you recover the key is gone), E, N, GO
+STAIRS (master bedroom), DROP BUCKET (for later), OPEN WINDOW, GO WINDOW
+(to ledge where the ladder that you put there earlier is), CLIMB LADDER,
+W, W, W (manor gates), S (by wall), CLIMB TREE (to avoid the dogs),
+CLIMB TREE (back down), LOOK MAILBOX, GET KEY (which one?), BRASS, CLIMB
+TREE (to avoid the dogs again), CLIMB TREE (back down), N, GO GATE, E,
+E, CLIMB LADDER, GO WINDOW (back to master bedroom).
+
+GO STAIRS (south end of hall), UNLOCK DOOR (using brass key), OPEN DOOR,
+DROP KEY (which one?), BRASS, GO DOOR (study), LOOK DESK (has a drawer),
+OPEN DRAWER, LOOK DRAWER (find a pencil but leave it and it has no use
+in the game), PRESS PANEL (see button), PULL BUTTON (hear a rumble -
+this creates a hole in the stone cell), E, S, S (wine cellar), GET
+ARMOUR, WEAR ARMOUR, N, N, N, N (entrance foyer where you see a door and
+a balcony), OPEN DOOR (sealed tight), E (old man Bastow drops a safe
+from the balcony... good job you were wearing the armour... you enter
+the library), LOOK DESK (there's an open book there), READ BOOK (locks
+and cunning escapes. as a general rule for opening treasure chests try
+Right 3, Left 7, Right 2. the rest of the page is missing), W, DROP
+ARMOUR, S, S.
+
+GO STAIRS (master bedroom), GET BUCKET, S (bathroom), LOOK BATH (see
+taps), FILL BUCKET, N, GO WINDOW (window ledge), CLIMB LADDER, W, W, S,
+S (garden shed), GO TRAPDOOR, S, S, S (secret laboratory where there is
+a bloody table and a skeleton), LOOK SKELETON (you thought it moved), E
+(stone cell where there is now a hole, on the other side of which is the
+robot who guards the treasure - remember the rumble from the study),
+THROW WATER (where?), HOLE (at robot), W, N, N, N, GO DOOR, S, GO
+STAIRS, S (bathroom), FILL BUCKET, N, GO WINDOW, CLIMB LADDER, W, W, S,
+S, GO TRAPDOOR, S, S, S, E (stone cell), THROW WATER (where?), HOLE (at
+robot), W, N, N, N, GO DOOR, S, GO STAIRS, S (bathroom), FILL BUCKET, N,
+GO WINDOW, CLIMB LADDER, W, W, S, S, GO TRAPDOOR, S, S, S, E (stone
+cell), THROW WATER (where?), HOLE (that deals with the robot and it is
+now safe to enter), GO HOLE (secret room), LOOK ROBOT (it's shorted
+out), DROP BUCKET.
+
+E (treasure room), LOOK CHEST (has a combination lock), UNLOCK CHEST
+(enter letters), IBDF, LOOK CHEST, GET GOLD (bells are ringing
+somewhere), W, W, W (secret laboratory - the skeleton stirs), N (the
+skeleton comes after you - do not delay on the way out or the skeleton
+will catch you), N, N, W, N, N, W (through the gate).
+
+That's it you've got the gold
+..And your life!
+
+
+
+

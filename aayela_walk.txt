@@ -1,0 +1,139 @@
+Official walthrough for
+Aayela, an Interactive Vision.  Release 1.2 / 010815
+Walkthrough written by Magnus Olsson (mol@pobox.com) 040229.
+
+[ We start inside a dungeon, outside a closed door. Let's see
+  if we have any equipment and if there's anything special about
+  the door ]
+>i
+>x door
+>open door
+>x scroll
+>read scroll
+>n
+>x door
+>s
+>open door
+
+[ ok, so we're trapped in darkness. we don't seem to have much choice ]
+
+>n
+>x wall
+>n
+>nw
+>x floor
+>x object
+>play flute
+>nw
+
+[ nothing more of interest around here ]
+
+>exit
+>n
+>ne
+>n
+>ne
+>se
+
+[ most exits don't lead anywhere, but don't give up! ]
+
+>e
+>feel air
+>e
+>e
+>x air
+>x crack
+>get paper
+>out
+>w
+
+[ Let's go back to the junction; there's one more direction to explore ]
+
+>s
+>x sand
+>s
+>s
+
+[ Yet another dead end! ]
+
+>n
+>x sand
+>open cover
+>enter manhole
+>se
+>s
+
+[ It might be a good idea to save here ]
+
+>x wall
+>w
+>w
+>s
+>e
+>n
+
+[ Now we've walked around the entire room. Exploring further won't do
+  much good right now. Just wait until something happens. ]
+
+>z
+>z
+>z
+
+[ After a while, the music starts playing again. ]
+
+>listen to music
+>play flute
+>play flute
+>play flute
+
+>z
+>z
+>z
+>z
+
+[ Wait for a while, and now you can finally see something! ]
+
+>x spark
+>touch spark
+>take spark
+
+[ Now it's light enough to read. Remember the piece of paper? ]
+
+>read paper
+
+[ Remember the magic word. Time to leave, perhaps? ]
+
+>n
+>x heliax
+>save
+
+[ This is a very good place to save ]
+
+>ask heliax about crystal
+>n
+>n
+>give crystal to heliax
+>n
+>z
+
+[ Wait for Heliax to show you out ]
+
+>z
+>z
+
+[ But that wasn't very good, was it? Time to restore. ]
+
+>restore
+
+[ Remember the magic word. ]
+
+>queltuya
+
+[ Better - but not really a happy ending, no? Maybe there's a better
+  way? The paper said something about releasing the spirit from the
+  crystal. ]
+
+>restore
+>break crystal
+
+[ The End ]

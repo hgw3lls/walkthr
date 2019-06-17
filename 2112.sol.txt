@@ -1,0 +1,40 @@
+Solution to 2112
+----------------
+
+waterfall
+take device
+
+temple
+talk
+
+your project
+> dream
+
+prison camp, off to the side
+> shovel
+
+riverside
+use shovel
+
+trashed room
+> mac 10
+s
+
+back room
+> charge
+
+temple
+use mac 10
+w
+
+computer room
+take guitar
+use charge
+
+gateman place
+use gun
+n
+n
+
+--------------
+solved by sasi

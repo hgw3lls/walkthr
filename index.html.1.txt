@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index: if-archive/solutions/maps</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../../../../misc/ifarchive.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/indexes/archive.rss">
+</head>
+<body><div id="indexpage" class="Page">
+
+<div class="Header">
+<h1>Index: <a href="../../../../indexes/if-archive/">if-archive</a>/<wbr><a href="../../../../indexes/if-archive/solutions/">solutions</a>/<wbr><a href="../../../../indexes/if-archive/solutions/maps/">maps</a></h1>
+</div>
+
+
+<div class="ParentLinks">
+<ul id="parentlist">
+<li><a href="../../../../indexes/if-archive/solutions/">Up to parent</a>
+<li><a href="../../../../indexes/if-archive/">Up to root</a>
+<li><a href="/if-archive/solutions/maps">See raw files</a>
+</ul>
+<hr>
+</div>
+
+
+
+
+<div class="Body">
+
+
+<h3 class="ListHeader" id="subdirheader">1 Subdirectory</h3>
+<ul id="subdirlist">
+<li class="ParEven"><a href="../../../../indexes/if-archive/solutions/maps/old/">if-archive/<wbr>solutions/<wbr>maps/<wbr>old</a>
+
+</ul>
+
+
+ 
+<h3 class="ListHeader" id="itemheader">51 Items</h3>
+<dl id="itemlist">
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Acheton-Map.zip">Acheton-Map.zip</a> <span class="Date">[29-Apr-2007]</span><dd class="ParEven">Maps (in PDF format) of the game Acheton by
+Topologika, prepared by Marco Cavagna.
+[file is linked to phoenix/hints/maps/Acheton-Map.zip]
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/Adventure_Maps.pdf">Adventure_Maps.pdf</a> <span class="Date">[22-Feb-2019]</span><dd class="ParOdd">Maps (in PDF format) of the original Adventure,
+drawn by Ed Wright, 1979-1980.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/AdventureQuest.gif">AdventureQuest.gif</a> <span class="Date">[19-Apr-2015]</span><dd class="ParEven">Map (in GIF format) of Level 9's Adventure Quest.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/Amulett.gmp">Amulett.gmp</a> <span class="Date">[10-Mar-2001]</span><dd class="ParOdd">Map (in GUEmap format) for the German-language game
+"Das Amulett", by Matthias Oborski.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/anchmap.zip">anchmap.zip</a> <span class="Date">[17-May-1998]</span><dd class="ParEven">Maps (in GUEmap format) of Anchorhead,
+by Adam J. Thornton.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/anchorhead-2018-map.png">anchorhead-2018-map.png</a> <span class="Date">[07-Feb-2019]</span><dd class="ParOdd">Full map of Anchorhead 2018 edition, by Dan Fabulich.
+(Version 2)
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/AnchorheadMap.png">AnchorheadMap.png</a> <span class="Date">[10-Aug-2011]</span><dd class="ParEven">Map (in PNG format) of Michael S. Gentry's game
+Anchorhead (release 5), by Volker Blasius.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/Andromeda_Map.pdf">Andromeda_Map.pdf</a> <span class="Date">[21-Jan-2012]</span><dd class="ParOdd">Map of Andromeda Awakening - The Final Cut by
+the game's author, by Marco Innocenti.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/BeastMap.gif">BeastMap.gif</a> <span class="Date">[19-Oct-2007]</span><dd class="ParEven">A map of Steve' Haddon's Inform 7 port of The Beast
+of Torrack Moor, prepared by Al.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/BookVol_feelie_map.pdf">BookVol_feelie_map.pdf</a> <span class="Date">[06-Oct-2011]</span><dd class="ParOdd">Non-spoiler "feelie" map for Nick Montfort's
+Book and Volume, created by Richard Bos.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/BookVol_map.pdf">BookVol_map.pdf</a> <span class="Date">[06-Oct-2011]</span><dd class="ParEven">Spoiler map for Nick Montfort's Book and Volume,
+created by Richard Bos.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/cragne-manor-map.pdf">cragne-manor-map.pdf</a> <span class="Date">[05-Jan-2019]</span><dd class="ParOdd">PDF map of Cragne Manor (2018). Made available in the
+public domain by Dan Fabulich. (Exported from Trizbort
+version.)
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/cragne-manor-map.png">cragne-manor-map.png</a> <span class="Date">[05-Jan-2019]</span><dd class="ParEven">PNG map of Cragne Manor (2018). Made available in the
+public domain by Dan Fabulich. (Exported from Trizbort
+version.)
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/cragne-manor.trizbort">cragne-manor.trizbort</a> <span class="Date">[05-Jan-2019]</span><dd class="ParOdd">Trizbort map of Cragne Manor (2018). Made available in
+the public domain by Dan Fabulich.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/curse_of_the_garden_isle_map.zip">curse_of_the_garden_isle_map.zip</a> <span class="Date">[07-Jul-2018]</span><dd class="ParEven">A map of Ryan Veeder's Curse of the Garden Isle.
+Made available in the public domain by Dan Fabulich.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/daveMUD.gmp">daveMUD.gmp</a> <span class="Date">[24-Feb-2000]</span><dd class="ParOdd">Map (in GUEmap2 format) of daveMUD
+(on the Internet at zork.plover.net:4096).
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/ditch_maps_dia.zip">ditch_maps_dia.zip</a> <span class="Date">[04-Feb-2000]</span><dd class="ParEven">Source code for the Poscript maps of Ditch Day
+Drifter, created using Dia v0.83.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/ditch_maps_ps.zip">ditch_maps_ps.zip</a> <span class="Date">[04-Feb-2000]</span><dd class="ParOdd">Maps of Ditch Day Drifter in Poscript format,
+by Paul Munn.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/ditchday_map.txt">ditchday_map.txt</a> <span class="Date">[04-May-2001]</span><dd class="ParEven">Description of the GUEmap format maps for
+Ditch Day Drifter, by Philip Swartzleonard.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/ditchday_map_printer.gmp">ditchday_map_printer.gmp</a> <span class="Date">[04-May-2001]</span><dd class="ParOdd">Map (in GUEmap format) of Ditch Day Drifter,
+by Philip Swartzleonard. This version of the map
+has been specially laid out for printing.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/ditchday_map_wide.gmp">ditchday_map_wide.gmp</a> <span class="Date">[04-May-2001]</span><dd class="ParEven">Map (in GUEmap format) of Ditch Day Drifter,
+by Philip Swartzleonard.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/dsd_maps.zip">dsd_maps.zip</a> <span class="Date">[13-Jun-2000]</span><dd class="ParOdd">Scans of the maps from the Deep Space Drifter
+hint book, by Mike Roberts.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Dungeon.zip">Dungeon.zip</a> <span class="Date">[10-Jun-2001]</span><dd class="ParEven">Maps (in GUEmap format) of Dungeon (aka the
+mainframe version of Zork), by Paul O'Brian.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/fish-maps.zip">fish-maps.zip</a> <span class="Date">[21-Jul-2004]</span><dd class="ParOdd">Maps of Fish! in GUEmap and PDF formats,
+by Sven Siggelkow.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/FTFMaps.zip">FTFMaps.zip</a> <span class="Date">[11-Aug-2001]</span><dd class="ParEven">Maps of First Things First in two formats, GIF and
+PDF, by Al.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/jewelmap.gif">jewelmap.gif</a> <span class="Date">[12-Jul-1999]</span><dd class="ParOdd">Complete map of Jewel of Knowledge, by Al.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/KOAMaps.zip">KOAMaps.zip</a> <span class="Date">[15-Dec-2003]</span><dd class="ParEven">Maps of Kingdom of Amphibia, by the game's author,
+Al.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/LordsOfTimeMap.pdf">LordsOfTimeMap.pdf</a> <span class="Date">[11-Mar-2008]</span><dd class="ParOdd">Map of Level 9's Lords of Time, by NiMuSi.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Mimesis.gmp">Mimesis.gmp</a> <span class="Date">[27-Feb-1998]</span><dd class="ParEven">Map (in GUEmap format) of Sins Against Mimesis,
+by Adam J. Thornton.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/MullMurdMap.gif">MullMurdMap.gif</a> <span class="Date">[29-Oct-2007]</span><dd class="ParOdd">A map of Mulldoon Murders, prepared by Al.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/OAFMaps.zip">OAFMaps.zip</a> <span class="Date">[30-Mar-2002]</span><dd class="ParEven">Maps (in GUEmap format) of Once And Future,
+by Paul O'Brian.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/Oskar.gmp">Oskar.gmp</a> <span class="Date">[09-Feb-2001]</span><dd class="ParOdd">Map (in GUEmap format) for the German-language game
+"Oskar und der Tod", by Matthias Oborski.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/PepperMaps.zip">PepperMaps.zip</a> <span class="Date">[28-May-2009]</span><dd class="ParEven">Maps for Mrs. Peppers Nasty Secret, prepared by Al.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/Planetfall_map.zip">Planetfall_map.zip</a> <span class="Date">[15-Feb-2002]</span><dd class="ParOdd">Map (in GUEmap format) for Planetfall, by
+Rob Schultz.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/reefer.gif">reefer.gif</a> <span class="Date">[08-Dec-2004]</span><dd class="ParEven">A map of Reefer Island, by Greg Boettcher.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/Savoir-Faire-Map.pdf">Savoir-Faire-Map.pdf</a> <span class="Date">[16-Nov-2011]</span><dd class="ParOdd">A map (in PDF format) for Emily Short's Savoir-Faire,
+prepared by Christian Johnson.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Savoir-Faire-Map.trizbort">Savoir-Faire-Map.trizbort</a> <span class="Date">[16-Nov-2011]</span><dd class="ParEven">A map (in Trizbort format) for Emily Short's
+Savoir-Faire, prepared by Christian Johnson.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/sfiction.pdf">sfiction.pdf</a> <span class="Date">[30-Jun-2012]</span><dd class="ParOdd">Map of Speculative Fiction, release 1, by the
+game's authors, Diane Christoforo and Thomas Mack.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Spirit_Map.zip">Spirit_Map.zip</a> <span class="Date">[29-Apr-2007]</span><dd class="ParEven">A complete set of maps for D.S. Yu's Spiritwrak,
+prepared by Marco Cavagna.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/SplashMap.gif">SplashMap.gif</a> <span class="Date">[29-Nov-2004]</span><dd class="ParOdd">A map of Splashdown, by Al.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Time_Adventure.zip">Time_Adventure.zip</a> <span class="Date">[09-Jan-2000]</span><dd class="ParEven">Map (in GUEmap format) for the BBC micro game
+"Time Adventure", by David Lodge.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/uu0.5.gmp">uu0.5.gmp</a> <span class="Date">[05-Sep-2007]</span><dd class="ParOdd">Map (in GUEmap format) of Unnkulian One-Half v1.0G,
+by Andrew Barnert.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/uu0.gmp">uu0.gmp</a> <span class="Date">[05-Sep-2007]</span><dd class="ParEven">Map (in GUEmap format) of Unnkulia Zero: The Search
+for Amanda v1.0G, by Andrew Barnert.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/uu1.gmp">uu1.gmp</a> <span class="Date">[22-Aug-2007]</span><dd class="ParOdd">Map (in GUEmap format) of The Unknown Unventure
+v3.0.1G, by Andrew Barnert.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/uu2.gmp">uu2.gmp</a> <span class="Date">[22-Aug-2007]</span><dd class="ParEven">Map (in GUEmap format) of Unnkulian Unventure II:
+The Secret of Acme, by Andrew Barnert.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/varic.jpg">varic.jpg</a> <span class="Date">[03-Oct-1999]</span><dd class="ParOdd">Anonymous map of Varicella, in JPEG format.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Winchester.png">Winchester.png</a> <span class="Date">[31-Mar-2010]</span><dd class="ParEven">A partial map of Union City from Winchester's
+Nightmare, drawn by Nicholas Gowan.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/wstmap.zip">wstmap.zip</a> <span class="Date">[01-Feb-2002]</span><dd class="ParOdd">A map of the first continent from Westfront PC: The
+Trials of Guilder, in Excel format. By Ben Oakham.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Zeitreise.gmp">Zeitreise.gmp</a> <span class="Date">[02-Feb-2001]</span><dd class="ParEven">Map (in GUEmap format) for the German-language game
+"Die Zeitreise", by Matthias Oborski.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/maps/Zork_Trilogy.zip">Zork_Trilogy.zip</a> <span class="Date">[02-Feb-2001]</span><dd class="ParOdd">Maps (in GUEmap format) for Zork 1 (the main
+underground section, the area around the house and
+the maze), Zork 2 and Zork 3 (the Great Underground
+Empire and the Royal Puzzle), by Matthias Oborski.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/maps/Ztuumap.zip">Ztuumap.zip</a> <span class="Date">[07-Feb-1998]</span><dd class="ParEven">A map (in GUEmap format) for Zork: The Undiscovered
+Underground, by Julian Fleetwood.
+
+
+</dl>
+
+
+</div>
+
+<div class="Footer">
+<hr>
+
+<p id="footercredits">
+The <a href="/">IF Archive</a> is a public service of the
+<a href="http://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+</p>
+
+<p id="footerlinks">
+<em><a href="../../../../misc/license.html">Terms of Use</a></em> -
+<em><a href="../../../../misc/about.html">About Us</a></em>
+</p>
+</div>
+
+
+</div></body></html>

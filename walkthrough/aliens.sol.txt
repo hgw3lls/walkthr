@@ -1,0 +1,192 @@
+"Space Aliens Laughed at my Cardigan" walk-through
+This walk-through is based on ALIEN.WLK, which comes in the ZIP source
+and is presumably by the author.
+Modified by Nils Barth 2000-12-10
+Feel free to write and upload a better solution if you want to.
+Otherwise, corrective modifications to this solution
+are welcomed and encouraged.
+
+Note that to figure this out, I looked at the source to figure out
+what you are supposed to do (due to bugs, you don't need to do
+everything to `win').
+My taking over starts where NORTH is instead written N.
+Also, note the (unintentional?) tribute to Infocom's classic
+`Guess the Verb' in Zork I, in the last line. What /do/ you do to a switch?
+	-nils
+
+NORTH
+NORTH
+NORTH
+NRTHEAST
+NORTH
+EAST
+OPEN FRIDGE AND GET BEER
+WEST
+SOUTH
+SOUTHWEST
+SOUTH
+SOUTH
+NORTH
+EAST
+GET DEVICE
+WEST
+SOUTH
+EAST
+GIVE BEER TO TRAMP
+WEST
+WEST
+GET TEA-BAG
+EAST
+SOUTH
+SOUTH
+SOUTHWEST
+SOUTH
+GET CAKE AND WOOD
+NORTH
+NORTHEAST
+SOUTHEAST
+SOUTH
+GIVE CAKE TO TRAMP
+KILL DOG WITH WOOD
+DROP CAKE AND GET WOOD
+NORTH
+NORTHWEST
+NORTH
+WEST
+GIVE WOOD TO SALES PERSON
+EAST
+EAST
+NORTH
+GET BUNS
+SOUTH
+GIVE BUNS TO HUGH JEATER
+NORTH
+TEABREAK
+GET PILL
+GIVE PERSONAL STEREO TO FORD PERFECT
+PLACE BATTERIES IN DEVICE
+PLACE COIN IN DEVICE
+SOUTH
+SOUTH
+WEST
+NORTH
+EAST
+GET KEY
+WEST
+NORTH
+EAST
+GIVE DEVICE TO OWNER
+GET CARDIGAN PATTERN
+SOUTH
+WEST
+WEST
+WEST
+NORTH
+NORTHEAST
+N
+DROP ALL
+GET DEVICE
+SOUTH
+SOUTHWEST
+SOUTH
+SOUTH
+SOUTH
+DROP DEVICE
+SOUTH
+SOUTHEAST
+SOUTH
+GET CAKE
+NORTH
+NORTHWEST
+NORTH
+NORTH
+NORTH
+NORTH
+NORTHEAST
+NORTH
+Z
+SOUTH
+SOUTHWEST
+SOUTH
+SOUTH
+SOUTH
+Z
+N
+E
+GET CARD
+OPEN DOOR
+E
+N
+N
+GET BOTTLE
+GET FLOUR AND SUIT
+WEAR SUIT AND CARD
+GIVE FLOUR TO CHEF
+W
+W
+GIVE BOTTLE TO GUARD
+GIVE CAKE TO PRINCESS
+S
+DROP CANDLE
+DROP CANDLE
+GET COIN
+E
+S
+W
+W
+W
+S
+W
+ASK WOMAN ABOUT BARMAN
+GIVE NOTE TO BARMAN
+E
+S
+E
+OPEN BOX
+PLACE FUSE IN BOX
+CLOSE BOX
+W
+W
+GIVE CARD TO TRAVELLER
+E
+U
+OPEN HOLE
+PLACE CARD IN HOLE
+D
+N
+N
+E
+N
+W
+S
+E
+S
+D
+E
+U
+E
+GET KEY
+W
+D
+W
+U
+N
+E
+N
+W
+S
+E
+N
+E
+SE
+E
+E
+SE
+SW
+D
+PLACE COIN IN SLOT
+OPEN DOOR
+E
+W
+W
+FLICK RED SWITCH

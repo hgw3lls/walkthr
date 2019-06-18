@@ -1,0 +1,19 @@
+Solution to 2044: Space Troopers
+================================
+
+
+w.
+open computer > motivator [12/12]
+n
+open fridge > turkey [5/17]
+n w
+x desk.  open drawer > clipping [15/32]
+e e d out n
+open box > sandwich [5/37]
+n
+x ship; put motivator in socket; enter ship; push button [23/60]
+
+
+*************************
+Solved by Ambat Sasi Nair
+*************************

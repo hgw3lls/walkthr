@@ -1,0 +1,61 @@
+This is a walkthrough for Cold As Death, by Gorm. 
+
+At the time of the walkthrough creation, this game could be played at
+http://www.lai.as/games/ColdAsDeath/ .
+
+Since actions are timed, you have 20 seconds between run or jump
+actions; if you don't take one of these actions every 20 seconds, you'll
+freeze to death. So if you're a slow typist, you may want to add "jump"
+as needed.
+
+
+pick up parachute
+run south
+run south
+pick up pebbles
+run north
+run west
+pick up sweet mushrooms
+run east
+run east
+run east
+
+(There seems to be a bear in the way. Maybe we could lure and poison it?
+[No, this puzzle doesn't make sense to me either. Let's just go with
+it.])
+
+drop sweet mushrooms
+
+(Of course, dead would be better than sleeping. What would make a noise
+to knock down those spiky stones?)
+
+use pebbles with sleeping bear
+run east
+pick up knife
+pick up axe
+pick up rope
+run west
+use knife with dead bear 
+
+(Notice what this does to our turn time limit!)
+
+run west
+run west
+run south
+
+(That's really begging to be chopped down...)
+
+use axe with tree-sized mushroom
+use rope with wooden board
+pick up snowboard
+run north
+run east
+run north
+run north 
+
+(We're about to go snowboarding, so we'll have an even smaller time
+limit than usual. Type fast!)
+
+jump
+jump
+jump

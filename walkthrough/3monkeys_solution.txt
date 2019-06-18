@@ -1,0 +1,190 @@
+
+THREE MONKEYS ONE CAGE Solution
+           OR
+"How to construct a crude pulley system in public under life and death
+circumstances, while a mischievous ape tries repeatedly to pull your
+shorts down"
+
+This document contains complete spoilers for the game "Three Monkeys One
+Cage" by Robert Goodwin. It is inadvisable to be reading this if you
+haven't looked at the general in-game hints (type "HINT" during the
+game), and even then this document should be used sparingly. The game is
+hard, but try to solve as much of it by yourself as you can, yeah?
+You'll feel better about yourself.
+
+This solution is explained by sections.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+THE MANDRILL -- Keeping him out of your hair
+
+Generally whenever the mandrill enters your corner of the cage or you
+enter his, you have one turn to act before he does you in. Early on you
+can avoid death by simply moving to a differenct corner of the cage
+whenever he approaches. After no sooner than 50 turns into the game the
+mandrill will become more aggressive, chasing you almost every turn.
+Temporary methods of fending him off, such as throwing dirt at him or
+hiding under the bed, may give you a quick breather, but you need a
+long-term solution. There are two...
+
+
+THE HORNETS -- Dangerous when aggravated
+
+The hornets will mind their own business just as long as you don't go
+casting a stone at their nest, at which point they will fly all about,
+attacking both monkeys and you. From this time on both the chimpanzee
+and mandrill will do nothing but run around wildly. This is good in the
+sense that the mandrill no longer poses a threat to you, but bad in the
+sense that the chimpanzee can no longer help you. Therefore you must
+wait until you no longer need the chimpanzee before taking this course
+of action, because there is no way to recall the hornets. (If the game
+becomes unwinnable when you throw the rock at the nest then you still
+needed the chimpanzee to do something)
+
+How do you survive the hornets yourself? Hiding under the bed is only a
+temporary solution. To protect yourself for good you'll need to cover
+yourself with a sheet or a blanket.
+
+
+THE FIRE -- Ins and outs of taming flame
+
+Neither the mandrill nor chimpanzee will enter any corner of the cage
+where fire or smoke is if they can help it. In order to build a fire you
+will need flint, steel, and tinder. The stone serves as flint. The
+barbecue fork, the bucket, or the fan serves as steel. The sheet,
+blanket, or jersey can be used as tinder. Obviously, to keep the fire
+going you'll have to keep feeding it with flammable objects.
+
+If you choose to build the fire in the southwest corner of the cage, you
+have the advantage of being able to use the fan to blow smoke (when the
+fire is large enough to produce sufficient smoke) to one of the other
+three corners. By rotating the fan you can steer the mandrill out of any
+corner of your choosing. In addition, the fire will last longer when the
+fan is on.
+
+The risk you take when you build the fire in the southwest corner is
+that it might catch to your bed. If this happens you must act quickly.
+Put out the fire by throwing or kicking dirt onto it.
+
+
+THE BUCKET -- Don't kick it yourself, let somebody do it for you
+
+How do you get the bucket off the platform? There is no way to get atop
+the platform yourself. Only the chimpanzee can, but he needs an
+incentive to go there. Hmm, I wonder what that might be. Yes, toss the
+banana onto the platform. The chimpanzee will soon jump after it,
+knocking the bucket off inadvertently. The bucket will land in the
+southwest corner.
+
+
+BUILDING THE PULLEY -- It's the only way to open the gate
+
+The solution to Three Monkeys One Cage in a nutshell is to set up a
+pulley system in which the cord is slung over the bar that protrudes
+from the wall, with a bucket attached to the end of the cord. The other
+end of the cord is already attached to the top of the gate permanently.
+When a weight falls into the bucket, the bucket descends, causing the
+gate to rise.
+
+The cord can be tied to various objects, then thrown over the bar. It is
+not enough simply to tie the cord to the bucket, for you'll find out
+that the cord is short by just a tiny margin when the weight falls and
+misses it. You must first tie the cord to a hook, then once the cord is
+dangling from the bar you must get the bucket hanging from the hook
+somehow. A hook can be found underneath your bed.
+
+The only way to get the bucket onto the hook once it has been slung over
+the bar is to lift it using the barbecue fork.
+
+
+ACTIVATING THE PULLEY -- Getting the weight to drop
+
+Once your pulley is all set up you are ready to drop the weight in the
+bucket. If you haven't guessed already, it is a coconut that must be
+used for the weight. Have the chimpanzee get one for you. (CHIMP, CLIMB
+TREE followed by CHIMP, GET COCONUT)
+
+The coconut must roll down the trough, which you cannot reach yourself.
+You need the chimpanzee again for this. (CHIMP, PUT COCONUT ON TROUGH)
+If the coconut isn't staying on the trough properly, that is because you
+did not remove the husk. You can crack it open with the stone or with
+the barbecue fork.
+
+Just because the coconut is on the trough does not mean that it will
+roll automatically. The trough must be inclined. You can use the
+barbecue fork to raise one end of it. At last, the coconut will fall
+into the bucket and the gate will open! (If the coconut isn't landing
+squarely in the bucket, read the previous section carefully)
+
+
+GETTING OUT ALIVE -- How to leap a great distance and live to tell
+
+After you've gotten the gate open there is still more puzzle left to be
+solved. The distance to the ground below is too great to jump, yet jump
+you must. But you'll need to make some preparations. To begin with, you
+must use the cord again in a different way. You need to hold onto it, or
+tie it around your waist when you leap outside. The dilemma is in the
+fact that the cord can only be used for one purpose at a time; it can't
+be tied around your waist while it is being used for the pulley. Were
+you to remove the bucket from the hook with the barbecue fork, then pull
+away the cord, the gate would go back down. Thus you must keep the gate
+open another way while you remove the cord from the bar. Do this by
+placing an object in the opening to hold the gate up. Namely, the
+barbecue fork.
+
+
+DISMANTLING THE PULLEY -- But only once you no longer need it
+
+The gate's open and you need that cord again. But the barbecue fork
+which could otherwise be used to remove the bucket from the hook is no
+longer available. How do you retrieve the cord? This is perhaps the most
+difficult part of the puzzle, and it requires some timing. The fact is
+that you DO need the fork for this. Before placing it in the gate you
+must use that versatile tool in one more capacity--as a torch. The
+barbecue fork can be used to lift burning objects out of the fire, such
+as the jersey, or the banana peel, or the coconut husk. You can then
+"light the fuse" by touching the torch to the cord. Then, before the
+cord snaps, extinguish the burning object and wedge that fork in the
+gate, as explained above.
+
+
+THE FINAL STEP -- Before you can fly the cage
+
+Using the procedure described in the previous two sections, you can
+almost survive that drop. One more precaution need be taken in order for
+you to fall the remainder of the distance without injury. You must
+cushion your fall. Throw as many object out the cage as you like, but
+the only one that will make any difference is the mattress. Be aware
+that you can't pick up the mattress while you're carrying other things.
+
+
+THE ANVILS -- Death from above
+
+After precisely 100 turns into the game, panels on the ceiling will open
+up to release heavy anvils. A falling anvil will most certainly crush
+you in five turns unless you take cover by hiding under your bed.
+Whereupon the anvils will cease, and bombs will begin dropping in their
+stead. When the bombs start dropping you have only nine turns left to
+complete the game, so act quickly! There is no way to outlive the bombs
+save by completing the puzzle and escaping from the cage.
+
+
+
+-----------------------------------------
+Is Three Monkeys One Cage a fair puzzle? I'd like to hear what you
+think. You can reach me at flowerthief@inbox.lv if you have additional
+questions or feedback. 
+Robert Goodwin

@@ -1,0 +1,97 @@
+Solution to Adventurers' Museum
+===============================
+
+Lying around:
+1  gold ring (entrance)
+2  ivory dagger (cemetery)
+3  silver key (mirror room)
+4  glowing orb (beside small pool)
+5  trident (under pool between garden and cemetery)
+
+Witch's Cave
+witch: fill bucket with water. pour water on witch.
+magically sealed door: wave broomstick. s. open coffin. d.
+6  silver bell
+7  sapphire bracelet
+
+Purple Room
+wall: ring bell twice.
+
+Frog Room
+hole: put candle in hole. open matchbox. get match. light match.
+      light candle. wait.
+8  (sack of) gems
+
+Pentacle Room
+wear ring. zophia.
+9  tapestry
+
+Smithy
+look at ashes.
+10 silver bars
+
+Machine room
+push blue, orange, red (as hinted in note in pentacle room).
+unlock chest with silver key. open chest.
+11 coins
+
+Open area
+feed hay to horse. put saddle on horse. ride horse.
+12 platinum flute
+wash flute (near river/pool or with bucket of water).
+
+Garden (Tree)
+play flute (to snake). climb tree.
+13 emerald egg
+
+Temple
+put flower (from flower garden) on altar.
+14 jewelry
+
+Overview
+open flask (from spell room). drink potion. push boulder.
+15 jeweled sword
+
+Large Cavern
+unlock door with silver key.
+16 ermine robe
+
+Dragon's Lair
+play flute/ring bell/hit dragon. walk away while dragon follows you.
+return quickly, get painting and avoid dragon.
+17 painting
+
+Mirror room
+open crate (from Dead End).
+18 golden coronet
+19 ruby (North/south passage)
+
+Tomb
+open coffin > ghost gives instructions.
+give flower to troll. open door (of hut).
+w. get axe.
+put axe in thorin's coffin. get diamond (treasury).
+20 diamond
+
+put all 20 treasures in case or give them to curator.
+
+
+Miscellaneous
+
+a  wearing the ring makes you invisible to the thieving imp as well.
+
+b  lamp & painting get damaged by water.
+
+c  glowing orb is an alternate source of light.
+
+d  ways of returning to museum:
+d.a  ride broomstick in open area.
+d.b  swim.
+d.c  kill troll! give him flower & lead dragon to him quickly.
+d.d  get killed.
+
+
+*************************
+Solved by Ambat Sasi Nair
+*************************
+

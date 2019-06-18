@@ -1,0 +1,263 @@
+The following is a transcript of a walk through the interactive fiction
+title "Busted".  As far as practical, it relies on logical actions as determined
+from information already revealed in the current session and the reasonable
+expectations of a player familiar with interactive fiction in general, but not
+this title in particular.  The final score is 158 points out of a possible 154,
+in 252 turns.
+
+
+ * * *
+
+
+inventory
+search ashtray
+take roach
+open wallet
+take cash,id
+examine id
+read note
+n
+n
+w
+s
+show lady id
+s
+wait in line
+eat food
+sw
+se
+milton, hello
+give milton roach
+give milton joint
+ne
+light roach
+smoke roach
+eat food
+drop tray
+light joint
+drop lighter
+sw
+give milton joint
+take oil
+n
+take cereal
+open cereal
+pour cereal
+drop cereal
+take pentacle
+u
+take bong
+jump
+d
+s
+doff visor
+doff apron
+e
+drop apron,visor
+ne
+nw
+n
+e
+e
+e
+e
+s
+take walkman
+n
+e
+drop bear
+s
+open box
+take gloves
+wear gloves
+take umbrella
+open umbrella
+examine liquid
+drink liquid
+n
+e
+e
+e
+open grate
+pour oil on grate
+drop bottle
+n
+e
+e
+n
+examine terminal
+examine slot
+put id in slot
+type mo3xyan2l on terminal
+open book
+examine preface
+tear preface
+take id
+s
+w
+w
+drop umbrella
+s
+open grate
+d
+open chest
+take pliers
+u
+w
+w
+n
+get in elevator
+examine buttons
+press h
+get out
+w
+get in elevator
+press l
+get out
+n
+ask employee about room
+show employee id
+s
+get in elevator
+press c
+get out
+s
+e
+e
+n
+n
+n
+w
+examine sign
+turn sign
+w
+ask bob about sr97
+bob, name
+inventory
+look
+ask bob about name
+bob, form
+bob, a2487493
+e
+s
+s
+s
+w
+w
+n
+get in elevator
+press l
+get out
+n
+give employee sr97
+s
+get in elevator
+press h
+get out
+w
+sleep
+s
+get in elevator
+press c
+get out
+s
+drop key
+take sunglasses
+e
+n
+wear sunglasses
+n
+wear walkman
+play walkman
+n
+stop walkman
+open walkman
+take tape
+drop tape
+w
+w
+n
+examine freak
+ask freak about tape
+s
+show freak pentacle
+drop pentacle
+doff walkman
+put tape in walkman
+close walkman
+wear walkman
+play walkman
+s
+take bear
+e
+e
+n
+examine pinball
+take quarter
+take quarter with pliers
+drop pliers
+take quarter
+open locker
+take box
+open box
+take vial,ecstasy
+put bong in box
+put acid in box
+e
+u
+u
+n
+examine greg
+examine scale
+give greg ecstasy
+wait
+wait
+wait
+give greg bear
+put scale in box
+close box
+s
+s
+d
+e
+examine drinks
+put quarter in drinks
+press coffee
+drink coffee
+w
+d
+e
+n
+w
+w
+w
+n
+wait
+w
+examine degree
+doctor, examine me
+e
+s
+w
+give pharmacist prescription
+e
+e
+e
+n
+eat valium
+n
+examine shrubbery
+take book
+e
+d
+drink vial
+drop vial
+n
+open box
+take acid,bong,scale
+put acid in incinerator
+put bong in incinerator
+put scale in incinerator
+put book in incinerator
+s
+u

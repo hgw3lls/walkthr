@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index: if-archive/solutions/tools</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../../../../misc/ifarchive.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/indexes/archive.rss">
+</head>
+<body><div id="indexpage" class="Page">
+
+<div class="Header">
+<h1>Index: <a href="../../../../indexes/if-archive/">if-archive</a>/<wbr><a href="../../../../indexes/if-archive/solutions/">solutions</a>/<wbr><a href="../../../../indexes/if-archive/solutions/tools/">tools</a></h1>
+</div>
+
+
+<div class="ParentLinks">
+<ul id="parentlist">
+<li><a href="../../../../indexes/if-archive/solutions/">Up to parent</a>
+<li><a href="../../../../indexes/if-archive/">Up to root</a>
+<li><a href="/if-archive/solutions/tools">See raw files</a>
+</ul>
+<hr>
+</div>
+
+
+
+
+<div class="Body">
+
+
+
+ 
+<h3 class="ListHeader" id="itemheader">7 Items</h3>
+<dl id="itemlist">
+<dt class="ParEven"><a href="../../../../if-archive/solutions/tools/grackle.zip">grackle.zip</a> <span class="Date">[11-Mar-2011]</span><dd class="ParEven">Grackle 0.2 Alpha, by David Lodge. A dumper and player for
+adventures written using the Graphic Adventure Creator. At
+the moment it supports games from the Spectrum (in .sna
+format) and the Amstrad CPC (as extracted files with the AMSDOS
+header from a disk image). Archive includes C source and an
+MS-DOS executable.
+[file is linked from programming/gac/grackle.zip]
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/tools/Ihint32.zip">Ihint32.zip</a> <span class="Date">[09-Mar-2000]</span><dd class="ParOdd">IntelliHint, a Windows program for creating hint files
+for games, written by Philip Dearmore.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/tools/ungac.zip">ungac.zip</a> <span class="Date">[15-Sep-2018]</span><dd class="ParEven">UnGAC version 0.1, by John Elliott. UnGAC reads a snapshot of
+a Spectrum adventure game created with Incentive's Graphic
+Adventure Creator and produces text listings of the game data.
+Archive includes C source, executables for Win32, CP/M, and DOS,
+and documentation.
+[file is linked from programming/gac/ungac.zip]
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/tools/unpaws.zip">unpaws.zip</a> <span class="Date">[27-Aug-2007]</span><dd class="ParOdd">UnPAWS takes snapshot files (.SNA, .SP, .Z80) of
+Spectrum games written with PAWS, and produces text
+listings of the game database. Version 2.11, written
+by Carlos Sanchez and Jose Luis Cebrian, and then
+updated by Alexander Katz and German Gonzalez.
+Includes MS-DOS and Win32 executables and Pascal
+source code.
+[file is linked from programming/quill/unpaws.zip]
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/tools/unphipps.zip">unphipps.zip</a> <span class="Date">[05-May-2012]</span><dd class="ParEven">UnPhipps v0.0.1, by John Elliott. A tool to produce
+UnQuill-style listings of ZX81 games based on the BASIC
+engine described in books/zx81adv.zip.
+C source code and MS-DOS executable.
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/tools/unplad.zip">unplad.zip</a> <span class="Date">[04-May-2012]</span><dd class="ParOdd">UnPLAD v0.0.1, by John Elliott. A tool that lists the
+tables and game logic of adventures A-D published by
+Artic Computing (ZX81 and Spectrum versions are supported).
+C source code and MS-DOS executable.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/tools/unquill.zip">unquill.zip</a> <span class="Date">[10-Oct-2015]</span><dd class="ParEven">UnQuill v0.9.0, by John Elliott.
+Reads a snapshot (Spectrum, Commodore and CPC formats are
+supported) of an adventure game written with the Quill, and
+can:
+<br>&nbsp;&nbsp;Output textual listings of the game's data tables;
+<br>&nbsp;&nbsp;Output Inform source code for the game;
+<br>&nbsp;&nbsp;Output a Z-code version of the game;
+<br>&nbsp;&nbsp;Run the game without an emulator.
+<br>&nbsp;&nbsp;C source code, CP/M and DOS executables, plus documentation.
+[file is linked from programming/quill/unquill.zip]
+
+
+</dl>
+
+
+</div>
+
+<div class="Footer">
+<hr>
+
+<p id="footercredits">
+The <a href="/">IF Archive</a> is a public service of the
+<a href="http://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+</p>
+
+<p id="footerlinks">
+<em><a href="../../../../misc/license.html">Terms of Use</a></em> -
+<em><a href="../../../../misc/about.html">About Us</a></em>
+</p>
+</div>
+
+
+</div></body></html>

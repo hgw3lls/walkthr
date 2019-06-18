@@ -1,0 +1,343 @@
+"Busted" step-by-step solution by pjg
+Corrective modifications to this solution
+are welcomed and encouraged
+
+For game Release 4 / Serial number 941223
+Other game releases may be slightly different
+Takes about 230 moves.
+
+This game does not have to be solved in the linear manner
+presented here. If you get stuck then consult the relevant
+section of the solution for help.
+
+Comments and earned/total points are in ()
+-----------------------------------------------------------------------------
+(your purpose in this game is to find and then
+ destroy 4 pieces of incriminating evidence)
+
+Get wallet, note
+Read note
+(the note is used in the library)
+Search ashtray
+Get roach
+(Sydnee will throw the Teddy bear
+ at you around move 5)
+Open wallet
+X ID
+(remember this number)
+I
+(you will have 8 items)
+
+N, N
+(the hypodermic is unavoidable)
+
+
+FOOD
+----
+W, S
+Show ID to lady (5/5)
+Put ID in wallet
+S
+Enter line
+(get your food)
+SE
+Eat food
+(failure)
+Light roach
+(this will increase your appetite)
+Smoke roach
+Eat food (5/10)
+(you must eat by about move 25)
+Drop tray
+
+Light joint
+Drop lighter
+SW
+Milton, hello
+Give joint to Milton
+(Milton will take you to the kitchen)
+
+Get bottle
+N
+X box
+(Satan cereal)
+Open box
+Shake box then drop box
+Get pentacle
+U
+X bong
+(the first piece of evidence)
+Get bong
+(jump)
+D, S
+I
+Remove apron
+Remove visor
+(unless you want to work in the kitchen)
+E
+Drop apron, visor
+(you can return to the kitchen at any
+ time by wearing the apron and visor)
+save "s10"
+
+NW, NE, N
+E, E, E
+E, S
+Open walkman
+Get tape then drop it
+Get walkman
+N, E
+
+(the greenish aliens will appear about 54
+ moves after the needle incident, ignore them)
+
+JESUS FREAK
+-----------
+N
+X freak
+(the freak won't talk to you if
+ you are wearing the pentacle)
+Ask freak about tape
+(Satan is the antithesis of Jesus so...)
+Show chain to freak (5/15)
+Drop chain
+Put tape in walkman
+Close walkman
+Turn on walkman
+Wear walkman
+(listen to walkman)
+S
+save "s15"
+
+S
+(read plaque)
+Open box
+Get umbrella then open it
+Get gloves then wear it
+N, E
+Get sunglasses then wear it
+(we can't carry anything more)
+save "s16"
+
+N. Enter Elevator
+X buttons
+Push L. Exit
+N
+Ask employee about room
+(we have an ID and $30)
+Read ID
+(remember your ID number, it is your "name")
+
+save "ID"
+Show ID to employee
+(ok, so now we need a form)
+restore "ID"
+(the employee will destroy your ID.
+ We need it for the library so we
+ UNDOed this turn)
+
+S. Enter elevator
+Push C. Exit
+S
+
+GRATE
+-----
+E, E
+Open grate
+Pour oil on grate
+Drop bottle
+Open grate
+D
+Open chest
+Get pliers
+U, W
+save "s17"
+
+(you will start to feel sleepy around move 100
+ you have until about move 180 to reach the hotel room)
+
+ARCADE
+------
+N
+(you must be wearing the sunglasses and have the Barry
+ Manilow tape playing in the walkman that you are wearing
+ in order to reach the arcade. The Kate Bush tape won't do it)
+X machine
+Get quarter with pliers
+Drop pliers
+Get quarter
+Open locker
+Get box (4/19)
+Open box
+Put bong in box
+(we will store our 4 items in the box)
+
+REPUBLICAN
+----------
+E, U, U, N
+X Greg
+X scale
+Show capsule to Greg
+Give capsule to Greg
+Wait
+Again
+(wait about 3 turns until Greg starts to giggle)
+Give bear to Greg (19/38)
+Put scale in box
+(2nd item now in the box)
+S, S, D
+
+E
+X drinks
+Put quarter in drinks
+(you need some coffee for your visit to the Dr.)
+Push coffee button
+Get cup
+W, D
+Remove sunglasses then drop it
+Remove walkman then drop it
+(we can return to the arcade
+ at anytime if we want to)
+
+E, N
+save "s38"
+
+(we have 3 main tasks left to do,
+ but we had better go get some rest)
+
+FORM SR97
+---------
+N, N
+Read sign
+Turn sign (10/48)
+W
+Ask Bob about SR97
+(Bob wants to know your name.
+ If you wait a few more moves
+ then the telephone call will
+ give you a hint)
+
+(you must remember what was on your ID card)
+Say A2487493
+(Bob will give you the form)
+E, S, S
+save "s48"
+
+SLEEPING
+--------
+S, W, W
+N. Enter Elevator
+Push L. Exit
+N
+X form
+Give form to employee
+Give cash to employee (5/53)
+S. Enter elevator
+Push H. Exit
+W
+Sleep
+
+S
+Drop key
+(you can return to the room
+ anytime that you want to)
+Enter elevator
+Push C. Exit
+S, E, E, N
+save "s53"
+
+LIBRARY
+-------
+(you must be carrying the open umbrella)
+E, E, N
+X terminal
+X slot
+Get ID then put it in slot
+Read note then drop it
+Type MO3XYAN2L on terminal
+(you will get a book)
+Open book then read it
+Look in book
+Get all from book
+(you must be wearing the
+ gloves to get the sheet)
+Get vial
+X sheet
+Put sheet in box
+(the 3rd item)
+
+S, W, W
+Drop umbrella
+(we can return to the library
+ any time we want to)
+save "s54"
+
+W, W, W, N
+
+Dr. Floyd
+---------
+(what do you do in a waiting room?)
+Wait
+(the nurse will call you)
+W
+Drink coffee
+Doctor, examine me (5/58)
+(the Dr. will give you a prescription)
+E, S, W
+X prescription
+Ask pharmacist about valium
+Give prescription to pharmacist
+(you will get 2 pills)
+I
+E, E, E, N
+save "s58"
+
+POLICE ROADBLOCK
+----------------
+(the police have a roadblock up ahead)
+N
+(failure)
+Eat pills
+(the evidence must be hidden in the lunchbox)
+N
+
+(NOTE: the game misspells an object in
+ the scenery here. You can not refer to the
+ shrubbery as it is spelled in the scene
+ description, "shubbery")
+
+ENDGAME
+-------
+X shrubbery
+(you will find the address book)
+Get address
+E, D
+N
+(failure)
+X vial then drink it
+N
+
+(you must burn each item separately)
+Put address in incinerator (25/83)
+Get sheet then put it in incinerator (25/108)
+Get scale then put it in incinerator (25/133)
+Get bong  then put it in incinerator (25/158)
+Score
+save "alldone"
+
+S, U
+
+-----------------------------------------------------------------------------
+For fun have you tried...
+-- staying in your room?
+-- drinking the oil?
+-- eating the cereal?
+-- waiting by the Jesus freak for awhile?
+-- drinking the alien liquid?
+-- reading the newspaper?
+-- showing the ID to BOB?
+-- reading the graffiti?
+-- examining the degree of Dr. Floyd?
+-- showing the drugs to the pharmacist, Bob, or Hotel employee?
+-- listening to the cops for awhile?
+

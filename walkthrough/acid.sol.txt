@@ -1,0 +1,42 @@
+This here is the solution to Acid Whiplash (acid.z5), by Rybread Celsius
+and Cody Sandifer.  The zcode game file can be found on ftp.gmd.de in
+
+/if-archive/games/competition98/inform/acid.
+
+If you haven't already done so, you should probably try
+
+Liquid (games/competition96/liquid/liquid.z5),
+Rippled Flesh (games/competition96/ripflesh/ripflesh.z5),
+and Symetry (games/competition97/inform/reflect/reflect.z5)
+
+before giving acid.z5 a shot.  Trust me on this one -- it's worth it.
+
+Anyway, here goes:
+
+get scroll.
+read it.
+w.
+push button.
+w.
+u.
+open tip.
+i.
+open book.
+z.z.z.z.z.
+punkrock.
+s.
+x hat.
+x designs.
+x crucifix.
+pull thread.
+in.
+drop thread.
+break law.
+drink puddle.
+z. (12 times)
+w.w.w.w.n.w.n.w.
+z. (15 times)
+e.e.e.u.u.u.w.w.
+open book.
+
+That's it.  Don't forget to hit AMUSING for a list of pleasurable treats.

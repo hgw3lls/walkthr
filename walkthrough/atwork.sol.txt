@@ -1,0 +1,149 @@
+Walkthrough for "Danger! Adventurer at work!", a Quill game by Simon Avery
+Based on Duncan Cross' Inform port
+
+(Actions in brackets aren't mandatory, but help the general understanding of the game.)
+
+take stool
+throw it at window
+go window
+
+take head
+e
+go booth
+take rope
+out. n. e
+take torso
+take bull
+
+w. s. e. s
+take cutters
+n. w
+go booth
+(x phone)
+cut wire
+take phone
+
+out. e. e
+take lleg
+s
+(x witch. talk to her)
+give phone to witch
+take broom
+
+n. e
+(read sign)
+d
+(x kipper. take it. eat it)
+(x lady)
+take tube
+
+u. w. w. w. w. w. w
+(x hedgepig)
+give broom to hedgepig
+(look)
+take needle
+
+w
+take bucket
+s
+take rarm
+in
+(x dragon)
+lobe dragon
+(look)
+take rock, gold, game
+
+out. n. e. e. n. in
+(talk to teacher. read sign)
+give gold to teacher
+
+out. s. e. e. e. e
+(x fence)
+kick fence
+(look)
+take seed
+
+e. d
+fill bucket
+
+u. w. w. w. n
+show needle to camel
+(look)
+x dung
+take coin
+
+n
+take leaflet
+(x it)
+e
+(x humpty. push humpty)
+drop rock
+push humpty
+(look)
+take shells
+
+w. s. s. w. w. s
+(x engineer. talk to him.)
+give bucket to engineer
+
+n. w. n
+take rleg
+(x man. talk to him)
+give shells to man
+
+s. w. s. s. in
+take larm
+(x bod. talk to him)
+give leaflet to bod
+(inventory)
+
+out. n. n. n
+(x angus. talk to him)
+give coin to angus
+
+n. n
+make body
+tie electrodes to body
+turn on switch
+loun bench
+(look)
+take pills
+
+n
+(x brick)
+pull brick
+(look)
+take matches
+(x chasm. x button)
+throw seed
+(look. x balrog. talk to him)
+give game to balrog
+
+e. e
+cut rope
+n
+(e. x rug. loun rug)
+pull nails
+(look)
+take flashlight
+turn it on
+
+e
+(x river)
+wear tube
+swim
+
+e
+(x sign)
+drop dynamite
+light it
+w
+z. z
+e. s
+(x fireplace)
+turn bracket
+
+e. e
+(x pony. talk to it)
+eat pills
+ride pony

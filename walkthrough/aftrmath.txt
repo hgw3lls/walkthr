@@ -1,0 +1,116 @@
+Hello, Graham is my nom de plume for when i write in english
+
+I am from Sweden
+
+yury_se@hotmail.com
+
+Here is a walkthrough:
+
+
+//Getting out of the pile.
+
+x dead
+x dead
+push man
+pull legs
+up
+north
+
+//Getting boots and uniform
+
+west
+take harness
+east
+north
+north
+show stitching to woman
+give harness to woman
+hook boots with stick
+hook uniform with stick
+wear boots
+wear uniform
+
+//Getting things and building stones
+
+south
+west
+north
+take shovel
+south
+x chamber
+take residue
+east
+south
+east
+dig soil
+take large
+west
+north
+put large on mound
+east
+push man
+search jacket
+hit fist with shovel
+take letter
+northeast
+x blood
+take box
+take crescent
+southwest
+south
+hit pole with shovel
+take standard
+north
+west
+put crescent on large
+
+//Getting wheel
+
+north
+break stick
+put short under cart
+take wheel
+
+//Getting chisel
+
+south
+south
+east
+take moustache
+west
+north
+west
+north
+wear tricorne
+put residue on moustache
+wear moustache
+take sword
+south
+northwest
+show standard to clerk
+show letter to clerk
+take chisel
+
+//Completing monument
+
+southeast
+drop sword
+east
+chisel wheel with chisel
+put wheel in crescent
+
+//Other stuff
+
+south
+x pile
+take trinket
+north
+look through trinket
+
+//Finishing the game
+
+open box
+east
+east
+give trinket to man 
+	OR give crucifix to man

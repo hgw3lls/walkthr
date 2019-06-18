@@ -1,0 +1,970 @@
+x office
+x rain
+x clouds
+x me
+x clothes
+x coat
+x umbrella
+remove ring
+read inscription
+wear ring
+w
+w
+nw
+x library
+w
+x husband
+x book
+no
+tell michael about brackhurst
+ask him about car
+ask him about book
+x book
+ask michael for book
+e,se,e,e
+x alley
+se
+x can
+x window
+push can under it
+get on can
+in
+open cabinets
+w
+x desk
+open drawer
+search papers
+x machine
+x display
+press play
+e
+look up verlac
+w
+unlock door
+take coffee
+out,w,w,nw,w
+search book
+take paper
+read it
+give it to michael
+yes
+show keys to michael
+
+give coffee to him
+give paper to him
+show clothes to him
+e,se
+n
+e
+d
+s
+jump
+s
+touch obelisk
+e
+show ring to michael
+kiss him
+s
+show coat to michael
+s
+sw
+give umbrella to michael
+nw
+read notice
+unlock door
+in
+close door
+lock it
+u
+n
+x bed
+x michael
+x sketches
+x radiator
+x mirror
+put all in coat
+get in bed
+kiss michael
+sleep
+Backdrop
+Backdrop
+Backdrop
+Backdrop
+Backdrop
+Backdrop
+Backdrop
+Backdrop
+Clue
+Inventory Management
+Navigation
+Navigation
+Navigation
+Backdrop
+Navigation
+Backdrop
+
+
+Story-building
+Story-building
+Story-building
+Story-building
+Story-building
+Navigation
+Backdrop
+Navigation
+Backdrop
+Clue
+
+
+Navigation
+Backdrop
+Navigation
+Backdrop
+Backdrop
+Backdrop
+Backdrop
+Clue
+Necessary Clue
+Navigation
+
+Navigation
+
+Fun
+Navigation
+Clue
+
+Clue
+
+
+
+
+Fun
+Backdrop
+Story-building
+Navigation
+Navigation
+Navigation
+Fun
+Navigation
+Fun
+Navigation
+Story-building
+Navigation
+Story-building
+Story-building
+Navigation
+Story-building
+Navigation
+Navigation
+Story-building
+Navigation
+Backdrop
+
+Navigation
+
+
+Navigation
+Navigation
+Backdrop
+Story-building
+Story-building
+Backdrop
+Backdrop
+Inventory Management
+
+Story-building
+listen
+out
+dress
+wear coat
+s,e
+open window
+n
+
+s,w,d
+unlock door
+out
+close door
+se,d,n,w
+take newspaper
+read it
+n
+jump
+open door
+u
+s,sw,nw,in
+close door
+open luggage
+
+w
+x table
+clean it
+x c
+clean it
+x cupboard
+open it
+x lining
+pull tear
+read journal
+n
+open cabinet
+take matches and flashlight
+nw
+turn on flashlight
+unlock door
+take broom
+d
+
+x wires
+open cabinet
+search it
+take plug
+e
+x racks
+search bottles
+take them
+read labels
+w,s
+search boxes
+x web
+clean it
+take key
+put it on keyring
+x box
+take it
+n,u
+put broom in coat
+drop it
+
+se,s,e,e
+x portrait
+x sofa
+read clippings
+drop box
+x album
+read it
+look up mordecai in it
+look up elijah in it
+look up heinrich in it
+look up wilhelm in it
+look up eustacia in it
+look up croseus in it
+n
+x lamps
+x paintings
+x scene
+w
+
+w
+unlock door
+out
+nw
+x tombstones
+unlock door
+in
+x niches
+read nameplates
+look up edward
+look up julia
+look up mordecai
+out,se,in
+close door
+
+e,s,u,e,s
+x vanity
+x jewelry box
+open it
+x locket
+open it
+x boy
+wear locket
+x crib
+move it
+search it
+x bed
+look under it
+move it
+x hole
+search it
+take pages
+read it
+n,n
+
+sit in chair
+x stand
+look on it
+read manual
+out
+x bookshelves
+x poe
+take it
+x it
+read journal
+turn dial to [x]
+turn dial to [x]
+turn dial to [x]
+look in safe
+take all from it
+play flute
+x puzzle box
+push panel
+twist it
+slide it
+e
+x desk
+open drawer
+read cryptical
+take it
+x laptop
+read it
+type
+type 0628
+read laptop
+turn it off
+take opener
+x fireplace
+x spheres
+x smudges
+twist sphere
+clean it
+
+sw,sw,se,se
+read charts
+look up
+look in telescope
+se
+e
+
+x door
+x keyplate
+look in keyhole
+put opener in it
+look in keyhole
+look under door
+put newspaper under it
+x slats
+push it
+d
+n,e,sw,w
+take key
+put it on keyring
+look in hole
+sw,nw,w,s,u
+unlock door
+n
+x marks
+x straw
+search it
+x gold locket
+open it
+x woman
+wear gold locket
+
+s,d,w,d,out
+close door
+se,d,n,w,s
+d
+se
+look up jeffrey
+look up edward
+look up julia
+look up mordecai
+look up elijah
+look up heinrich
+look up wilhelm
+look up eustacia
+look up croseus
+look up william
+nw,sw
+look up jeffrey
+look up edward
+look up julia
+look up mordecai
+look up elijah
+look up heinrich
+look up wilhelm
+look up eustacia
+look up croseus
+look up william
+ne,u,n
+
+w
+s
+s
+x plant
+x orderly
+read tag
+x magazine
+ask chuck about juggs
+ask him about nutballs
+ask him about nutball
+ask him about books
+ask him about edward
+s
+ask chuck about cell key
+ask him for key
+tell him about michael
+tell him about verlac
+ask him about me
+ask him about himself
+show ring to him
+
+n,n,e,n,n,u
+read graffiti
+w
+read sign
+s
+x man
+ask him about himself
+x paperweights
+x violin
+ask man about violin
+ask him about friend
+man, play violin
+search case
+ask man about cards
+x cards
+ask man about tower
+x geode
+ask man about geode
+x amulet
+ask man about amulet
+ask him about edward
+ask him about julia
+ask him about verlac
+ask him about william
+tell him about croseus
+tell him about michael
+ask him about me
+show newspaper to him
+show flute to him
+show puzzle to him
+take puzzle
+look in it
+x disk
+ask man about paperweights
+n,e,se
+
+sw,d
+ask locals about jeffrey
+ask them about verlac
+s
+look under table
+take flask
+open it
+drink whiskey
+s,s,s,e,e
+
+ask man about verlac
+give flask to him
+ask him about whiskey
+ask him about me
+ask him about himself
+ask timothy about verlac
+ask him about edward
+show silver locket to him
+show gold locket to him
+ask him about anna
+ask him about mordecai
+ask him about william
+w,s,sw,nw,in
+close door
+w,n,out,nw,d
+look up anna
+look up william
+open william's coffin
+take skeleton
+take skull
+u,se,in
+close door
+lock it
+e,s,u,n
+take cup
+s,d,out
+close door
+se,d,n,e
+give coffee to timothy
+drop coffee
+ask timothy about crypt
+tell him about skeleton
+show skull to him
+give amulet to him
+put copper key on keyring
+
+se
+take tin
+open it
+take oil
+nw
+w,d
+unlock door
+in
+d
+n
+n
+open hatch
+put oil on hatch
+open it
+x me
+
+s,s,u,out,u,s,sw,nw,in
+close door
+lock it
+u,n,w
+put all in coat
+bathe
+take towel
+dress
+wear coat
+wear silver locket
+wear gold locket
+put towel in coat
+e
+get in bed
+sleepout
+x michael
+x mud
+dress
+wear coat
+
+ask michael about mud
+show newspaper to him
+ask him about william
+show silver locket to him
+ask him about tome
+show puzzle to him
+ask him about job
+show flute to him
+ask him about laptop
+no
+show ring to him
+ask him about edward
+show journal to him
+ask him about jeffrey
+play flute
+take it
+s,e,s
+put silver locket in jewelry box
+n,n,e,sw,w
+look in hole
+e
+look in hole
+nw
+look in hole
+
+sw,se
+x sky
+look up
+look in telescope
+x it
+put disk in slot
+look in telescope
+se,e,d,w,d,w,n,nw,d,e
+x bottles
+x fingermarks
+robust
+x light
+x vintage
+x torn
+x faded
+read journal
+w,u,se,s,e,e
+look up wilhelm in album
+look up mordecai in it
+look up heinrich in it
+look up edward in it
+look up elijah in it
+look up croseus in it
+w,w,n,nw,d,e
+turn c
+turn w
+turn h
+turn e
+turn m
+n
+d
+x pit
+take skull
+throw it in pit
+x bridge
+n
+d
+d
+x door
+x symbol
+ialdabaoloth
+in
+x niches
+search them
+x pillar
+touch it
+read hieroglyphs
+first
+x second pictogram
+x third pictogram
+x fourth pictogram
+x altar
+x columns
+left-hand
+touch it
+x right-hand
+read cryptical
+play flute
+
+
+cover hole [x]
+play flute
+uncover hole [x]
+
+play flute
+out,u,u,nw
+
+e,d,w,d,out
+look up
+close door
+se,d,s
+e
+x fence
+x church
+se
+x door
+x padlock
+hit it
+jump on door
+sw,w,s
+s
+w
+w
+take wallet
+search it
+take card
+sw
+in
+look down
+x drawing
+take hook
+s
+x well
+x cover
+move it
+look in well
+d
+x bones
+search them
+take bear
+u,n,e
+s
+d
+hide in bones
+z
+
+u
+u,n,e,ne,e,n
+ialdabaoloth
+e,se
+hit lock with hook
+d
+x furnace
+look behind it
+x body
+search it
+put key on keyring
+x hatch
+open it
+x head
+w
+look down
+x stairs
+put all in coat
+grab riser with umbrella
+x it
+u
+e
+x glass
+x pews
+x cross
+x tome
+pick it up
+read it
+no
+e
+u
+x rope
+take it
+climb it
+take it
+d,w,w
+take cloth
+x it
+d
+tie rope to railing
+climb rope
+put all in coat
+drop robe in shaft
+climb rope
+d
+let go of rope
+turn on flashlight
+take robe
+x stairs
+nw
+n,n,u
+e
+enter pipe
+e
+bathe
+
+w
+nw,e
+unlock drawer
+open it
+take key
+put it on keyring
+read letter
+w,w
+w,nw,w,n
+read sign
+x register
+look up michael in it
+ring bell
+show card to woman
+ask woman for overview
+read overview
+ring bell
+give overview to woman
+
+look up claudia in register
+ring bell
+ask woman for greene
+read greene
+ring bell
+give greene to woman
+ring bell
+ask woman for horne
+read horne
+ring bell
+give horne to woman
+ring bell
+ask woman for wheldrake
+read wheldrake
+ring bell
+give wheldrake to woman
+
+s,e,se,n
+e
+ne
+unlock door
+in
+u
+x mount
+x skylight
+d,out,d
+x patch
+u,sw,w,w
+open gate
+unlock it
+s
+search thickets
+unlock hatch
+se
+ne
+sw
+d
+ne,n
+x town
+read newspaper
+knock on 11
+give bear to woman
+x pale woman
+ask her about bear
+show newspaper to her
+ask her about jeffrey
+ask her about window
+x window
+ask her about verlac
+ask her about edward
+ask her about monster
+ask her about herself
+ask her about overalls
+tell her about michael
+show ring to her
+search overalls
+take key
+put it on keyring
+ask her about me
+w
+s,s
+unlock hatch
+in
+turn on flashlight
+out,ne,e,s,e,d
+take lantern
+s,w,n,w,s,in
+x gauge
+x wheel
+turn it
+put towel on it
+turn wheel
+x gauge
+n
+n
+x hatch
+read notice
+pull handle
+z,z
+n
+x machinery
+x chain
+climb it
+x controls
+x button
+push it
+x lever
+pull it
+x block
+push button
+tie chain to me
+pull lever
+untie chain
+n
+x caliper
+read notes
+read memo
+read blueprint
+x mirror
+1
+
+take mirror [x]
+put it in caliper
+
+put it in rack
+
+d
+n
+open tin
+take oil
+put it on mirror [x]
+sw
+n
+x bulb
+ne
+nw
+s
+s,s,s,s,ne,e
+e,ne,in,u
+d
+x me
+x jacket
+x window
+break door
+g
+x glass
+x broken window
+take glass
+put it in crack
+cut jacket with glass
+x west door
+open it
+wear gold locket
+wear coat
+take all from closet
+s
+look in west window
+look in east window
+s
+x blood
+look in west window
+unlock west door
+w
+x stuffing
+x tear
+search it
+take canvas
+take needle
+x canvas
+read it
+e,s
+x man
+s
+d
+n
+light match
+take lantern
+light it
+n
+take magazine
+give it to madman
+take key
+put it on keyring
+unlock gate
+n
+hit chuck with hook
+n
+
+n,e
+sw
+z,z,z,z,z,z
+ne
+take amulet
+wear it
+n
+s,e,d,in
+take lantern
+light match
+light lantern
+blow on match
+d
+u,out,u,w,n
+scream
+give gold locket to william
+hit william with hook
+
+n,w,n
+put all in coat
+remove coat
+wear robe
+x me
+e,ne
+unlock door
+in,u
+remove robe
+wear coat
+x device
+take real mirror
+x michael
+x guards
+scream
+give mirror [x] to michael
+x block
+x boy
+x torch
+burning
+x pyre
+x cultists
+x island
+x me
+scream
+x lighthouse
+
+g
+pick lock with needle
+free jeffrey
+w
+x island
+u,sw,w,w,n
+knock on 11
+s,e,s,e,s,s
+touch obelisk
+show ring to michael
+give amulet to michael
+x croseus
+tell him about michael
+take flute
+cover hole [x]
+cover hole [x]
+play flute
+
+n
+x me
+take test
+x window

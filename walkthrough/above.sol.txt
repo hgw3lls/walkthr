@@ -1,0 +1,535 @@
+Above and Beyond" solution by pjg 
+This is not the "official" solution 
+Feel free to write and upload a better solution 
+if you want to do so, otherwise, corrective modifications 
+to this solution are welcomed and encouraged. 
+
+6/16/2000 - MjS - Added 2 alternate puzzle solutions, noted 
+scoring bug (fixed in 1.1) and added to amusing list. 
+Good job, PJG. 
+
+6/20/2000 - pjg - corrected cumulative point totals for version 1.1 
+
+For game version 1.0 or 1.1 
+Other game versions may be slightly different. 
+
+This game is very linear and a lot of snooping around 
+is required to solve it. Knowledge of future events 
+is required for some of the puzzles. 
+Examine and Search do different things. 
+If you get stuck then consult the relevant 
+section of the solution for help. 
+Also, this game has the very nice "Winnable" command 
+and some built in hints. 
+  
+Save game files are named according to the score. 
+
+Takes about 600 moves. 
+Comments and points are in () 
+---------------------------------------------------------------------------- 
+(your purpose in this game is to investigate 
+ the disappearance of your coworkers) 
+
+Part I 
+
+The Beginning, in front of building 
+----------------------------------- 
+Version 
+(this solution is for game version 1.0 or 1.1) 
+Verbose 
+
+E. Open car 
+Search clutter then get package (1/1) 
+Exit. W 
+
+(usually, Bill will be escorted out of the building 
+ talking about losing his ID card in the forest. 
+ you must find that ID card) 
+
+N, W 
+Listen (1/2) 
+(you will start chewing your gum, 
+ you will use it near the end of the game) 
+G. g. g. g. g. g. 
+
+The UPS man 
+----------- 
+(a delivery truck will show up) 
+W, S 
+Read sign 
+(you must pretend to be a delivery man) 
+
+Enter truck then open locker 
+Get uniform then wear it 
+Exit 
+N, E, N 
+(you will be chased SW by the UPS man) 
+
+E, N 
+N, W, N 
+Get clipboard (1/3) 
+W. Get plank 
+SE, S, E 
+
+The Forest 
+---------- 
+NE, E 
+save "s3" 
+
+(a brief informative detour...) 
+SE, E, E 
+X structure 
+Open door then pull vines 
+(oh well...) 
+(x large tree then x branch) 
+W, W, NW 
+
+NE, E, NE 
+X stream then x banks 
+Get card then x it 
+Drop all 
+SW then get boulder 
+NE then put boulder in stream 
+Get all 
+Put plank on boulder 
+W (5/8) 
+NW, W 
+Get hat then wear it 
+S 
+
+SW, W, W, S 
+X uniform then put card in pocket 
+(you can also hide the card in your hat) 
+save "s8" 
+
+The Warehouse 
+------------- 
+(you need the uniform, hat, clipboard, package, and ID card) 
+Ring bell (5/13) 
+winnable 
+(the game should still be in a winnable state) 
+
+Get faded card then put it on bench 
+Search papers 
+Get key, Steve's card. 
+N. 
+Read sign then swipe card in slot (3/16) 
+
+E then read plate 
+Unlock door with key 
+Open door. S. Close door 
+Remove uniform, hat 
+Drop all but card 
+Open door 
+N, E 
+(let's try the other way...) 
+
+W, N 
+(you can stay and listen for awhile if you want to ...) 
+U (3/19) 
+save "s18" 
+
+The Foyer 
+--------- 
+(not much to do here) 
+Listen 
+(some clues here...) 
+G. g. g. 
+G. g. g. 
+G. g. g. 
+
+Part II 
+
+Your cubicle 
+------------ 
+X desk then open drawer 
+Get memo then read it 
+save "s19" 
+
+(task #1 is the only task that you can do) 
+NE, S, S 
+SE. Look at picture. NW 
+S, SE 
+Show memo to Brian (3/22) 
+
+The Form 
+-------- 
+NW, W, N 
+N, N, W 
+Search tray then get form 
+
+E, S, S 
+S, E, SE 
+Give form to Brian 
+save "s22" 
+
+The Stamp 
+--------- 
+NW, W, W 
+N, N, W 
+X desk then open drawer 
+Get stamp then x it 
+Stamp form 
+(darn!) 
+
+The Ink and Supply room key 
+--------------------------- 
+E, N, N 
+E, E 
+Knock on door 
+Listen 
+(I guess Pat's with the 2 FBI guys) 
+save "s23" 
+
+(you have about 29 moves to wait so you 
+ may as well go and explore the office areas 
+ and find out where people's office's are) 
+
+(also, you can save some time by asking your 
+ coworkers about the abductions now) 
+
+Ask <name> about abductions 
+
+Wait. 
+Again. 
+(until Pat finds you) 
+
+(from outside Pat's office) 
+NE 
+Ask Pat about supplies 
+(Pat will give you the name (random) 
+ of one of your coworkers. 
+ you must go to his/her office and...) 
+
+Ask <name> about key 
+
+(you will be given another name, 
+ got to that person's office and...) 
+
+Ask <name> about key 
+
+(eventually, you will be given the supply room key. 
+ you must go to the supply room. 
+ starting from outside Pat's office...) 
+save "s24" 
+
+W, W, S 
+S, S, S, S 
+Unlock door with key 
+Open door 
+NW 
+X supplies then get case 
+X case then read it then open it 
+Put stamp in case then stamp form 
+Close case then drop it 
+SE 
+Close door then lock it with key 
+
+S 
+(up until now, you could not enter this meeting room) 
+Look in window 
+(hmmm, something strange with the gazebo) 
+
+X couches 
+Search red then search blue 
+(you will find a book) 
+
+N, E 
+(a nice chat with the FBI guys) 
+
+N, E, E, SE 
+(Brian is stuck on the phone) 
+Show book to Brian 
+Show form to Brian 
+(you must get the form signed...) 
+save "s25" 
+
+Form signature 
+-------------- 
+NW, N, N 
+N, N, NE 
+Give key to Pat 
+Pat, sign form 
+(lots of people can sign the form) 
+SW, S, S 
+S, S, SE 
+Show form to Brian 
+save "s26" 
+
+Form Notary 
+------------ 
+NW, W, W 
+N, N 
+(Bob should leave his office, 
+ let's go ask him about finding a notary...) 
+
+N, N, E 
+S, S, S, W 
+Ask Bob about notary 
+(oh, good!) 
+Bob, notarize form 
+X screen 
+X panel 
+save "s27" 
+
+The Smart card 
+-------------- 
+(Bob should ask you to hold his 
+ smart card for a few moments) 
+Get card 
+E, N, W 
+
+(you are hiding from Bob, stay here 
+ until he reenters the previous lab) 
+Wait 
+E, S, S 
+W, S, W, NE 
+X equipment 
+X copier 
+Read sign then get it 
+Open copier then read paper (1/23) 
+
+X shredder then turn it on 
+Put card in shredder 
+Get pen 
+SW, N, E 
+E, N, W 
+(Bob should leave the lab. 
+ you can wait for the repair techs, or ...) 
+
+Put sign on machine 
+(fake it!) 
+Wait (5/28) 
+(Bob should reenter the lab, see the sign, 
+ and then head for his office) 
+save "s28" 
+
+E, S, W 
+N, N, N, W 
+Bob, notarize form 
+(notice that Bob did not lock his drawer...) 
+
+(E) 
+S, S 
+(Bob will leave with the FBI agents, 
+ lets go and look in his drawer...) 
+N, N, W 
+Open drawer then get book 
+
+E, S, S 
+S, E, E, SE 
+Show book to Brian 
+Give form to Brian 
+
+The Secret note 
+--------------- 
+NW, W, W 
+W, S, NE 
+Wait (5/33) 
+(again until Brian gives you the book) 
+
+Open book 
+Get scrap then read it 
+Put scrap in shredder (2/35) 
+save "s35" 
+
+Asking coworkers 
+---------------- 
+SW, N, E 
+E, E, N 
+N, N, NW 
+Ask steve about abductions 
+SE 
+(etc) 
+
+(you must keep moving around and ask 8 or so of your coworkers about 
+ the abductions to move the game along to the next section...) 
+
+
+
+(when you have talked to enough people, 
+ the FBI guys will escort you outside to ...) 
+
+Part III 
+
+The Gazebo 
+---------- 
+W, S (1/36) 
+Open door 
+D 
+save "s36" 
+
+The Guard Dummy 
+--------------- 
+Read sign then look in window 
+X guard door then turn switch 
+Look in window then open guard door 
+E then x dummy 
+Get gun, dummy 
+W, U 
+N, SE 
+Drop dummy 
+W, S, D 
+
+Open closet door then W 
+X flashlight then get battery, broom 
+E, E 
+Stand on stool then get bulb 
+(oops) 
+Get off stool 
+Sweep glass with broom 
+Drop battery 
+W, W 
+Drop broom 
+E then close closet door 
+save "s37" 
+
+Open metal door 
+E then close door then lock door 
+Sit on stool 
+winnable 
+(wait until you hear footsteps approach then...) 
+Aim gun at window (8/44) 
+save "s44" 
+
+The Metal Door 
+-------------- 
+Get off 
+Unlock door then open it 
+W 
+Open large door 
+S 
+Close large door then lock it (1/45) 
+
+Wait. Z. Z 
+(wait until the guards return and then leave again) 
+
+Unlock door then open it 
+N then get cracker 
+Open closet door 
+W then get mop, bottle, cap 
+E, S 
+Close door then lock it 
+save "s45" 
+
+The Mouse House 
+--------------- 
+E, S 
+Pull first block 
+Pull second block 
+Pull third block 
+Put cracker on gum 
+Put gum in bottle 
+Put cap on bottle 
+Put bottle in hole 
+Put mop on pile 
+Drop all 
+Enter hole 
+
+Search rubbish 
+Get box, bottle 
+Get cap 
+
+(the mouse will investigate the cracker smell, 
+ when the mouse leaves the mouse hole then...) 
+Block mouse hole with box 
+Drop bottle 
+(the mouse will, eventually, enter the bottle) 
+Put cap on bottle 
+Get bottle, box 
+Put bottle in box 
+Put box in large hole 
+Enter large hole 
+Look in box then get bottle 
+W, S 
+save "s46" 
+
+The Access area 
+--------------- 
+S 
+(listen to the mouse and age clues...) 
+Remove cap (5/50) 
+(the mouse will scare away the guard) 
+N, N, E 
+N, W 
+Close large door then lock it 
+Wait. Z. Z (2/52) 
+(listen for password clue) 
+
+E then get card 
+S, W, S 
+S, E 
+save "s52" 
+
+S, S, S 
+W, W, U 
+(listen to the vine-exit and swiper clues...) 
+
+D, E, E 
+N, N, N 
+
+X device then read display 
+Swipe card in slot then read display 
+Smack unit 
+(2000-33 is ...) 
+Type 1967 on keypad (3/55) 
+(you will get a double beep and the door will click) 
+Open door 
+Get radio 
+X radio then open it 
+save "s55" 
+
+The Prison Cell and Tunnels 
+--------------------------- 
+winnable 
+N 
+E, E, E 
+NE, NE, U 
+Get gloves 
+Unlock door then open it 
+Cut vines with card (3/58) 
+(or use the CD found in the radio) 
+
+D, SW, SW 
+W, W, W 
+Swipe card in slot 
+Smack unit 
+X radio then extend antenna 
+(or pull it) 
+
+Wear gloves 
+Put antenna in circuitry 
+Open cell door (3/61) 
+save "s61" 
+
+The Final Escape 
+---------------- 
+W, W, NW, W 
+(N. Z. Z. Z. S) 
+SW, W 
+
+Surprise Ending 
+--------------- 
+Wait. Z. Z. Z (4/65) 
+
+
+
+--------------------------------- 
+For fun have you... 
+-- tried to kiss Lori the receptionist? 
+-- tried to put the supply key in the shredder? 
+-- locked yourself in the supply room? 
+-- stamp me? 
+-- understood the lab names? 
+-- asked Paul, Bill, Brian about the abductions? 
+-- snuck back to visit the prison cell after 
+   letting everyone go free? 
+-- standing on your desk? 
+-- putting gum in shredder? 
+-- chew the cracker/gum combo? 
+-- aiming the gun at you?  The fbi guys?  The mouse? 
+-- draining the battery in the flashlight and watching Ed test it? 
+-- kiss/hug/screw cube workers? 
+-- catch the fish in the stream? 
+-- getting off track in the janitor's closet? 
+

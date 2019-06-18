@@ -1,0 +1,4 @@
+Quick Solution for Bungle Brothers
+---------------------------------
+N, D, N, GET KNIFE, S, W, S, E, SAY HAMSTER, W, N, W, PRAY, GET JEMMY, N, W, KILL
+VICAR, EXAMINE CORPSE, GET ID CARD, E, DIG, OPEN COFFIN, GET CASH

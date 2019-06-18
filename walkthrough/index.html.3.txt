@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index: if-archive/solutions/pophints</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../../../../misc/ifarchive.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/indexes/archive.rss">
+</head>
+<body><div id="indexpage" class="Page">
+
+<div class="Header">
+<h1>Index: <a href="../../../../indexes/if-archive/">if-archive</a>/<wbr><a href="../../../../indexes/if-archive/solutions/">solutions</a>/<wbr><a href="../../../../indexes/if-archive/solutions/pophints/">pophints</a></h1>
+</div>
+
+
+<div class="ParentLinks">
+<ul id="parentlist">
+<li><a href="../../../../indexes/if-archive/solutions/">Up to parent</a>
+<li><a href="../../../../indexes/if-archive/">Up to root</a>
+<li><a href="/if-archive/solutions/pophints">See raw files</a>
+</ul>
+<hr>
+</div>
+
+
+
+<div class="Description">
+PopHint, the Pop-Up Hint System by David Malmberg.
+This directory contains pop-up hints for various AGT games.
+<p>
+The program POPHINT is loaded as a TSR before the game
+is started; the hints can then be consulted via a hotkey.
+<p>
+
+<hr>
+</div>
+
+
+<div class="Body">
+
+
+
+ 
+<h3 class="ListHeader" id="itemheader">3 Items</h3>
+<dl id="itemlist">
+<dt class="ParEven"><a href="../../../../if-archive/solutions/pophints/cliffpop.zip">cliffpop.zip</a> <span class="Date">[28-Jul-1993]</span><dd class="ParEven">Pop-up hints for Cliff Diver: Investigator for Hire -
+Case 1: The Case of Crime to the Ninth Power.
+Game and hints by Patrick Farley.
+(the AGT game files are in games/agt/cliff.zip)
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/pophints/pophint.zip">pophint.zip</a> <span class="Date">[28-Jul-1993]</span><dd class="ParOdd">PopHint version 1.0, by David Malmberg.
+DOS compiler, pop-up TSR, documentation, and source code of
+a sample hint file for Leather Goddesses of Phobos.
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/pophints/sogpop.zip">sogpop.zip</a> <span class="Date">[28-Jun-1993]</span><dd class="ParEven">Pop-up hints for the original Shades of Gray.
+(the AGT game files are in games/agt/soggy.zip)
+
+
+</dl>
+
+
+</div>
+
+<div class="Footer">
+<hr>
+
+<p id="footercredits">
+The <a href="/">IF Archive</a> is a public service of the
+<a href="http://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+</p>
+
+<p id="footerlinks">
+<em><a href="../../../../misc/license.html">Terms of Use</a></em> -
+<em><a href="../../../../misc/about.html">About Us</a></em>
+</p>
+</div>
+
+
+</div></body></html>

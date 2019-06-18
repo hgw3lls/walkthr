@@ -1,0 +1,32 @@
+Solution to Breath Pirates
+==========================
+
+get paper; read paper [2/2]
+w w
+open hood;x hood [1/3]
+w
+give paper to clerk [2/5]; get key
+e
+unlock gate; drop key; open gate [2/7]
+n e e
+ask police about pirate
+ask police about clerk
+w w s w
+tell clerk about bust [1/8]
+n
+x shelf; x shelf [1/9]; get oil & shovel
+s e n
+get bandana
+n
+dig with shovel [2/11]; drop shovel; open door [1/12]
+w
+open door; get card
+e s e n
+oil mailbox [2/14]; drop oil; open lid [1/15]; x mailbox; x note [1/16]
+knock (3 times); wait [2/18]
+e
+join  pirate [2/20]
+
+*************************
+Solved by Ambat Sasi Nair
+*************************

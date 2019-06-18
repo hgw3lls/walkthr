@@ -1,0 +1,171 @@
+The following is a transcript of a speed run through the interactive fiction
+title "Busted" using the fewest number of turns possible.  It relies heavily on
+knowledge from previous sessions, implied actions at no cost, and the fact that
+an action with multiple objects counts as a single turn.  The final score is
+158 points out of a possible 154, in 161 turns.
+
+
+ * * *
+
+
+search ashtray
+open wallet
+take roach,cash,id
+n
+n
+w
+show lady id
+s
+wait in line
+se
+light roach
+smoke roach
+eat food
+light joint
+drop lighter,tray
+sw
+give milton joint
+take oil
+n
+open cereal
+pour cereal
+take pentacle
+drop visor,apron,cereal
+u
+take bong
+d
+s
+e
+ne
+nw
+n
+e
+e
+e
+e
+s
+open walkman
+take tape
+drop tape
+take walkman
+n
+e
+n
+ask freak about tape
+show freak pentacle
+drop pentacle
+put tape in walkman
+play walkman
+wear walkman
+s
+s
+open box
+wear gloves
+take umbrella
+open umbrella
+n
+e
+wear sunglasses
+e
+e
+pour oil on grate
+open grate
+d
+open chest
+take pliers
+u
+n
+e
+e
+n
+put id in slot
+type mo3xyan2l on terminal
+open book
+tear preface
+s
+w
+w
+n
+n
+turn sign
+w
+bob, a2487493
+e
+s
+s
+s
+w
+w
+n
+get in
+press l
+get out
+n
+give employee form
+s
+get in
+press h
+get out
+w
+sleep
+s
+get in
+press c
+get out
+s
+e
+n
+open locker
+open box
+take quarter with pliers
+drop pliers,umbrella,key,bottle
+take quarter,ecstasy,vial,box
+put acid,bong in box
+e
+u
+u
+n
+give greg ecstasy
+wait
+wait
+wait
+give greg bear
+put scale in box
+s
+s
+d
+e
+put quarter in drinks
+press coffee
+drink cup
+w
+d
+e
+n
+w
+w
+w
+n
+wait
+w
+doctor, examine me
+e
+s
+w
+give pharmacist prescription
+e
+e
+e
+n
+eat valium
+n
+examine shrubbery
+take book
+e
+d
+drink vial
+n
+take bong,scale,acid
+put bong,scale,acid,book in incinerator
+s
+u

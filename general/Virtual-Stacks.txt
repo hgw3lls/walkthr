@@ -1,0 +1,336 @@
+﻿Nonstandard Game Environment 
+Extended architecture of nonstandard learning and awareness
+Non-game and dissimulation
+
+
+Organization: Central, Decentralized, Distributed, Monotonic and Non-Monotonic Reasoning
+Tribes: Symbolists, Connectionists, Evolutionaries, Bayesians and Analogizers. (Master Algorithm book) Every sub-field has its own practice, its own cult. (and’s its own hyped technology) . . . “Bayesians go to the great Church of Bayes to praise the Bayes Theorem. Connectionists see neural networks everywhere and use backpropagation for breakfast.”
+Rituals: Learning based on optimization functions, game theoretical reinforcement, and generative hallucination nets, etc...
+Contingencies: socio-economic and geostratic order (war-industrial complex), post-planetary conditions, etc.
+
+
+Every tribe subsists today: has its own rituals, strategy & tactics, organizational forms, contingencies, and etc…
+the absence of an integrated conception
+
+
+What is common?
+
+
+Knowledge Entanglements: Unearth. discovering the knowledge hidden in the overabundance and ubiquity of data, the ecology of intelligences that might (have) existed, ambient sensing, and optics.
+
+
+Non-trivial problem space: a design space for multiple possible intelligences.
+
+
+We are swimming in sensors and drowning in data 
+
+
+ Current machine learning algorithms are really good at performing many cognitive tasks that we typically associate with concepts such as recognizing stuff, finding correlations, classifying objects, memorizing patterns, encoding and retrieving information, etc.  Machine learning often requires large, accurate training sets, shows little awareness of what’s known or not known, integrates new knowledge poorly into old, learns only one task at a time, allows little transfer of learned knowledge to new tasks… In contrast, human learning has solved many of these problems, and is typically continual, quick, efficient, accurate, robust, flexible, and effortless.
+
+
+distributed model generation and governance. 
+
+
+Feature engineering
+Where do the parameters come from?
+Human specification (quickly intractable)
+Learned from data
+Extrapolated or crowd sourced
+
+
+a straightforward objective to maximize. 
+All modern neural network systems are built off of gradient descent, which modifies parameter values in order to to optimize an outcome. In the context of unsupervised learning, the question of what exactly you want the model to optimize itself for is a little less clear.
+
+
+How to build, not to reinvent the infrastructure, but to bootstrap on the future ruins of the Smart City and take emergence of new ecologies of intelligence seriously. We play and care for these ecologies through our upkeep and interaction with virtual environments (virtual nevertheless intimated connected with the actual world but not real). Virtual Stacks, chronotopic landscapes (plots and plans), and information oceans make up part of the visual landscape of the world. 
+
+
+
+
+--  Everything on the edges Federated Learning and Federated Ecologies 
+-- Everything is connected many sensors exist in most “modern” cities, the infrastructure for some parts is all there (although you might argue that one without any infrastructure in place could build beyond the traditional frame of The City as we know it. 
+-- Everything is information virtual environments frame the world, agents populate and (re)act in the world, 
+-- Play and Pedagogy Learning, Teaching, & Exchanging Knowledge
+
+
+
+
+Hype
+Decoding the urban semiotics “read the city” / city-as-text  / quantitative city— Smart City
+Ambient sensors (IoT), “society of models” (Deep Learning), Augmented Reality — Smart City 2.0 (“Sensing City”)
+No Master Algorithm (Model?) exists, but a relations and dispositions, “society of models” good and bad (temporality matters). 
+
+
+Speculative and Weird References
+China Mieville's The City & The City (& The Tree & The Camera & …). Michael Cisco’s Member - Cosmic Game of real and artificial worlds “The Human Game” (interzones and dreamspaces) that are however still attached
+Solaris’ plasmic city 
+
+
+Thinking through the Medium of Games
+
+
+“Game” Definition: 
+Activity with explicit goal, challenge, rules
+Interactivity with self, others and/or the environment (Cooperation and Competition)
+Feedback mechanics for heuristics, revision, and/or learning
+Usually they quantify the outcome (goal, win/lose, etc.)
+Reaction affective and emotional responses
+Designed for Entertainment & Education (Learning-Games), and Serious Games (digital simulations) 
+
+
+Beyond both senses of Game Engine: engin as ‘toole’ or ‘instrument’’, but, additionally, as ‘understanding, policie, reach of wit; also suttletie, fraud, craft, wilinesse, deceit’’ (Jessica Wolfe)
+Engine is not the metaphor for intelligence, but of governance 
+
+
+“Simulation”
+Designed for evaluative or computational purposes
+Genre of Game: Like games in elements: level of difficulty, feedback, and emotional connection
+Uses a model to study the behavior and performance of an actual or theoretical system.
+
+
+Games and simulations w/o explicit goals, challenges, and/or rules … etc. → pure Musement or play (means-directed)
+
+
+________________
+
+
+“Planetary-Scale Multi-Agent World-Building”
+
+
+Design the protocols and framework to engage with our conceptual ideas: Platform Cognition, Governance, Ecology, Ensembles, intra-actions, play
+
+
+Synthetic intelligence at scale has been seen in Smart City (and SC2.0), world-based simulations, and speculatively-based stories. Things of interest here in terms of learning, agents, and their environments
+
+
+Value changed on where it was focused: It used to be data (who own’s the data?) -- then onto models (who makes sense of data?). With the ubiquitous technologies, including mobile and IoT, reasoning, sensing, and understanding of “the city” might eventually emerge in vastly different ways (both within our human grasp and beyond). Neither data nor the model are really of main interest, rather the ritualistic interfaces that create the means of learning data into models. 
+
+
+   1. Conceptual Components:
+      1. “Game Engine with Platform Cognition embedded as its logic”
+      2. Sandbox learning + playing
+      3. Extended Architecture of Reasoning and Awareness - Ecological / Extended Mind and Distributed Networks 
+      4. Simulations and models
+      5. Evolution and Involution
+      6. Themes:
+
+
+         1. Knowledge intra-actions (Extended and Expanding Architectures of Thought)
+            1. Ritual Interfaces
+            2. Entangled and Disentangled Knowledge
+            3. Belief Revision about worlds
+         1. Integration of ecologies of intelligences at Scale
+            1. Social, Non-Human, Machinic, Collective, buzz, buzz, buzz
+            2. Supervised, Unsupervised, Semi-supervised
+            3. From LEARNING models to TEACHING means (medium design)
+         1. Governance or Protocolization 
+            1. AI governing Humans (Existential risk)
+            2. AI/Human Governing AI (Protocol and Institutions)
+   1. Design Output: Virtual Environments + Virtual/Actual Agents + Prototypes of Ritual Interfaces (of play) 
+      1. Generally, virtual environments are worlds: some are limited in scope, some are expansive, some are based on fictional worlds, some on the real world, others are speculation and experimentation. 
+      2. In Computing, a virtual environment (a tool that helps to keep dependencies required by different projects separate by creating isolated, virtualization) -- Virtualization and Simulation
+      3. Virtual environments are hosted in a subversion which can be forked, cloned, bootstrapped, or designed from scratch. 
+         1. To design a virtual environment is to provide a minimally viable world (logic, agents, potentials)
+         2. Scale: organizations of assemblages at different scale (in learning: ensemble of learning models; in individuals: intra-actions, interfaces, etc; community, street, etc.
+         3. Choose the Constructor (Game Master): what games are selected, trained, and constructed. Each Constructor can have a form of synthetic intelligence and constraints. The Game Master is in charge of populating the worlds agents (recruit, abduct, or discovered)
+      1. Virtual environments are in themselves, ecologies and can be superposed one onto another and over our actual environment (think GIS and the many layers
+      2. Virtual environments we are making are at the low-level logic, existing of protocols, hooks, APIs, and possibility for integrations (Opengym, Unity, Ableton)
+
+
+What make up these worlds?
+
+
+         1. Engine: 
+            1. Governance // Protocols // existential risk (Anthropol)
+            2. Logics: “hypothesis” generation (abductive reasoning), deduction (prediction), and induction (inference)
+            3. Executes the core functionality necessary for play
+         1. Constructor: From its environment and experience, it invents play, rules, genres, stories as means of ways to learn, reason, and teach about the world
+            1. Learning and Generating PLOTS and PLANS which augment the players & environment (virtual and actual) 
+               1. Plots (mini-games, events, the course of a story, a series of accidents, unfolding, sometimes unexpected means)
+               2. Plans (designed organization of events, play, games, etc)
+         1. Agents (Discovery of worlds and Inventing of rituals)
+            1. Multiplicity Intelligent Agents, Abducted Agents, Human Agents, Non-Human Agents
+            2. Umwelt at Scale: Agents can be human and nonhuman animals, a sensor, a subset of sensing and intelligent actors, and the environment which act. 
+            3. Trans-individuated Assemblages Any collection that holds consistency in the world as an agent which is dynamic and scalar: Individual, Community, Collective, Citizen, Governing Body, etc. THIS ALSO INCLUDES a street, a group of trees, and other amalgamations of things that are made agents (or assemblages of agents) in the virtual environment. 
+            4. Agents discover worlds through play, they are recruited by the Constructor, or they can be abducted (the agent’s model stands in as a virtual agent in the game not necessarily with the agent’s awareness 
+            5. Agents can also embody roles, sometimes called on by the game rules and governance, others social, others random and without rational logic
+            6. Agents dramatize and perform rituals, which are mechanisms of interfacing with the world. Agents share them (human-to-human, human-machine, machine-to-machine) → it's a means of knowledge-exchange and model-sharing
+
+
+Rituals
+               1. Traditional: a series of actions performed according to a prescribed order
+               2. More occult: conjure an occurrence from materials in the environment
+               3. Rituals counter-actualize: the series of actions as the medium through which specific information is collected and organized, models are selected and trained, and agents learn and revise their action in the world. 
+            1. Agents can also create plans and plots and even worlds (virtual environments) in addition to inhabiting and playing them. 
+            2. Agent’s partial model(s) are trained through (1) designed games (plots) (2) emergent learning through navigation of plans or stumbling on a series of plots (3) hypothesis formation and belief revision 
+
+
+
+
+As the user participants in this immersive world-building activity the virtual environment dynamically changes, in time, building a “virtual city” which exists in “real” space as much as in City & the City. The virtual landscape is made of a series of chronotopes (space-time diagrams), but also combines the plots (land) and plans (urbanism) you encounter. Think Situationist’s Naked Map and detournement of Paris but with some dynamic landscape that that navigates the relations (virtual-real) that construct different scales of intelligence (reasoning, awareness, etc..). There are also playgrounds, sandboxes, etc…
+
+
+The commitment and recruitment people is a whole separate layer i havent described. Intuitively, its the play, the sociality of sharing and exchange, and ecological considerations of care incentivize one to participate. But what I am saying terribly in the above chapter, as a User you have an avatar (player when “abducted”) and a passport to the virtual city. As you play the virtual city is designed and layed out. 
+
+
+If the Constructor’s task is to construct worlds and design games that condition emergent forms of play, The Engine designs the virtual city (Nonstandard City) and is an agent of the city itself (governance will limit its agency in some way). 
+
+
+
+
+
+
+________________
+
+
+EXPLORATION: The potential of distributed virtual environment architecture as knowledge exchange (which includes Machine and Deep Learning) through play
+
+
+Goal: to develop a distributed virtual medium that allows participants to intra-act and employ tools of learning and teaching in cooperative, collaborative, competitive, collective work and play settings. Define extensible and flexible software solutions in order to support the virtual environment architecture, without making concessions to the single central server architecture. Virtual environments are the product and the framework in which to do world-building and explore our questions on learning, federation and ecology. designed to be flexible, resilient, efficient, robust, and individually scalable.
+
+
+
+
+
+
+
+
+SPECS:
+
+
+UMWELTS (\mathrel{\cup{\varepsilon}}) are virtual environments are functions that transform an action taken in the current state into the next state and a reward; agents are functions that transform the new state and reward into the next action. 
+
+
+We can know the agent’s function, but we cannot know the function of the environment. It is a black box where we only see the inputs and outputs. It’s like most people’s relationship with technology: we know what it does, but we don’t know how it works. Reinforcement learning represents an agent’s attempt to approximate the environment’s function, such that we can send actions into the black-box environment that maximize the rewards it spits out.
+
+
+Distributed virtual worlds are multi-user applications running on several computers connected by a network. They go beyond the traditional document based World Wide Web since multiple users interact within a shared space and are aware of each other. 
+
+
+a shared virtual world with four key goals: 
+(1) a reasonable economic model;
+(2) low latency for world synchronization; 
+(3) a hospitable environment for users; and 
+(4) affordances for social interaction. 
+
+
+AVATARS are the virtual representation of the users. Concretely, an avatar is a tool that allows a given user to move through the world, to interact with its inhabitants and objects and that lets the other users know where she is and what she is doing. The word Avatar comes from the Sanskrit: ‘Earthly incarnation of a Hindu god or goddess’. The reference is in particular to a God called Visnu that is able to reincarnate himself into several and different faces. Among people working on virtual reality and cyberspace interfaces, the word Avatar is used to describe the “object” (icon, two or three-dimensional photo, design, picture, animation or representation) representing the user in a shared virtual reality. In other words, an avatar is an instantiation of the user’s body in the computerized medium. In text-based virtual realities, such as MUDs, avatars consist of a short description which is displayed to the users whose avatars ‘look’ them.
+
+
+An Avatar is one Who has a peculiar capacity (besides a self-initiated task and a pre-ordained destiny) to transmit energy or divine power. 
+
+
+The word "Avatar" is a Sanskrit word, meaning literally "coming down from far away." Ava (as prefix to verbs and verbal nouns) expresses the idea of "off, away, down." Avataram (comparative) farther away.
+
+
+all true Avatars are therefore divine Intermediaries. 
+
+
+Avatar ― A spiritual Being who descends in answer to mankind's call and need. There are human, planetary and cosmic Avatars. The latter would be called 'Divine Incarnations.' Their teaching, correctly apprehended and gradually applied by humanity, expands our understanding and presents the next step forward in mankind's evolutionary development.
+
+
+Location: Avatars and objects have a location. This concept is natural and necessary, since it supports navigation.
+
+
+Navigation: The action of going from a given location to another. Avatars can do that, either through a link between these two locations, or directly if they know the address of the subspace.
+
+
+
+
+In order to distinguish between near and distant elements it is essential to divide the world into subspaces where the users might or might not enter and in which all interactions take place.
+Each location can be seen as a subspace of the whole virtual world. It is natural to consider that the shared virtual space is composed of many different subspaces. Furthermore, the avatars and objects are always contained within one given subspace. In order to achieve interaction between these participants, the concepts of event and event propagation as well as the two roles event producer and event consumer need to be introduced.
+
+
+
+
+PORTALS are bridges between subspaces. The system would use portals or gateways to allow a player to move in-game from one subspace to another. This would allow players to integrate multiple scenes into one game all hosted on separate servers.
+
+
+
+
+OBJECTS populate the worlds.
+a) passive objects, which can only change if a human agent (through an avatar application) interacts with them. These objects do not react to changes in other objects. A simple whiteboard on which each user can write short messages is an example of such an object; 
+b) reactive objects which can change their states in response to changes in other objects. These objects typically obey “physical” laws of interaction. When hitting a wall, for example, a ball will rebound at a given angle and velocity; 
+c) active objects, which can transform themselves. A whiteboard, which would adapt its size to the number of participants in a room, is such an object. An active object has a minimal intelligence built into it.
+
+
+
+
+Event: The avatar has to be aware of its environment. This awareness is achieved by the concept of events. An avatar moving, a played move in the tic-tac-toe game are simple examples of such events.
+
+
+Event producer: An event always has a source which produces it. For instance, the game could produce a “game finished event”
+
+
+Event consumer: An event can be caught and interpreted by an event consumer, which then reacts properly or simply ignores it. For instance, the player of the game understands that the game is finished.
+
+
+Event propagation: Each event has an event propagation space. This space is a delimited zone around an event producer, within which an event consumer will be aware that the event has occurred.
+
+
+
+
+
+
+
+
+An agent's action selection is modeled as a map called POLICY
+* Policy (π): The policy is the strategy that the agent employs to determine the next action based on the current state. It maps states to actions, the actions that promise the highest reward.
+A policy is a state-action mapping. A 'state' is a formalism used in AI that represents the state of the world, i.e. what the agent's idea of the world is. The action is, naturally, what action it should take in that state. A policy just maps states to actions.
+
+
+A "control policy" is a heuristic that suggests a particular set of actions in response to the current state of the agent (in your case, a robot) and the environment. In the case of reinforcement learning, a policy is parameterized by the network weights. Changing the weights changes the policy, so the distribution of weights comprises a distribution over policies, hence why fitting models in this context is often referred to as "policy search". It's not uncommon to use an ensemble for these kinds of problems, in which case each component of the ensemble comprises a different policy which recommends some action, and then the ensemblification mechanism selects an action from one of these distinct policies (e.g. by vote or highest score) or combines their recommendations into an action (e.g. by taking an average). The whole ensemble can also be described as representing a policy.
+
+
+Terraform — Define, Create and Manage Umwelts
+-- this task is done by the Constructor
+-- The orchestrator populates the games
+________________
+
+
+We know from ecology and environmental research that natural systems operate on multiple scales. At the macro level: global biogeochemical cycles (the flow of carbon) where shifts in the ratios of elements can be measured not just over the years but over centuries and geologic ages. At a meso level: a forest balances the interplay of plant, animal, and insect species, down to the bacteria in soil, each finding an ecological niche to exploit, their genes evolving together. At the micro level cycles run their course on a scale of millimeters or microns, in just seconds.
+
+
+From Platform Cognition we know synthetic intelligence is also a complex of scales (micro-temporal processes, etc…) they have a shared nature. There is a synergistic relationship which provides the capacity to coordinate and harmonize our efforts. 
+
+
+We need to think of synthetic intelligence beyond the artificial and machine cognitive processes (many times based on human-scale — no human exceptionalism!), modeled historically on psychologists conventional view of individual (internal and human) intelligence. We propose to think ecologies of intelligences, that is, relations between man-machine-nature all as either intelligent or unintelligent real/virtual agents in a larger ecology that affords intelligence in its disposition. 
+
+
+Both ecological and artificial intelligence call for us lowly humans to scale upon dynamic environments, something we do quite well within our small spectrum of awareness and perception. Imagination can help but theres more that could be done. This calls for a new look to collective and social intelligence, but also intelligences we may not yet recognize (as alluded to above). Collective intelligence highlights the distributed networks between the “nodes” (agents whether they are human or nonhuman animals, a plant, etc…) It also speaks to the challenges we face as individuals to comprehend, understand, or even act as a single person: intense efforts are need by a large range of disciplines, experience, synthetic and environmental intelligences. A collective, distributed intelligence spreads awareness, even better, ecologies of such intelligences! 
+
+
+Ecology of intelligences intervenes and intra-acts within systems in all their complexity (cognitive mapping?). The interplay between the natural and man-made worlds also is brought to the fore. “We” are complexes of distributed ecologies, worlds, and environments. With more and more sensing installed in our environments, tools to measure in real-time, computing and learning at the edge … intelligences abound. Lets play and engage in new assemblages and ensembles that design emergent conditions for autonomy or federation.
+
+
+Swarm Intelligence: The way insects swarm suggests another sense in which ecological intelligence can be distributed among us.  Swarm intelligence allows a larger goal to be met by having large numbers of actors follow simple principles. None of the actors needs to direct the group's efforts to achieve the overall goal, nor is there any need for a centralized director.
+
+
+Example: In an ant colony no single ant grasps the big picture or leads the other ants; instead each ant follows simple rules of thumb that work together in countless ways to achieve self-organizing goals. No one of us needs to have a master plan or grasp all the essential knowledge. Rather its an ongoing upgrade or assembling normally disparate individuals or local signal ecologies; trans-indivuation —> ecologies of intelligence.
+
+
+Questions that might help frame scenarios:
+
+
+Could a deep-learning system sustain the autonomy of nonhuman ecological processes at designated sites without direct human interventions?
+
+
+Could we train agent entirely inside of an environment generated by its own internal world model (hallucination/dream), and transfer this policy back into the actual environment?
+
+
+Could a deep-learning system sustain the autonomy of nonhuman ecological processes at designated sites without direct human interventions?
+
+
+Could we train agent entirely inside of an environment generated by its own internal world model (hallucination/dream), and transfer this policy back into the actual environment?
+
+
+What would it mean for machines and artificial intelligences to become aware of their own role in the natural environment as ethical and decision-making agents, their own provenance and product history, and their ability to promote sustainability or species biodiversity and conservation—or their “environmental identity” and “ecological intelligence?
+
+
+Can this be leveraged to augment and improve human decision making and overcome common cognitive biases, such as those that lead to “tragedy of the commons” issues?
+
+
+What are the most important feedbacks between ecological systems and global change (especially climate), and what are their quantitative relationships?
+
+
+What are the potential consequences of global change for ecological systems?

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index: if-archive/solutions/thl</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../../../../misc/ifarchive.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/indexes/archive.rss">
+</head>
+<body><div id="indexpage" class="Page">
+
+<div class="Header">
+<h1>Index: <a href="../../../../indexes/if-archive/">if-archive</a>/<wbr><a href="../../../../indexes/if-archive/solutions/">solutions</a>/<wbr><a href="../../../../indexes/if-archive/solutions/thl/">thl</a></h1>
+</div>
+
+
+<div class="ParentLinks">
+<ul id="parentlist">
+<li><a href="../../../../indexes/if-archive/solutions/">Up to parent</a>
+<li><a href="../../../../indexes/if-archive/">Up to root</a>
+<li><a href="/if-archive/solutions/thl">See raw files</a>
+</ul>
+<hr>
+</div>
+
+
+
+<div class="Description">
+This directory contains THL, The Hint Library by Stefan Meier,
+a freeware hint system for Windows 95/NT with integrated editor/compiler.
+<p>
+Also here are THL hint files for Infocom games, based on the
+original Infocom InvisiClues.
+<p>
+
+<hr>
+</div>
+
+
+<div class="Body">
+
+
+
+ 
+<h3 class="ListHeader" id="itemheader">23 Items</h3>
+<dl id="itemlist">
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/amfv.zip">amfv.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">A Mind Forever Voyaging
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/border.zip">border.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Border Zone
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/bureau.zip">bureau.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Bureaucracy
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/deadline.zip">deadline.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Deadline
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/hijinx.zip">hijinx.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Hollywood Hijinx
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/infidel.zip">infidel.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Infidel
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/lgop.zip">lgop.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Leather Goddesses of Phobos
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/lsp_d11.zip">lsp_d11.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">The German language package for use with thl11_gb.zip
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/lsp_gb11.zip">lsp_gb11.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">The English language package for use with thl11_d.zip
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/lurking.zip">lurking.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">The Lurking Horror
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/moonmist.zip">moonmist.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Moonmist
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/panic.zip">panic.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Hitchhiker's Guide to the Galaxy
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/planet.zip">planet.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Planetfall
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/plhearts.zip">plhearts.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Plundered Hearts
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/sofar.zip">sofar.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">So Far, by Lucian P. Smith
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/station.zip">station.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Stationfall
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/sttng.zip">sttng.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Star Trek - The Next Generation: A Final Unity,
+by Diana Griffiths
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/thl11_d.zip">thl11_d.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">THL Version 1.1 with German language support
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/thl11_gb.zip">thl11_gb.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">THL Version 1.1 with English language support
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/trinity.zip">trinity.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Trinity
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/zork1.zip">zork1.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Zork I
+
+<dt class="ParOdd"><a href="../../../../if-archive/solutions/thl/zork2.zip">zork2.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParOdd">Zork II
+
+<dt class="ParEven"><a href="../../../../if-archive/solutions/thl/zork3.zip">zork3.zip</a> <span class="Date">[10-Mar-1998]</span><dd class="ParEven">Zork III
+
+
+</dl>
+
+
+</div>
+
+<div class="Footer">
+<hr>
+
+<p id="footercredits">
+The <a href="/">IF Archive</a> is a public service of the
+<a href="http://iftechfoundation.org/">Interactive Fiction Technology Foundation</a>.
+</p>
+
+<p id="footerlinks">
+<em><a href="../../../../misc/license.html">Terms of Use</a></em> -
+<em><a href="../../../../misc/about.html">About Us</a></em>
+</p>
+</div>
+
+
+</div></body></html>

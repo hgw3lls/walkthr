@@ -1,0 +1,29 @@
+GOLDEN BATON
+
+SOLUTION (On Atari by R. Rainbird)
+
+Start in dense forest, get cloak, wear cloak, examine 
+leaves, get sword, s, chop briars, get rope, n, n, w, n, go 
+cabin, examine barrel, get salt, get rag, w, s, throw rope, 
+climb rope, examine hollow, get ring, wear ring, d, e, n, 
+kill wolf, drop sword, s, w, get rope, e, n, go path, n, n, 
+n, drop matches, swim, throw rope, s, s, s, s, get staff, 
+n, n, n, drop matches, n, n, n, drop salt, drop staff, drop 
+rag, s, s, s, s, get sword, go path, n, n, n, get salt, get 
+staff, rub ring, get key, remove ring, drop ring, swim, 
+climb rope, d, go arch, w, get lamp, e, s, u, s, s, drop 
+sword, drop salt, drop staff, get matches, light lamp, drop 
+matches, get staff, swim, climb rope, down, go archway, 
+unlock door, drop key, open door, w, look straw, go hole, 
+go door, n, get mirror, s, s, wave staff, say akyrz, get 
+quartz, e, wave quartz, examine lizard, drop quartz, get 
+knife, drop staff, w, n, get hammer, w, u, douse lamp, e, 
+hold mirror, go door, drop mirror, get parchment, read 
+parchment,  drop parchment, s, e, get horn, w, s, u, s, s, 
+remove cloak, drop cloak, get matches, s, s, s, s, s, w, n, 
+go cabin, d, light lamp, s, smash padlock, drop hammer, go 
+door, get raft, n, n, drop horn, drop raft, n, u, douse 
+lamp, w, s, e, n, go path, n, n, n, get salt, s, s, s, s, 
+s, w, n, go cabin, light lamp, s, n, give salt, get slugs, 
+get horn, get raft, n, n, give slugs, go lake, blow horn, 
+throw knife, get baton.......

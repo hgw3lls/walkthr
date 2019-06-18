@@ -1,0 +1,314 @@
+Solution for Barsoom Adventure #1: The Lost City
+================================================
+
+Game (c) 1989 by Susan Beth Schnitger.
+
+Solution (c) 2002 by Fredrik Ekman (ekman@lysator.liu.se).
+
+Barsoom Adventure #1: The Lost City for the CP/M operating system is,
+in spite of an old-fashioned two-word parser and a few minor bugs, a
+very charming adventure from days past. The prose is well-written, the
+plot is a variation of "gather the hidden objects" with one or two
+little twists and the problems are mostly very logical. In spite of
+the title there were no sequels. It is not a very difficult game, so
+veteran adventurers should only need to refer to this solution
+occasionally.
+
+The game is rather non-linear and therefore this is not a straight
+walk-through. Instead each problem in the game is treated under a
+separate heading.
+
+
+Contents
+--------
+
+  The Desert
+  The Thirst
+  The Windy Courtyard
+  The Labyrinth
+  The Body in the Labyrinth
+  The Roc on the Pillar
+  The Statues
+  The Gob of Goo
+  The Tube
+  The Domed Room
+  The Tiled Courtyard
+  The Brazen Grill
+  The Fountain
+  The Blue Knob
+  The Control Panel
+  Scoring
+  Bugs
+
+
+The Desert
+----------
+
+Lost in the desert and no idea what way to go. This may look like your
+standard adventure labyrinth, but it is not. If you go N then S you
+will usually end up where you started. The only thing you must do to
+find your way out is to go WEST, WEST, WEST from the starting point
+and you will find a ravine. Also, after the second WEST you will find
+a chest. OPEN CHEST and your companion forthwith, Ijjit, will fly out
+and greet you.
+
+When you have reached the ravine, just follow it SOUTH until you reach
+a bridge. Cross the bridge. The area east of the ravine will not hold
+anything more of interest for you.
+
+
+The Thirst
+----------
+
+Throughout the game you must make sure to drink regularly, or you will
+die. Do _not_ drink the water! The only liquid useful for drinking is
+the wine produced by the autodispenser in the hopper. You need to have
+the bottle (found in the same room). The correct command sequence is
+OPEN BOTTLE, FILL BOTTLE, CLOSE BOTTLE, DRINK WINE. Each time you fill
+the bottle it will last for three sips, then you must fill it again.
+
+Never, ever, use the bottle for carrying water. It will be
+contaminated and the next time you use it for wine you will be
+poisoned.
+
+(As an interesting aside it may be illuminating to consider the
+amounts of alcoholic beverage consumed during this adventure, which
+takes less than a day. The adventure takes not much more than 737 time
+units and you must drink about once every 35 units, that is one bottle
+every 105 units. A small squeeze bottle contains about one-half litre,
+so that means three and a half litres total, or almost five full-size
+wine bottles. Enough to make anyone see cubist dragonflies.)
+
+
+The Windy Courtyard
+-------------------
+
+In the far north-east corner of the city is a windy courtyard filled
+with rubble and partly covered with a sticky substance. In order to
+discover what the sticky substance forms you must do the following:
+
+Get the bowl from the hopper's hold. Take it outside the ship and FILL
+BOWL (with sand). Go to the courtyard and EMPTY BOWL. You will then
+find a raised brick. PUSH BRICK.
+
+
+The Labyrinth
+-------------
+
+The labyrinth under the windy courtyard (far north-east corner of the
+city) consists of eight identical rooms and one almost like the
+others. Each room has three exists (north, east, south), a rat hole,
+and three torches (one by each exit). The ninth room contains a dead
+body. The trick to map the labyrinth is to EXTINGUISH TORCH, one, two
+or three for each room, which will make them distinguishable. You do
+this using the CUP from the hopper's hold.
+
+The fastest path from the first room (south of the entrance) to the
+room with the dead man is EAST, SOUTH, EAST, SOUTH, NORTH.
+
+The fastest path from the room with the dead man to the exit is NORTH,
+SOUTH, EAST, NORTH.
+
+The fastest path from the first room (south of the entrance) to the
+exit is SOUTH, SOUTH, EAST, NORTH.
+
+
+The Body in the Labyrinth
+-------------------------
+
+The rats have stolen the dead man's knob and dragged it into their
+hole. You need to be in the room containing the dead man and you need
+to have the scepter. Now all you have to do is PROBE HOLE using the
+SCEPTER and then TAKE YELLOW (knob).
+
+
+The Roc on the Pillar
+---------------------
+
+In the far southeast corner of the city stands a fluted pillar and on
+that pillar sits a hungry roc. In order to get atop the pillar without
+being eaten you must have the loaf from the autodispenser room and the
+net from the hopper's hold. First you need to EMPTY NET. When you get
+to the square with the pillar, go UP. Timing is now of the essence and
+the rest of the sequence must be executed exactly in this order and
+without delay: DROP LOAF, DROP NET, UP, TAKE PURPLE (knob), DOWN,
+DOWN, WEST.
+
+
+The Statues
+-----------
+
+When solving the riddle of the statues you, too, must become a vandal.
+Bringing the chain from the hopper's hold, PULL STATUE using the CHAIN
+and targeting the GARGOYLE. Now you can TAKE BLACK (knob).
+
+
+The Gob of Goo
+--------------
+
+The gob of goo which you find at the Martian inn contains, of course,
+a knob. In order to obtain it you must have the bowl from the hopper's
+hold. Go to the pool and FILL BOWL. Then DROP GOO. You can now TAKE
+WHITE (knob). The water will have turned into paste. Save it! You will
+need it later.
+
+
+The Tube
+--------
+
+Quite far to the east there is a tube crossing over the canal. Before
+you can solve the problem with the tube you need to figure out what to
+do with the gob of goo (see above).
+
+Bringing the bowl of paste, go to the platform (UP the granite stairs)
+and EMPTY BOWL. This alone does not provide enough friction so go
+outside the city and FILL BOWL (with sand). Go back to the platform
+and again EMPTY BOWL. Now you can go NORTH and TAKE ORANGE (knob).
+
+
+The Domed Room
+--------------
+
+The captain has hidden his note in the ceiling above the domed room
+north of the large plaza. Here you will need Ijjit's involuntary help,
+but Ijjit will not normally go in there with you.
+
+Go to the autodispenser room and fill the bottle. On your way to the
+domed room, DRINK WINE exactly twice (or Ijjit will drink himself to
+death). When you have reached the plaza, OPEN BOTTLE and immediately
+CLOSE BOTTLE. Ijjit is now inside drinking. Go NORTH, NORTH to the
+domed room where you OPEN BOTTLE to release Ijjit. Now CLOSE BOTTLE
+and go EAST. When Ijjit has done his thing, TAKE NOTE.
+
+
+The Tiled Courtyard
+-------------------
+
+Just east of the northern end of the pool is a tiled courtyard. In
+order to reveal its secrets you must make the tiles wet. Use the bowl
+from the hopper's hold. By the pool, FILL BOWL, then go to the
+courtyard and EMPTY BOWL. You can now go DOWN to the canal.
+
+
+The Fountain
+------------
+
+Before you can solve the problem with the fountain you must solve the
+problems with the tiled courtyard and the domed room.
+
+Your first problem will be to reach the fountain in the first place.
+This requires the panel, but you can get the panel across neither the
+bridge nor the tube. The remaining alternative is the pool. Go to the
+south end of the pool and THROW PANEL. You can then go DOWN from the
+tiled courtyard and follow the canal EAST until you can TAKE PANEL. Go
+to the northernmost end of the pool and DROP PANEL. Now you can reach
+the fountain by going SOUTH, SOUTH.
+
+But you still cannot take the red knob without using the orb. Take the
+orb to the mouth of the tube. DROP ORB, then PUSH ORB. Fetch it by the
+trampoline, bring it to the middle of the panel bridge and DROP ORB.
+Now you can go SOUTH and TAKE RED (knob). (If Ijjit is with you at
+this point he will throw the knob into the pool, and it will be
+forever lost.)
+
+
+The Brazen Grill
+----------------
+
+Before you can solve the problem with the grill you must solve the
+problem with the fountain.
+
+When you have solved the problem with the tiled courtyard you can
+follow the canal to its eastern end, where you will find a brazen
+grill. PRY GRILL with the STAFF and you will be able to TAKE GREEN
+(knob).
+
+
+The Blue Knob
+-------------
+
+Found all the knobs except the blue one (fuel injector)? Have no fear!
+That one is the easiest of all. Just go the the ship's storage and
+TAKE SAPPHIRE, then TAKE BLUE (knob).
+
+
+The Control Panel
+-----------------
+
+Solving the problem with the control panel and starting the ship
+requires that you have previously solved all other problems in the
+game. You need all the knobs plus the captain's note and the page from
+the manual (which you will find if you go DOWN, WEST from the tiled
+courtyard).
+
+As you bring back the knobs to the ship, INSERT BLUE (knob), INSERT
+RED (knob), etc, until you have all the knobs in their proper places.
+Next, make sure that you have listened to the entire log (go to the
+captain's quarters and PUSH BUTTON) and read the manual page.
+
+You can now proceed to decipher the captain's note. Just start reading
+in the top left corner. Read down, then right and follow the text as
+it spirals counter-clockwise toward the centre. Combining the
+information from the page and the note, TURN BLUE, TURN RED, etc,
+until you have set all the knobs to their correct values.
+
+The fuel injector's blue knob must be set to 16.
+The magnetic regulator's red knob must be set to 430.
+The gyroscopic inhibitor's green knob must be set to 30.
+The drift adjustor's yellow knob must be set to 180.
+The wave enhancer's purple knob must be set to 6.
+The phase shifter's orange knob must be set to 240.
+The pressure magnifier's white knob must be set to 33.
+The spindizzy coupler's black knob must be set to 40.
+
+Finally, if you feel confident that everything is in order, just PUSH
+BUTTON and you have completed the game!
+
+
+Scoring
+-------
+
+The following are the actions that score points and the value of each.
+
+Opening Ijjit's chest        50
+Pouring water on the tiles   50
+Pushing the brick            50
+Releasing Ijjit from bottle  50
+Taking the blue knob         10
+Taking the red knob          10
+Taking the green knob        10
+Taking the yellow knob       10
+Taking the purple knob       10
+Taking the orange knob       10
+Taking the white knob        10
+Taking the black knob        10
+Inserting the blue knob      15
+Inserting the red knob       15
+Inserting the green knob     15
+Inserting the yellow knob    15
+Inserting the purple knob    15
+Inserting the orange knob    15
+Inserting the white knob     15
+Inserting the black knob     15
+
+Total                       400
+
+
+Bugs
+----
+
+The Lost City is not without its share of bugs. Most are harmless,
+however, and some are rather amusing. Here are a handful of the most
+interesting.
+
+If you slide down the tube with a full bowl, the contents will of
+course spill all over the place. Even if you have placed the bowl in
+an entirely different part of town...
+
+When you climb halfway up the pillar and drop something it will fall
+to the ground since there is no surface on which to put it. But if you
+throw an object instead it will remain hanging in the air beside you.
+
+Are you becoming tired of Ijjit's constant remarks? While Ijjit is
+with you, you can type DROP RUBBLE and have the satisfaction of seeing
+his dead body on the ground. He will keep up the comments, though.

@@ -1,0 +1,22 @@
+Wake up
+N
+W
+N
+D
+S
+X graffiti (don't examine anything else until you've got the pill)
+N
+U
+S
+E
+S
+Lie on bed
+Sleep
+E
+Get notepad
+W
+(wait for Mr Green to appear)
+Give notepad to green (acquire remote control)
+G (acquire gizmo)
+G (acquire suicide pill)
+Eat pill

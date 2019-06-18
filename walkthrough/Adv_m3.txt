@@ -1,0 +1,31 @@
+Vending Machine Maze
+
+A: West end of long hall
+B: Dead end
+1: Maze of twisty little passages, all different
+2: Maze of little twisty passages, all different
+3: Little maze of twisty passages, all different
+4: Twisty little maze of passages, all different
+5: Twisting maze of little passages, all different
+6: Little maze of twisting passages, all different
+7: Maze of twisting little passages, all different
+8: Maze of little twisting passages, all different
+9: Little twisty maze of passages, all different
+10: Twisty maze of little passages, all different
+11: Twisting little maze of passages, all different
+
+
+Room	N	S	E	W	U	D	SE	SW	NE	NW
+
+1	2	7	9	8	4	A	4	2	5	10
+2	11	8	3	5	9	4	10	10	6	7
+3	5	11	8	4	7	2	6	10	9	1
+4	1	5	11	5	6	3	5	9	8	2
+5	9	6	10	3	1	7	2	4	11	8
+6	3	B	5	9	2	8	4	7	10	11
+7	8	2	6	1	10	9	3	11	11	5
+8	4	10	7	11	5	9	9	2	3	11
+9	10	3	2	6	11	5	1	8	7	4
+10	6	4	1	7	3	11	8	5	2	9
+11	7	9	4	2	8	10	5	8	1	2
+B	6	-	-	-	-	-	-	-	-	-

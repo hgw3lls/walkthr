@@ -1,0 +1,108 @@
+Walkthrough for Conrad Button's Special Agent
+=============================================
+
+HOTEL
+answer telephone
+examine bed > camera
+examine dresser > drawer
+open drawer > jeans
+e
+go cab
+examine cab > billfold
+get billfold
+examine billfold > money
+e
+pay driver
+go airport
+
+AIRPORT
+d
+read graffiti
+u
+s
+buy ticket
+s
+go sst
+go airport
+say parabellum > key
+s, e
+go train
+
+e, n, e > Fun House
+e e u d n e s (coat) w n e d (map) w u
+w s s
+go boat, untie boat, start boat, e s s s e,
+go dock (krasnovodsk)
+
+KRASNOVODSK
+e > net
+w, go boat etc
+w, throw net > sturgeon
+n, go dock (astrakhan)
+
+ASTRAKHAN
+s, sell sturgeon to agent > money, drop net
+n, go boat etc
+s, w, go dock (baku)
+
+BAKU
+n
+give passport
+n
+buy light, buy waders
+s, s, go boat etc
+e n n n go dock (kazan)
+
+KAZAN
+e, examine key (218), u, unlock apartment, 218
+go apartment, drop key
+s, examine dresser > drawer, open drawer > bag
+open bag > compass
+n e, light light > rifle, w, drop light
+w d w, go boat etc
+s, go dock (volgograd)
+
+VOLGOGRAD
+w s, go shop, buy knife
+n n e, go boat etc
+s s e, go dock (krasnovodsk)
+
+KRASNOVODSK
+e e, ride donkey, e e
+n d e, steal cheese
+d > hat
+s, feed rat > matches
+u, steal soap
+n w n, take bath, drop soap
+s u s e, go balloon, examine balloon, light burner
+s, shoot yak, cut yak > meat, drop rifle, drop knife
+go balloon, light burner
+n w, ride donkey, w w w w, go boat etc
+w n n, go dock(volgograd)
+
+VOLGOGRAD
+w w, examine pool, go pool > cutters
+drop hat, waders, coat
+n e e, go boat etc
+s s e, go dock (krasnovodsk)
+
+KRASNOVODSK
+n e e n, open box, pull handle, cut fence
+go fence, give jeans, e, photograph missile
+w w s w w, go boat etc
+w n, go dock
+
+ASTRAKHAN
+n e, feed dog meat
+open gate, go bomber, start bomber, fly bomber
+
+US
+land, jump down, go limousine, give badge
+w, knock door, yes, give photo
+
+<beep-beep time>
+
+
+*************************
+Solved by Ambat Sasi Nair
+*************************

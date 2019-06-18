@@ -1,0 +1,150 @@
+The Abbey v.1.1 -- By Art LaFrana  
+Solution by A.De Lisle (rad@crl.com)
+Date: Oct 16, 1995 
+ 
+Prologue:  Even though your main object is to find the lost treasures,
+this is not a treasure hunt.  You will not find them scattered about.
+This game has lots of atmosphere and you should explore extensively
+before playing.  While playing, save, explore and restore.
+Make a map.  There are a few rooms that do not exit
+to the expected place, so make marginal notes.  
+There are three ways presented here to solve this game:
+ 
+Option One:  Register and get hints from the author.
+  Art LaFrana  PO Box 79  Pottsdown PA 19464  (as of 8-95)
+  email:  lafrana@omni.voicenet.com
+ 
+Option Two: If you are not in the US or otherwise inclined, 
+            read the Objective list and do them by yourself.
+ 
+Option Three: When you are stuck, see the spoiler walk-thru in part 2.
+----------------------------------------------------------------------
+Part One -- Objective list:
+ 1. Infirmary -- get the lamp.
+ 2. Outside the Infirmary -- read message #1.
+ 3. East Chapel -- view the pews.
+ 4. South Tower -- get the rope.
+ 5. North Chapel -- view the pews.
+ 6. Catacombs -- read message #2.
+ 7. Catacombs -- get rod.
+ 8. Catacombs -- get rock.
+ 9. South Chapel -- view pews.
+10. Smithy's Cell -- read message #3.
+11. Catacombs -- get Staff.
+12. Various locations -- kill the Swordsman.
+13. Inside Gate -- get key.
+14. West Tower -- get diary.
+15. South Tower -- get box and book.
+16. Various Locations -- say the word.
+17. West Chapel -- find it.
+18. West Chapel -- open box.
+19. In Town -- find creature.
+20. Catacombs -- find treasures.
+21. Outside -- win.
+------------------------------------------------------------------
+Part Two -- Spoiler walk-thru.  Starting rank = NOVICE
+------------------------------------------------------------------
+1.  Get the lamp:
+Windswept Path -- N, PULL ROPE, E, N, N, W, D, GET LAMP
+------------------------------------------------------------------
+2.  Read Message #1:
+Storage Cellar -- U, W, NE, READ MESSAGE 
+------------------------------------------------------------------
+3.  East Chapel--view the pews [you will pass this room often]
+Behind Infirmary -- SW, E, E, S, S, E, E, E, EXAMINE FRESCO
+(this fresco is an important clue for later)
+E, X PEW ( 6 rows of 9 pews; notch on pew 6, row 5 )
+------------------------------------------------------------------
+4.  Get the rope:
+East Chapel -- X ALTAR, MOVE ALTAR, D, LIGHT LAMP, N (X BONES, PRAY),
+N (WIND), U, U, U, PUSH PANEL, N, N, W, S, S, SE, X TABLE, GET ROPE
+(When you hear the beep, rank = APPRENTICE)
+------------------------------------------------------------------
+5.  North Chapel --view the pews.
+Round Table -- NW, N, N, E, E, N, E, D, W, W, D, E, SW, S, X PEW
+( 4 rows of 30 pews; notch in pew 4, row 3 )
+------------------------------------------------------------------
+6.  Read message #2:
+North Chapel -- S, E, D, N, E, E, E (DUST), S, S, SW (LIGHT),
+READ MESSAGE
+------------------------------------------------------------------
+7.  Get the rod:
+(LIGHT) -- S, X PIT, TIE ROPE TO RING, D, GET ROD
+------------------------------------------------------------------
+8.  Get the rock:
+Pit -- U, N (LIGHT), E, S, SW, E (BATS), GET ROCK
+------------------------------------------------------------------
+9.  South Chapel--view the pews:
+BATS -- E, SW, N, E, E (WATER), E, S, S, E, N, E, X PEW
+( 2 rows of 6 pews; notch in pew 2, row 2 )
+------------------------------------------------------------------
+10.  Read message #3:
+South Chapel -- N, E, S, S, D, PRY LOCK WITH ROD, N, READ MESSAGE
+------------------------------------------------------------------
+11.  Get the Staff:
+Cell -- S, U, N, N, W, D, N, E, S, E, E, S, SW, S, D,
+PUSH FOURTH STONE, PUSH NINTH STONE, PUSH THIRD STONE, PUSH FIRST
+STONE, PUSH SECOND STONE, PUSH FIFTH STONE, PUSH EIGHTH STONE,
+N, N, GET STAFF, S, S
+-----------------------------------------------------------------
+12.  Kill the Swordsman:
+Pit -- U, N, E, S, S, SW, E, E (path), SW, N, E, CLOSE GATE, 
+PULL ROPE OUT, PUSH ROCK IN HOLE, E, S, E, E, E, E, N, E (stable)
+X WAGON, PUSH ROD IN HOLE, PUSH WAGON WEST, W, PUSH WAGON SOUTH,
+S, PUSH WAGON WEST, W, PUSH WAGON WEST, W, W, W, W, PUSH WAGON N,
+N, X STAFF (when you hear the beep, rank = HUNTED)
+E, N, E, E, NE (Refectory--hear scream, beep, rank = LIBRARIAN)
+-----------------------------------------------------------------
+13.  Get the key:
+Refectory -- SW, W, W, S, W, SEARCH MAN, OPEN GATE
+-----------------------------------------------------------------
+14.  Get the Black Book:
+Inside Gate -- E, E, E, E, D, N, N, U, U, U, PUSH PANEL, N, N, N,
+N, N, W, W, W, S, S, W, NW, S, W, SE, GET BOOK, READ BOOK
+-----------------------------------------------------------------
+15.  Enter Librarian's Private Room:
+Oldest room -- NW, E, N, SE, E, N, N, E, E, E, S, S, S, W, S, S, 
+S, S, UNLOCK DOOR, NW, GET BOX, GET DIARY, READ DIARY
+(can X BOX or wait until later)
+-----------------------------------------------------------------
+16.  Saying the 'word' in the correct rooms:
+Private -- SE, N, N, N, N, E, E, N, E, D, W, W, D, E, SE, S, W,
+D, N, N (WIND), HEPHAESTUS (response: The path has started)
+S, E, S, E, E, S, SW, E, S, SW, E (BATS), HEPHAESTUS 
+(response:  Are you certain?)
+E, SW, N, E (Inside Gate), E, E, E, E, D, N, E, E, SE, S, SW (LIGHT)
+HEPHAESTUS (response: It's not too late to turn back.)
+E, NW, NE, N (DUST), HEPHAESTUS, GET COIN
+-----------------------------------------------------------------
+17.  Find the West Chapel:
+(DUST) -- W, W, W, S, U, E, S, W, W, W, W, N (WATER), 
+THROW COIN IN FOUNTAIN, D, N (West Chapel), X PEW
+( 30 rows of 30 pews; notch in pew 12, row 26 )
+-----------------------------------------------------------------
+18.  Open the box:
+West Chapel -- X BOX (description of dials), X DIALS,
+TURN FIRST DIAL TO 64,  ( North Chapel 2x30 = 60 +4 =64 )
+TURN SECOND DIAL TO 8,  ( South Chapel 1x6  =  6 +2 = 8 )
+TURN THIRD DIAL TO 42,  ( East Chapel  4x9 = 36 +6  =42 )
+TURN FOURTH DIAL TO 762, (West Chapel 25x30 =750+12 =762)
+OPEN BOX, GET ORB  (When you hear the beep, rank = DREAMER)
+------------------------------------------------------------------
+19.  Find the Black Creature:
+West Chapel -- S, U, N, E, E, NE, S, D, SW, SW, SW, W, W, W,
+S, E, E, X WELL, THROW ORB AT CREATURE
+(when you hear the beep, rank = SCHOLAR)
+-----------------------------------------------------------------
+NOTE: The rooms have changed.  Save, explore, restore.
+-----------------------------------------------------------------
+20.  Find the treasures:
+Room at Inn -- GET LAMP, S, S, W, W, W, NW, N, N, N (Windswept Path)
+N, PULL ROPE, E, E, E, E, E, X ALTAR, MOVE ALTAR, D, N, N, U, U, U,
+PUSH PANEL, N, N, W, S, S, SE, GET ROPE, NW, N, N, E, E, N, E, D, 
+W, W, D, E, SW, S, S, E, D, N, E, S, E, E, S, SW, S, X PIT, 
+TIE ROPE TO RING, D, (repeat pushing stones as before), N
+-----------------------------------------------------------------
+21.  WIN!
+Treasure Room -- S, U, N (meet guard), E, S, SW, E (BATS), E,
+SW, S, S, S, SE, S, S -> WIN (rank = MASTER )
+===================================================================
+
